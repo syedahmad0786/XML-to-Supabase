@@ -1,0 +1,132 @@
+{
+  "name": "AI Sales Agent — Daily Pipeline",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{ "field": "hours", "hoursInterval": 24 }]
+        }
+      },
+      "name": "Daily Trigger (8 AM)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [100, 300],
+      "notes": "Triggers the pipeline every day at 8 AM"
+    },
+    {
+      "parameters": {
+        "url": "={{$env.AGENT_API_URL}}/api/pipeline/run",
+        "method": "POST",
+        "bodyParameters": {
+          "parameters": [
+            { "name": "apolloPages", "value": "2" },
+            { "name": "maxLeads", "value": "50" }
+          ]
+        },
+        "options": {
+          "timeout": 300000
+        }
+      },
+      "name": "Run Pipeline",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [320, 300],
+      "notes": "Triggers the full lead sourcing → scoring → enrichment → outreach pipeline"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "number": [
+            {
+              "value1": "={{$json.outreachStarted}}",
+              "operation": "larger",
+              "value2": 0
+            }
+          ]
+        }
+      },
+      "name": "Any Outreach Started?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [540, 300]
+    },
+    {
+      "parameters": {
+        "url": "={{$env.SLACK_WEBHOOK_URL}}",
+        "method": "POST",
+        "body": "={\"text\": \"Daily pipeline complete: {{$json.sourced}} sourced → {{$json.qualified}} qualified → {{$json.outreachStarted}} outreach started\"}"
+      },
+      "name": "Slack Summary",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [760, 200],
+      "notes": "Posts daily summary to Slack"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{ "field": "hours", "hoursInterval": 1 }]
+        }
+      },
+      "name": "Hourly Sequence Check",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [100, 500],
+      "notes": "Checks for sequences that need to advance"
+    },
+    {
+      "parameters": {
+        "url": "={{$env.AGENT_API_URL}}/api/sequences/advance",
+        "method": "POST"
+      },
+      "name": "Advance Sequences",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [320, 500],
+      "notes": "Advances outreach sequences for leads whose delay period has elapsed"
+    },
+    {
+      "parameters": {
+        "path": "inbound-reply",
+        "httpMethod": "POST"
+      },
+      "name": "Inbound Reply Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [100, 700],
+      "notes": "Receives inbound replies from email/LinkedIn/IG integrations"
+    },
+    {
+      "parameters": {
+        "url": "={{$env.AGENT_API_URL}}/api/replies/handle",
+        "method": "POST",
+        "body": "={{JSON.stringify($json)}}"
+      },
+      "name": "Handle Reply",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [320, 700],
+      "notes": "Routes inbound reply through sentiment analysis → response generation"
+    }
+  ],
+  "connections": {
+    "Daily Trigger (8 AM)": {
+      "main": [[{ "node": "Run Pipeline", "type": "main", "index": 0 }]]
+    },
+    "Run Pipeline": {
+      "main": [[{ "node": "Any Outreach Started?", "type": "main", "index": 0 }]]
+    },
+    "Any Outreach Started?": {
+      "main": [
+        [{ "node": "Slack Summary", "type": "main", "index": 0 }],
+        []
+      ]
+    },
+    "Hourly Sequence Check": {
+      "main": [[{ "node": "Advance Sequences", "type": "main", "index": 0 }]]
+    },
+    "Inbound Reply Webhook": {
+      "main": [[{ "node": "Handle Reply", "type": "main", "index": 0 }]]
+    }
+  }
+}

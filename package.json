@@ -1,0 +1,49 @@
+{
+  "name": "ai-sales-growth-agent",
+  "version": "1.0.0",
+  "description": "Autonomous end-to-end AI Sales & Growth Agent for full-funnel lead generation, psychological profiling, and multi-channel outreach",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "pipeline:run": "tsx src/orchestrator/pipeline.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "eslint src/",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@google-cloud/aiplatform": "^3.0.0",
+    "@pinecone-database/pinecone": "^4.0.0",
+    "@supabase/supabase-js": "^2.49.0",
+    "axios": "^1.7.9",
+    "bull": "^4.16.0",
+    "cheerio": "^1.0.0",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.4.7",
+    "googleapis": "^144.0.0",
+    "ioredis": "^5.4.0",
+    "linkedIn-private-api": "^1.0.0",
+    "nodemailer": "^6.9.0",
+    "openai": "^4.80.0",
+    "p-queue": "^8.0.0",
+    "uuid": "^11.0.0",
+    "winston": "^3.17.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/bull": "^4.10.0",
+    "@types/node": "^22.0.0",
+    "@types/nodemailer": "^6.4.0",
+    "@types/uuid": "^10.0.0",
+    "eslint": "^9.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

@@ -1,0 +1,53 @@
+version: "3.9"
+
+services:
+  # ─── AI Sales Agent ────────────────────────────────────────────
+  agent:
+    build: .
+    container_name: sales-agent
+    env_file: .env
+    depends_on:
+      - redis
+    restart: unless-stopped
+    volumes:
+      - ./credentials:/app/credentials:ro
+    networks:
+      - agent-network
+
+  # ─── Redis (Queue + Cache) ─────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    container_name: sales-agent-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    command: redis-server --appendonly yes
+    restart: unless-stopped
+    networks:
+      - agent-network
+
+  # ─── n8n (Workflow Orchestration) ──────────────────────────────
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: sales-agent-n8n
+    ports:
+      - "5678:5678"
+    environment:
+      - N8N_BASIC_AUTH_ACTIVE=true
+      - N8N_BASIC_AUTH_USER=${N8N_USER:-admin}
+      - N8N_BASIC_AUTH_PASSWORD=${N8N_PASSWORD:-changeme}
+      - WEBHOOK_URL=${N8N_WEBHOOK_URL:-http://localhost:5678}
+    volumes:
+      - n8n-data:/home/node/.n8n
+    restart: unless-stopped
+    networks:
+      - agent-network
+
+volumes:
+  redis-data:
+  n8n-data:
+
+networks:
+  agent-network:
+    driver: bridge
