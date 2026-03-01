@@ -191,13 +191,72 @@ painPointMapping, and competitiveIntel fields. Keep it brief but actionable.`;
     }
   }
 
+  /**
+   * Fetch a person's recent public activity across multiple sources:
+   * - Google News for their published articles, talks, and media mentions
+   * - Company about/team pages for biography and role mentions
+   */
   private async fetchPersonActivity(lead: Lead): Promise<string[]> {
-    // In production, this would integrate with LinkedIn API or scraping service
-    // to fetch recent posts, articles, and activity
     const activities: string[] = [];
 
     if (lead.linkedInUrl) {
       activities.push(`LinkedIn profile: ${lead.linkedInUrl}`);
+    }
+
+    // Search Google News for the person's public activity and mentions
+    const queries = [
+      `"${lead.fullName}" "${lead.company.name}"`,
+      `"${lead.fullName}" ${lead.company.industry} conference OR podcast OR article`,
+    ];
+
+    for (const query of queries) {
+      try {
+        const encoded = encodeURIComponent(query);
+        const response = await axios.get(
+          `https://news.google.com/rss/search?q=${encoded}&hl=en-US&gl=US&ceid=US:en`,
+          { timeout: 8000 }
+        );
+
+        const $ = cheerio.load(response.data, { xmlMode: true });
+        $("item").each((i, el) => {
+          if (i >= 5) return;
+          const title = $(el).find("title").text();
+          const date = $(el).find("pubDate").text();
+          if (title) {
+            activities.push(`[${date}] ${title}`);
+          }
+        });
+      } catch {
+        logger.warn(`Person activity search failed for query: ${query}`);
+      }
+    }
+
+    // Try to fetch company about/team page for biographical mentions
+    if (lead.company.domain) {
+      try {
+        const aboutResponse = await axios.get(
+          `https://${lead.company.domain}/about`,
+          {
+            timeout: 8000,
+            headers: { "User-Agent": "Mozilla/5.0 (compatible; SalesResearchBot/1.0)" },
+            validateStatus: (status) => status < 500,
+          }
+        );
+
+        if (aboutResponse.status === 200) {
+          const $ = cheerio.load(aboutResponse.data);
+          const pageText = $("body").text().slice(0, 3000);
+          const nameRegex = new RegExp(`[^.]*${lead.lastName}[^.]*\\.`, "gi");
+          const mentions = pageText.match(nameRegex);
+          if (mentions) {
+            activities.push(
+              ...mentions.slice(0, 3).map((m) => `Company page mention: ${m.trim()}`)
+            );
+          }
+        }
+      } catch {
+        // About page may not exist — skip silently
+      }
     }
 
     return activities;

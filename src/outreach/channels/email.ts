@@ -22,18 +22,29 @@ interface EmailSendResult {
  * - SPF, DKIM, DMARC configuration
  */
 export class EmailChannel {
-  private transporter: Transporter;
+  private transporter: Transporter | null;
+  private configured: boolean;
 
   constructor() {
-    this.transporter = nodemailer.createTransport({
-      host: config.email.smtpHost,
-      port: config.email.smtpPort,
-      secure: config.email.smtpPort === 465,
-      auth: {
-        user: config.email.smtpUser,
-        pass: config.email.smtpPassword,
-      },
-    });
+    this.configured = !!(config.email.smtpUser && config.email.smtpPassword && config.email.fromAddress);
+
+    if (this.configured) {
+      this.transporter = nodemailer.createTransport({
+        host: config.email.smtpHost,
+        port: config.email.smtpPort,
+        secure: config.email.smtpPort === 465,
+        auth: {
+          user: config.email.smtpUser,
+          pass: config.email.smtpPassword,
+        },
+      });
+    } else {
+      this.transporter = null;
+      logger.warn(
+        "SMTP not configured (SMTP_USER, SMTP_PASSWORD, or EMAIL_FROM_ADDRESS missing). " +
+        "Email steps will be logged but not sent."
+      );
+    }
   }
 
   /**
@@ -49,6 +60,12 @@ export class EmailChannel {
 
     if (!email) {
       return { success: false, error: "No verified email for this lead" };
+    }
+
+    if (!this.configured || !this.transporter) {
+      const { subject } = this.parseContent(content, lead);
+      logger.info(`[DRY RUN] Email to ${lead.fullName} <${email}>: ${subject}`);
+      return { success: true, messageId: `dry-run-${Date.now()}` };
     }
 
     const { subject, body } = this.parseContent(content, lead);

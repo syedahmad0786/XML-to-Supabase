@@ -83,8 +83,24 @@ export class LeadSourcer {
         }
       );
 
-      const people: ApolloPersonResult[] = response.data.people || [];
-      logger.info(`Apollo returned ${people.length} results for page ${page}`);
+      const rawPeople = response.data?.people;
+      if (!Array.isArray(rawPeople)) {
+        logger.warn("Apollo response missing 'people' array — unexpected schema", {
+          keys: Object.keys(response.data ?? {}),
+        });
+        return [];
+      }
+
+      // Validate required fields before processing
+      const people = rawPeople.filter((p: Record<string, unknown>) => {
+        if (!p.first_name || !p.last_name) {
+          logger.warn("Skipping Apollo result with missing name fields", { id: p.id });
+          return false;
+        }
+        return true;
+      }) as ApolloPersonResult[];
+
+      logger.info(`Apollo returned ${people.length} valid results for page ${page}`);
 
       return people
         .filter((person) => this.passesDisqualifiers(person, icp))
@@ -123,8 +139,24 @@ export class LeadSourcer {
         }
       );
 
-      const rows = response.data.rows || [];
-      logger.info(`Clay returned ${rows.length} rows from table ${tableId}`);
+      const rawRows = response.data?.rows;
+      if (!Array.isArray(rawRows)) {
+        logger.warn("Clay response missing 'rows' array — unexpected schema", {
+          keys: Object.keys(response.data ?? {}),
+        });
+        return [];
+      }
+
+      // Validate each row has minimum required fields
+      const rows = rawRows.filter((row: Record<string, unknown>) => {
+        if (!row.first_name && !row.last_name && !row.email) {
+          logger.warn("Skipping Clay row with no identifiable fields");
+          return false;
+        }
+        return true;
+      });
+
+      logger.info(`Clay returned ${rows.length} valid rows from table ${tableId}`);
 
       return rows.map((row: Record<string, string>) => this.clayRowToLead(row));
     } catch (error) {

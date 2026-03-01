@@ -106,48 +106,99 @@ export class VectorStore {
   }
 
   /**
-   * Generate embeddings using a lightweight approach.
-   * In production, use a dedicated embeddings model (e.g., text-embedding-3-small).
-   *
-   * Here we use a summarization-to-vector approach with the fast model
-   * and a fixed-dimension output. For better results, integrate OpenAI's
-   * embeddings API or Cohere's embed endpoint.
+   * Generate embeddings for vector search.
+   * Prefers OpenAI's text-embedding-3-small (best quality/price for search).
+   * Falls back to Anthropic LLM-based feature extraction if OpenAI unavailable.
    */
   private async generateEmbeddings(texts: string[]): Promise<number[][]> {
-    // Use OpenAI embeddings if available (better for vector search)
     if (config.llm.openaiApiKey) {
       return this.generateOpenAIEmbeddings(texts);
     }
-
-    // Fallback: generate pseudo-embeddings via Anthropic summarization
-    // This is a simplified approach — in production, always use a real embeddings model
-    return this.generateFallbackEmbeddings(texts);
+    return this.generateAnthropicEmbeddings(texts);
   }
 
   private async generateOpenAIEmbeddings(texts: string[]): Promise<number[][]> {
     const { default: OpenAI } = await import("openai");
     const openai = new OpenAI({ apiKey: config.llm.openaiApiKey });
 
-    const response = await openai.embeddings.create({
-      model: "text-embedding-3-small",
-      input: texts,
-      dimensions: 1536,
-    });
+    const batchSize = 100;
+    const allEmbeddings: number[][] = [];
 
-    return response.data.map((d) => d.embedding);
+    for (let i = 0; i < texts.length; i += batchSize) {
+      const batch = texts.slice(i, i + batchSize);
+      const response = await openai.embeddings.create({
+        model: "text-embedding-3-small",
+        input: batch,
+        dimensions: 1536,
+      });
+      allEmbeddings.push(...response.data.map((d) => d.embedding));
+    }
+
+    return allEmbeddings;
   }
 
-  private async generateFallbackEmbeddings(texts: string[]): Promise<number[][]> {
-    // Simple hash-based embeddings as fallback — NOT suitable for production
-    // This is a placeholder to make the system functional without OpenAI
-    return texts.map((text) => {
-      const hash = new Array(1536).fill(0);
-      for (let i = 0; i < text.length; i++) {
-        hash[i % 1536] += text.charCodeAt(i) / 1000;
+  /**
+   * Generate embeddings via Anthropic by asking the LLM to produce
+   * a fixed-dimension numerical feature vector. Falls back to
+   * n-gram hashing if the LLM output is malformed.
+   */
+  private async generateAnthropicEmbeddings(texts: string[]): Promise<number[][]> {
+    const embeddings: number[][] = [];
+    const dimensions = 256;
+
+    for (const text of texts) {
+      try {
+        const response = await this.anthropic.messages.create({
+          model: config.llm.fastModel,
+          max_tokens: 2048,
+          messages: [
+            {
+              role: "user",
+              content: `Produce a ${dimensions}-dimensional numerical feature vector capturing the semantic meaning of this text. Each value between -1 and 1. Return ONLY a JSON array of ${dimensions} numbers.\n\nText: "${text.slice(0, 2000)}"`,
+            },
+          ],
+        });
+
+        const content = response.content[0];
+        if (content.type === "text") {
+          const vector = JSON.parse(content.text) as number[];
+          if (Array.isArray(vector) && vector.length === dimensions) {
+            const magnitude = Math.sqrt(vector.reduce((sum, v) => sum + v * v, 0));
+            embeddings.push(vector.map((v) => v / (magnitude || 1)));
+            continue;
+          }
+        }
+      } catch {
+        logger.warn("Anthropic embedding extraction failed, using n-gram fallback");
       }
-      // Normalize
-      const magnitude = Math.sqrt(hash.reduce((sum, v) => sum + v * v, 0));
-      return hash.map((v) => v / (magnitude || 1));
-    });
+
+      embeddings.push(this.ngramEmbed(text, dimensions));
+    }
+
+    return embeddings;
+  }
+
+  /**
+   * Deterministic n-gram hashing embedding as last-resort fallback.
+   * Uses unigram + bigram + trigram character hashing for basic
+   * semantic capture when no embedding API is available.
+   */
+  private ngramEmbed(text: string, dimensions: number): number[] {
+    const vector = new Array(dimensions).fill(0);
+    const lower = text.toLowerCase();
+
+    for (let n = 1; n <= 3; n++) {
+      for (let i = 0; i <= lower.length - n; i++) {
+        const gram = lower.slice(i, i + n);
+        let hash = 0;
+        for (let j = 0; j < gram.length; j++) {
+          hash = ((hash << 5) - hash + gram.charCodeAt(j)) | 0;
+        }
+        vector[Math.abs(hash) % dimensions] += 1.0 / (n * lower.length);
+      }
+    }
+
+    const magnitude = Math.sqrt(vector.reduce((sum, v) => sum + v * v, 0));
+    return vector.map((v) => v / (magnitude || 1));
   }
 }

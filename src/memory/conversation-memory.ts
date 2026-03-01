@@ -44,6 +44,10 @@ export class ConversationMemory {
       content: message.content,
       sentiment_overall: message.sentiment?.overall,
       sentiment_score: message.sentiment?.score,
+      sentiment_intent: message.sentiment?.intent,
+      sentiment_should_stop: message.sentiment?.shouldStop,
+      sentiment_should_escalate: message.sentiment?.shouldEscalate,
+      sentiment_suggested_action: message.sentiment?.suggestedAction,
       created_at: message.timestamp.toISOString(),
     });
 
@@ -90,10 +94,10 @@ export class ConversationMemory {
         ? {
             overall: row.sentiment_overall,
             score: row.sentiment_score ?? 0,
-            intent: "curious" as const,
-            shouldStop: false,
-            shouldEscalate: false,
-            suggestedAction: "",
+            intent: row.sentiment_intent ?? "curious",
+            shouldStop: row.sentiment_should_stop ?? false,
+            shouldEscalate: row.sentiment_should_escalate ?? false,
+            suggestedAction: row.sentiment_suggested_action ?? "",
             analyzedAt: new Date(row.created_at),
           }
         : undefined,

@@ -55,6 +55,10 @@ CREATE TABLE IF NOT EXISTS conversation_messages (
   content TEXT NOT NULL,
   sentiment_overall TEXT,
   sentiment_score NUMERIC,
+  sentiment_intent TEXT,
+  sentiment_should_stop BOOLEAN DEFAULT FALSE,
+  sentiment_should_escalate BOOLEAN DEFAULT FALSE,
+  sentiment_suggested_action TEXT,
   created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
 );
 

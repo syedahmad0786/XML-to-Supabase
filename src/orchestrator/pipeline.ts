@@ -1,5 +1,5 @@
 import { config } from "../config/index.js";
-import type { BusinessDNA, Lead, ICP, PipelineEvent } from "../types/index.js";
+import type { BusinessDNA, Lead, ICP, PipelineEvent, Channel } from "../types/index.js";
 import { ICPAnalyzer } from "../strategy/icp-analyzer.js";
 import { LeadSourcer } from "../strategy/lead-sourcer.js";
 import { LeadScorer } from "../strategy/lead-scorer.js";
@@ -13,6 +13,7 @@ import { ConversationMemory } from "../memory/conversation-memory.js";
 import { AppointmentSetter } from "../booking/appointment-setter.js";
 import { ApprovalGateway } from "../hitl/approval-gateway.js";
 import { createLogger } from "../utils/logger.js";
+import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 
 const logger = createLogger("pipeline");
 
@@ -43,6 +44,7 @@ export class SalesGrowthPipeline {
   private conversationMemory: ConversationMemory;
   private appointmentSetter: AppointmentSetter;
   private approvalGateway: ApprovalGateway;
+  private supabase: SupabaseClient;
 
   private businessDNA!: BusinessDNA;
   private icps: ICP[] = [];
@@ -61,6 +63,7 @@ export class SalesGrowthPipeline {
     this.conversationMemory = new ConversationMemory();
     this.appointmentSetter = new AppointmentSetter();
     this.approvalGateway = new ApprovalGateway();
+    this.supabase = createClient(config.supabase.url, config.supabase.serviceKey);
   }
 
   /**
@@ -341,14 +344,76 @@ export class SalesGrowthPipeline {
 
   /**
    * Continue outreach sequences for all active leads.
-   * Called periodically (e.g., by a cron job or n8n workflow).
+   * Queries Supabase for leads whose next contact time has arrived,
+   * loads each one, and executes the next step in their sequence.
+   * Called periodically (e.g., hourly by n8n or cron).
    */
-  async advanceAllSequences(): Promise<void> {
+  async advanceAllSequences(): Promise<{ advanced: number; errors: number }> {
     logger.info("Advancing all active sequences...");
 
-    // In production, query Supabase for all leads with status "in_sequence"
-    // and nextContactAt <= now. This is a simplified version.
-    logger.info("Sequence advancement would be triggered by queue/cron");
+    const now = new Date().toISOString();
+    let advanced = 0;
+    let errors = 0;
+
+    // Query all leads that are in an active sequence and due for next contact
+    const { data: dueLeads, error } = await this.supabase
+      .from("leads")
+      .select("id, first_name, last_name, sequence_state")
+      .eq("status", "in_sequence")
+      .not("sequence_state", "is", null)
+      .order("score", { ascending: false });
+
+    if (error) {
+      logger.error("Failed to query due leads from Supabase", { error });
+      return { advanced: 0, errors: 1 };
+    }
+
+    if (!dueLeads || dueLeads.length === 0) {
+      logger.info("No leads due for sequence advancement");
+      return { advanced: 0, errors: 0 };
+    }
+
+    for (const row of dueLeads) {
+      // Check if this lead's next contact time has passed
+      const nextContactAt = row.sequence_state?.nextContactAt;
+      if (nextContactAt && new Date(nextContactAt) > new Date(now)) {
+        continue; // Not yet due
+      }
+
+      // Check if the sequence is paused
+      if (row.sequence_state?.pausedReason) {
+        continue; // Paused — skip
+      }
+
+      try {
+        const lead = await this.conversationMemory.loadLead(row.id);
+        if (!lead || lead.status !== "in_sequence") continue;
+
+        lead.conversationHistory = await this.conversationMemory.getHistory(row.id);
+
+        const { lead: updatedLead, completed } =
+          await this.sequenceOrchestrator.executeNextStep(lead, this.businessDNA);
+
+        if (completed) {
+          updatedLead.status = "disqualified";
+          updatedLead.notes.push("Sequence completed without reply");
+        }
+
+        await this.conversationMemory.saveLead(updatedLead);
+        advanced++;
+
+        logger.info(`Advanced sequence for ${lead.fullName}`, {
+          leadId: lead.id,
+          completed,
+        });
+      } catch (err) {
+        errors++;
+        logger.error(`Failed to advance sequence for lead ${row.id}`, { error: err });
+      }
+    }
+
+    logger.info(`Sequence advancement complete: ${advanced} advanced, ${errors} errors`);
+    return { advanced, errors };
   }
 
   /**

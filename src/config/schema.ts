@@ -3,7 +3,7 @@ import { z } from "zod";
 export const configSchema = z.object({
   llm: z.object({
     provider: z.enum(["anthropic", "openai"]).default("anthropic"),
-    anthropicApiKey: z.string().min(1),
+    anthropicApiKey: z.string().min(1, "ANTHROPIC_API_KEY is required"),
     openaiApiKey: z.string().optional(),
     primaryModel: z.string().default("claude-sonnet-4-6"),
     researchModel: z.string().default("claude-opus-4-6"),
@@ -18,8 +18,8 @@ export const configSchema = z.object({
   }),
 
   supabase: z.object({
-    url: z.string().url(),
-    serviceKey: z.string().min(1),
+    url: z.string().min(1, "SUPABASE_URL is required"),
+    serviceKey: z.string().min(1, "SUPABASE_SERVICE_KEY is required"),
   }),
 
   leadSourcing: z.object({
@@ -30,13 +30,14 @@ export const configSchema = z.object({
     linkedInSalesNavCookie: z.string().optional(),
   }),
 
+  // Email is optional — if not configured, email channel will be skipped gracefully
   email: z.object({
     smtpHost: z.string().default("smtp.gmail.com"),
     smtpPort: z.number().default(587),
-    smtpUser: z.string(),
-    smtpPassword: z.string(),
-    fromName: z.string(),
-    fromAddress: z.string().email(),
+    smtpUser: z.string().default(""),
+    smtpPassword: z.string().default(""),
+    fromName: z.string().default(""),
+    fromAddress: z.string().default(""),
   }),
 
   instagram: z.object({

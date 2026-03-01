@@ -24,10 +24,19 @@ interface LinkedInSendResult {
  */
 export class LinkedInChannel {
   private automationEndpoint: string;
+  private configured: boolean;
 
   constructor(automationEndpoint?: string) {
     this.automationEndpoint =
       automationEndpoint ?? process.env.LINKEDIN_AUTOMATION_ENDPOINT ?? "";
+    this.configured = this.automationEndpoint.length > 0;
+
+    if (!this.configured) {
+      logger.warn(
+        "LINKEDIN_AUTOMATION_ENDPOINT not set. LinkedIn steps will be logged but not executed. " +
+        "Set this to your automation tool webhook (Phantombuster, Expandi, Dripify)."
+      );
+    }
   }
 
   /**
@@ -40,6 +49,11 @@ export class LinkedInChannel {
   ): Promise<LinkedInSendResult> {
     if (!lead.linkedInUrl) {
       return { success: false, error: "No LinkedIn URL for this lead" };
+    }
+
+    if (!this.configured) {
+      logger.info(`[DRY RUN] LinkedIn connection request to ${lead.fullName}: ${note.slice(0, 100)}...`);
+      return { success: true, messageId: `dry-run-${Date.now()}` };
     }
 
     if (note.length > 300) {
@@ -87,6 +101,11 @@ export class LinkedInChannel {
   async sendMessage(lead: Lead, message: string): Promise<LinkedInSendResult> {
     if (!lead.linkedInUrl) {
       return { success: false, error: "No LinkedIn URL for this lead" };
+    }
+
+    if (!this.configured) {
+      logger.info(`[DRY RUN] LinkedIn message to ${lead.fullName}: ${message.slice(0, 100)}...`);
+      return { success: true, messageId: `dry-run-${Date.now()}` };
     }
 
     try {

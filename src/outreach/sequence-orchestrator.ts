@@ -289,10 +289,47 @@ export class SequenceOrchestrator {
     }
   }
 
+  /**
+   * Dynamically select and adapt the sequence template based on the lead's
+   * profile, available channels, and score tier.
+   */
   private selectSequenceTemplate(lead: Lead): typeof DEFAULT_SEQUENCE {
-    // In the future, dynamically select sequences based on the lead's
-    // profile and available channels. For now, use the default.
-    return DEFAULT_SEQUENCE;
+    const template = [...DEFAULT_SEQUENCE];
+
+    // Adapt based on psychological profile if available
+    if (lead.profile) {
+      const preferred = lead.profile.preferredContactMethod;
+
+      // Move preferred channel earlier in the sequence
+      if (preferred === "email") {
+        // Swap so email comes first instead of LinkedIn
+        const emailIdx = template.findIndex((s) => s.channel === "email");
+        if (emailIdx > 0) {
+          [template[0], template[emailIdx]] = [template[emailIdx], template[0]];
+        }
+      }
+
+      // Analytical/data-driven profiles get more email (longer form content)
+      if (lead.profile.communicationStyle === "analytical") {
+        // Replace the Instagram step with another email (case study)
+        const igIdx = template.findIndex((s) => s.channel === "instagram");
+        if (igIdx >= 0) {
+          template[igIdx] = { ...template[igIdx], channel: "email" };
+        }
+      }
+
+      // Shorter sequences for "driver" profiles who want to get to the point
+      if (lead.profile.communicationStyle === "driver") {
+        return template.slice(0, 5); // Cut to 5 steps instead of 7
+      }
+    }
+
+    // Lower-scored leads (6-7) get a shorter 4-step sequence
+    if (lead.score >= 6 && lead.score <= 7) {
+      return template.filter((_, i) => [0, 1, 3, 6].includes(i));
+    }
+
+    return template;
   }
 
   private hasChannelInfo(lead: Lead, channel: Channel): boolean {

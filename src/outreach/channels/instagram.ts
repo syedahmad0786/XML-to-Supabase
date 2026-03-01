@@ -110,29 +110,74 @@ export class InstagramChannel {
   }
 
   /**
-   * Check if the lead follows the business account (needed for DM eligibility).
+   * Check DM eligibility by attempting to verify the user exists via business discovery.
+   * Instagram doesn't expose a direct "follows you" check, so we verify the user
+   * is discoverable (public business/creator account) as a proxy for eligibility.
    */
   async checkFollowStatus(instagramHandle: string): Promise<boolean> {
-    // Instagram API doesn't directly support this check publicly
-    // In practice, use a proxy service or check DM eligibility
-    logger.info(`Follow status check for @${instagramHandle} — not available via API`);
-    return true;
+    if (!this.accessToken || !this.accountId) {
+      logger.warn("Instagram API not configured — cannot check follow status");
+      return false;
+    }
+
+    try {
+      const userId = await this.resolveUserId(instagramHandle);
+      if (!userId) {
+        logger.info(`@${instagramHandle} not discoverable via business_discovery — may not be eligible for DMs`);
+        return false;
+      }
+      return true;
+    } catch {
+      return false;
+    }
   }
 
+  /**
+   * Resolve an Instagram handle to an Instagram-scoped user ID (IGSID)
+   * using the Business Discovery API.
+   */
   private async resolveUserId(handle: string): Promise<string | null> {
+    // Strip @ prefix if present
+    const cleanHandle = handle.startsWith("@") ? handle.slice(1) : handle;
+
     try {
       const response = await axios.get(
         `https://graph.instagram.com/v21.0/${this.accountId}`,
         {
           params: {
-            fields: "business_discovery.fields(id,username)",
+            fields: `business_discovery.fields(id,username){username:${cleanHandle}}`,
             access_token: this.accessToken,
           },
           timeout: 10000,
         }
       );
-      return response.data?.business_discovery?.id ?? null;
-    } catch {
+
+      const userId = response.data?.business_discovery?.id;
+      if (!userId) {
+        logger.warn(`Instagram user @${cleanHandle} not found via business_discovery`);
+        return null;
+      }
+
+      return userId;
+    } catch (error) {
+      if (axios.isAxiosError(error)) {
+        const status = error.response?.status;
+        const igError = error.response?.data?.error;
+
+        if (status === 400 && igError?.code === 803) {
+          logger.warn(`Instagram user @${cleanHandle} does not exist or is not a business/creator account`);
+        } else if (status === 190) {
+          logger.error("Instagram access token is invalid or expired");
+        } else {
+          logger.error(`Instagram API error resolving @${cleanHandle}`, {
+            status,
+            code: igError?.code,
+            message: igError?.message,
+          });
+        }
+      } else {
+        logger.error(`Unexpected error resolving Instagram user @${cleanHandle}`, { error });
+      }
       return null;
     }
   }
