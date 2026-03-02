@@ -1,0 +1,1001 @@
+ID,Company_Name,Industry_Vertical,Sub_Category,City,State,Estimated_Employees,Estimated_Revenue_Range,AI_Automation_Use_Case,Estimated_Deal_Size,Decision_Maker_Title,Website,Priority_Score,Notes
+1,Ascension Medical Group,Healthcare / Medical Practices,Multi-Specialty,Chicago,IL,5000,$1B+,Patient scheduling AI,$25K-$50K,VP of Operations,www.ascension.org,5,Largest physician group with 1104 locations
+2,MDVIP,Healthcare / Medical Practices,Concierge Primary Care,Boca Raton,FL,2000,$500M-$1B,Patient engagement automation,$15K-$30K,Chief Technology Officer,www.mdvip.com,4,910 locations nationwide; concierge model
+3,Duly Health and Care,Healthcare / Medical Practices,Multi-Specialty,Downers Grove,IL,6000,$1B+,EHR integration AI,$25K-$50K,Chief Digital Officer,www.dulyhealthandcare.com,5,Largest independent multi-specialty group
+4,Select Physical Therapy,Healthcare / Medical Practices,Physical Therapy,Mechanicsburg,PA,7000,$500M-$1B,Patient scheduling AI,$20K-$40K,VP of IT,www.selectphysicaltherapy.com,4,2000+ outpatient centers
+5,Concentra,Healthcare / Medical Practices,Urgent Care/Occupational,Addison,TX,10000,$1B+,Patient triage AI,$30K-$50K,Chief Information Officer,www.concentra.com,5,559 locations in 41 states
+6,American Family Care,Healthcare / Medical Practices,Urgent Care,Birmingham,AL,4000,$500M-$1B,Patient check-in automation,$15K-$30K,VP of Technology,www.afcurgentcare.com,4,369 locations; franchise model
+7,NextCare Holdings,Healthcare / Medical Practices,Urgent Care,Mesa,AZ,2000,$200M-$500M,Medical billing automation,$10K-$25K,Director of Operations,www.nextcare.com,4,174 locations
+8,MD Now Urgent Care,Healthcare / Medical Practices,Urgent Care,West Palm Beach,FL,1500,$100M-$200M,Patient follow-up automation,$10K-$20K,Chief Operating Officer,www.mdnow.com,3,110 locations in Florida
+9,MedExpress Urgent Care,Healthcare / Medical Practices,Urgent Care,Morgantown,WV,3000,$200M-$500M,Scheduling AI,$15K-$30K,VP of Operations,www.medexpress.com,4,110 locations; Optum subsidiary
+10,GoHealth Urgent Care,Healthcare / Medical Practices,Urgent Care,Atlanta,GA,2500,$200M-$500M,Patient triage AI,$15K-$30K,CTO,www.gohealthuc.com,4,Multi-health-system partnership model
+11,Forefront Dermatology,Healthcare / Medical Practices,Dermatology,Manitowoc,WI,2500,$200M-$500M,Patient scheduling AI,$15K-$25K,VP of IT,www.forefrontdermatology.com,4,339 physicians; 190+ clinics in 26 states
+12,Schweiger Dermatology Group,Healthcare / Medical Practices,Dermatology,New York,NY,1500,$100M-$200M,EHR integration AI,$10K-$20K,Director of Technology,www.schweigerderm.com,3,264 physicians
+13,Epiphany Dermatology,Healthcare / Medical Practices,Dermatology,Austin,TX,800,$50M-$100M,Patient engagement automation,$10K-$20K,Chief Operating Officer,www.epiphanydermatology.com,3,169 physicians; growing network
+14,U.S. Dermatology Partners,Healthcare / Medical Practices,Dermatology,Dallas,TX,2000,$200M-$500M,Medical billing automation,$15K-$25K,VP of Operations,www.usdermatologypartners.com,4,100+ locations in 8 states; 2M patients/year
+15,Integrated Dermatology,Healthcare / Medical Practices,Dermatology,Jacksonville,FL,1200,$100M-$200M,Appointment scheduling AI,$10K-$20K,Director of Operations,www.mydermgroup.com,3,Largest independent derm practice; 25+ states
+16,Rothman Orthopaedics,Healthcare / Medical Practices,Orthopedics,Philadelphia,PA,1500,$200M-$500M,Patient intake automation,$15K-$30K,Chief Information Officer,www.rothmanortho.com,4,Largest ortho group; est. 1970
+17,OrthoCarolina,Healthcare / Medical Practices,Orthopedics,Charlotte,NC,1200,$200M-$500M,Surgical scheduling AI,$15K-$30K,VP of Technology,www.orthocarolina.com,4,30+ locations in NC
+18,The Centers for Advanced Orthopaedics,Healthcare / Medical Practices,Orthopedics,Bethesda,MD,800,$100M-$200M,Patient follow-up automation,$10K-$25K,Director of IT,www.cfaortho.com,3,Large DC-area ortho group
+19,Illinois Bone & Joint Institute,Healthcare / Medical Practices,Orthopedics,Morton Grove,IL,700,$100M-$200M,EHR integration AI,$10K-$20K,Chief Operating Officer,www.ibji.com,3,100+ physicians; Chicago area
+20,Midwest Orthopaedics at Rush,Healthcare / Medical Practices,Orthopedics,Chicago,IL,500,$50M-$100M,Patient scheduling AI,$10K-$20K,Practice Administrator,www.rushortho.com,3,Top-ranked ortho practice
+21,WellNow Urgent Care,Healthcare / Medical Practices,Urgent Care,Syracuse,NY,1800,$100M-$200M,Patient triage AI,$10K-$25K,VP of Operations,www.wellnow.com,3,Expanding in Northeast US
+22,Fast Pace Health,Healthcare / Medical Practices,Urgent Care,Franklin,TN,2500,$200M-$500M,Clinical documentation AI,$15K-$30K,Chief Technology Officer,www.fastpacehealth.com,4,Rapid growth; rural-focused
+23,CityMD,Healthcare / Medical Practices,Urgent Care,New York,NY,3000,$500M-$1B,Patient check-in automation,$20K-$40K,VP of Technology,www.citymd.com,5,Part of VillageMD/Walgreens
+24,MinuteClinic (CVS Health),Healthcare / Medical Practices,Retail Health,Woonsocket,RI,4000,$500M-$1B,Patient scheduling AI,$25K-$50K,Director of Digital Health,www.cvs.com/minuteclinic,4,1100+ locations inside CVS
+25,Oak Street Health,Healthcare / Medical Practices,Primary Care,Chicago,IL,6000,$1B+,Care coordination AI,$30K-$50K,Chief Digital Officer,www.oakstreethealth.com,5,Now part of CVS; Medicare-focused
+26,agilon health,Healthcare / Medical Practices,Primary Care Platform,Long Beach,CA,800,$500M-$1B,Population health AI,$25K-$50K,VP of Technology,www.agilonhealth.com,5,Value-based care platform
+27,One Medical,Healthcare / Medical Practices,Primary Care,San Francisco,CA,3000,$500M-$1B,Patient engagement AI,$20K-$40K,CTO,www.onemedical.com,4,Amazon subsidiary; tech-forward
+28,ChenMed,Healthcare / Medical Practices,Primary Care,Miami,FL,3500,$500M-$1B,Care management AI,$20K-$40K,Chief Information Officer,www.chenmed.com,4,Senior-focused primary care
+29,Privia Health,Healthcare / Medical Practices,Multi-Specialty,Arlington,VA,4000,$1B+,Revenue cycle AI,$25K-$50K,Chief Technology Officer,www.priviahealth.com,5,700+ provider groups
+30,Marathon Health,Healthcare / Medical Practices,Employer Health,Burlington,VT,1500,$200M-$500M,Patient scheduling AI,$15K-$25K,VP of Operations,www.marathon-health.com,3,Employer-sponsored health centers
+31,VillageMD,Healthcare / Medical Practices,Primary Care,Chicago,IL,8000,$1B+,Clinical AI assistants,$30K-$50K,Chief Digital Officer,www.villagemd.com,5,Walgreens-backed; 680+ locations
+32,Carbon Health,Healthcare / Medical Practices,Primary Care/Urgent,San Francisco,CA,2000,$200M-$500M,AI-powered diagnostics,$15K-$30K,CTO,www.carbonhealth.com,4,Tech-first healthcare
+33,Iora Health,Healthcare / Medical Practices,Primary Care,Boston,MA,1200,$100M-$200M,Care coordination AI,$15K-$25K,VP of Technology,www.iorahealth.com,3,Now part of One Medical
+34,PhyNet Dermatology,Healthcare / Medical Practices,Dermatology,Fort Worth,TX,600,$50M-$100M,Patient engagement automation,$10K-$20K,Director of Operations,www.phynetderm.com,3,Growing PE-backed derm platform
+35,Anne Arundel Dermatology,Healthcare / Medical Practices,Dermatology,Annapolis,MD,500,$50M-$100M,Scheduling and billing AI,$10K-$20K,Practice Manager,www.aadermatology.com,3,Mid-Atlantic derm leader
+36,Sanova Dermatology,Healthcare / Medical Practices,Dermatology,Austin,TX,400,$25M-$50M,Patient follow-up AI,$8K-$15K,Operations Director,www.sanovadermatology.com,3,Texas-based growing network
+37,Resurgens Orthopaedics,Healthcare / Medical Practices,Orthopedics,Atlanta,GA,600,$100M-$200M,Surgical scheduling AI,$10K-$25K,Director of IT,www.resurgens.com,3,Largest ortho in Atlanta
+38,Optum Care,Healthcare / Medical Practices,Multi-Specialty,Eden Prairie,MN,50000,$10B+,AI clinical decision support,$40K-$50K,SVP of Innovation,www.optum.com,5,UnitedHealth subsidiary; massive network
+39,TeamHealth,Healthcare / Medical Practices,Hospital-Based,Knoxville,TN,20000,$5B+,Clinical documentation AI,$30K-$50K,Chief Digital Officer,www.teamhealth.com,5,16000+ clinicians
+40,Sound Physicians,Healthcare / Medical Practices,Hospital-Based,Tacoma,WA,4000,$500M-$1B,Revenue cycle AI,$20K-$40K,VP of Technology,www.soundphysicians.com,4,Multi-state hospitalist group
+41,Kirkland & Ellis,Legal / Law Firms,BigLaw,Chicago,IL,3828,$5B+,Document review AI,$40K-$50K,Chief Innovation Officer,www.kirkland.com,5,Am Law #1; $8.8B gross revenue
+42,Latham & Watkins,Legal / Law Firms,BigLaw,Los Angeles,CA,3584,$5B+,Contract analysis AI,$40K-$50K,Chief Technology Officer,www.lw.com,5,Am Law #2; $7B revenue
+43,DLA Piper,Legal / Law Firms,BigLaw,Chicago,IL,4827,$1B+,Intake automation,$30K-$50K,CIO,www.dlapiper.com,5,4827 attorneys; global reach
+44,Baker McKenzie,Legal / Law Firms,BigLaw,Chicago,IL,4700,$1B+,Contract lifecycle AI,$30K-$50K,Chief Innovation Officer,www.bakermckenzie.com,5,Global firm with AI appetite
+45,Gibson Dunn,Legal / Law Firms,BigLaw,Los Angeles,CA,1940,$1B+,Litigation analytics AI,$30K-$50K,Director of Innovation,www.gibsondunn.com,5,Am Law top 5; $3.5B revenue
+46,Sidley Austin,Legal / Law Firms,BigLaw,Chicago,IL,1979,$1B+,Document review AI,$30K-$50K,CTO,www.sidley.com,4,Am Law top 10
+47,Ropes & Gray,Legal / Law Firms,BigLaw,Boston,MA,1466,$1B+,Due diligence AI,$30K-$50K,Chief Knowledge Officer,www.ropesgray.com,4,Am Law top 10; $3.4B revenue
+48,Morgan Lewis,Legal / Law Firms,BigLaw,Philadelphia,PA,2200,$1B+,Contract analysis AI,$25K-$50K,Director of Legal Tech,www.morganlewis.com,4,2200+ lawyers
+49,Greenberg Traurig,Legal / Law Firms,BigLaw,Miami,FL,2750,$1B+,Client intake AI,$25K-$50K,CIO,www.gtlaw.com,4,Global reach; 45 offices
+50,Hogan Lovells,Legal / Law Firms,BigLaw,Washington,DC,2800,$1B+,Regulatory compliance AI,$25K-$50K,Chief Innovation Officer,www.hoganlovells.com,4,Strong regulatory practice
+51,Dorsey & Whitney,Legal / Law Firms,Mid-Size,Minneapolis,MN,550,$500M-$1B,Document review AI,$15K-$30K,Director of IT,www.dorsey.com,3,Am Law 101; $513M revenue
+52,Williams Mullen,Legal / Law Firms,Mid-Size,Richmond,VA,300,$100M-$200M,Contract analysis AI,$10K-$25K,Director of Technology,www.williamsmullen.com,3,Am Law 173; $195M revenue
+53,Freeman Mathis & Gary,Legal / Law Firms,Mid-Size,Atlanta,GA,350,$100M-$200M,Litigation support AI,$10K-$25K,Chief Operating Officer,www.fmglaw.com,3,Am Law 185; fast growing
+54,Corboy & Demetrio,Legal / Law Firms,Personal Injury,Chicago,IL,50,$50M-$100M,Case intake AI,$10K-$20K,Managing Partner,www.corboydemetrio.com,3,$5B+ in verdicts
+55,Thomas J. Henry,Legal / Law Firms,Personal Injury,San Antonio,TX,200,$100M-$200M,Lead intake automation,$15K-$25K,Director of Operations,www.thomasjhenrylaw.com,4,Major PI firm; national reach
+56,Lubin & Meyer,Legal / Law Firms,Personal Injury,Boston,MA,30,$25M-$50M,Case assessment AI,$8K-$15K,Managing Partner,www.lubinandmeyer.com,3,36 million-dollar verdicts in 2024
+57,Reeves Law Group,Legal / Law Firms,Personal Injury,Los Angeles,CA,40,$25M-$50M,Client intake automation,$8K-$15K,Office Manager,www.reaborneslaw.com,3,30+ years; $250M+ recovered
+58,Levin & Perconti,Legal / Law Firms,Personal Injury,Chicago,IL,25,$10M-$25M,Case management AI,$8K-$15K,Managing Partner,www.levinperconti.com,3,200+ years combined experience
+59,Goldberg Persky & White,Legal / Law Firms,Personal Injury,Pittsburgh,PA,80,$25M-$50M,Document review AI,$10K-$20K,Director of IT,www.gpwlaw.com,3,35+ years; asbestos focus
+60,Nelson Mullins,Legal / Law Firms,Mid-Size,Columbia,SC,900,$500M-$1B,Contract lifecycle AI,$20K-$35K,Chief Innovation Officer,www.nelsonmullins.com,4,Am Law 100; 30+ offices
+61,Polsinelli,Legal / Law Firms,Mid-Size,Kansas City,MO,1000,$500M-$1B,Healthcare regulatory AI,$20K-$35K,CIO,www.polsinelli.com,4,Am Law 100; health law focus
+62,Husch Blackwell,Legal / Law Firms,Mid-Size,Kansas City,MO,750,$500M-$1B,Contract analysis AI,$15K-$30K,Director of Innovation,www.huschblackwell.com,4,18 offices; diverse practice
+63,Littler Mendelson,Legal / Law Firms,Employment Law,San Francisco,CA,1800,$1B+,Employment compliance AI,$20K-$40K,Chief Technology Officer,www.littler.com,4,Largest employment law firm
+64,Fisher Phillips,Legal / Law Firms,Employment Law,Atlanta,GA,600,$200M-$500M,HR compliance AI,$15K-$25K,Director of IT,www.fisherphillips.com,3,37 offices; labor law focus
+65,Ogletree Deakins,Legal / Law Firms,Employment Law,Greenville,SC,950,$500M-$1B,Document automation,$15K-$30K,CIO,www.ogletree.com,4,56 offices; employment law
+66,Jackson Lewis,Legal / Law Firms,Employment Law,White Plains,NY,950,$500M-$1B,Intake automation,$15K-$30K,Director of Technology,www.jacksonlewis.com,4,58 offices nationwide
+67,Ice Miller,Legal / Law Firms,Mid-Size,Indianapolis,IN,350,$200M-$500M,Contract review AI,$10K-$25K,Director of IT,www.icemiller.com,3,Strong Midwest presence
+68,Ballard Spahr,Legal / Law Firms,Mid-Size,Philadelphia,PA,600,$500M-$1B,eDiscovery AI,$15K-$30K,Chief Innovation Officer,www.ballardspahr.com,4,15 offices; diverse practice
+69,Blank Rome,Legal / Law Firms,Mid-Size,Philadelphia,PA,600,$500M-$1B,Document review AI,$15K-$30K,Director of Technology,www.blankrome.com,4,14 offices nationwide
+70,Stoel Rives,Legal / Law Firms,Mid-Size,Portland,OR,400,$200M-$500M,Contract analysis AI,$10K-$25K,Director of IT,www.stoel.com,3,West Coast focused
+71,Sheppard Mullin,Legal / Law Firms,Mid-Size,Los Angeles,CA,1000,$500M-$1B,Legal research AI,$20K-$35K,CIO,www.sheppardmullin.com,4,Am Law 100; 16 offices
+72,Seyfarth Shaw,Legal / Law Firms,Mid-Size,Chicago,IL,900,$500M-$1B,Process automation AI,$20K-$35K,Chief Innovation Officer,www.seyfarth.com,4,Known for legal innovation
+73,Lewis Brisbois,Legal / Law Firms,Mid-Size,Los Angeles,CA,1500,$500M-$1B,Litigation analytics AI,$15K-$30K,Director of Technology,www.lewisbrisbois.com,4,50+ offices; rapid growth
+74,Buchanan Ingersoll & Rooney,Legal / Law Firms,Mid-Size,Pittsburgh,PA,400,$200M-$500M,Client intake AI,$10K-$25K,Director of IT,www.bipc.com,3,15 offices
+75,Burns & Levinson,Legal / Law Firms,Mid-Size,Boston,MA,125,$50M-$100M,Contract review AI,$8K-$20K,Managing Partner,www.burnslev.com,3,Founded 1960; Boston-based
+76,Davis Wright Tremaine,Legal / Law Firms,Mid-Size,Seattle,WA,550,$500M-$1B,Document review AI,$15K-$30K,CIO,www.dwt.com,4,9 offices; NW focus
+77,Dentons,Legal / Law Firms,BigLaw,Washington,DC,12000,$1B+,Knowledge management AI,$30K-$50K,Chief Innovation Officer,www.dentons.com,5,World largest law firm
+78,Jones Day,Legal / Law Firms,BigLaw,Cleveland,OH,2400,$1B+,Document review AI,$30K-$50K,CTO,www.jonesday.com,5,42 offices globally
+79,Quinn Emanuel,Legal / Law Firms,Litigation,Los Angeles,CA,900,$1B+,Litigation analytics AI,$25K-$50K,Director of Innovation,www.quinnemanuel.com,5,Top litigation firm
+80,Paul Weiss,Legal / Law Firms,BigLaw,New York,NY,1100,$1B+,Due diligence AI,$30K-$50K,Chief Knowledge Officer,www.paulweiss.com,5,Am Law top 10; NY-based
+81,Greystar,Real Estate / Property Management,Multifamily PM,Charleston,SC,25000,$1B+,Lead qualification AI,$25K-$50K,Chief Technology Officer,www.greystar.com,5,980K+ units; largest multifamily manager
+82,Asset Living,Real Estate / Property Management,Multifamily PM,Houston,TX,8000,$500M-$1B,Tenant screening AI,$20K-$40K,VP of Technology,www.assetliving.com,4,289K units managed
+83,RPM Living,Real Estate / Property Management,Multifamily PM,Austin,TX,5000,$200M-$500M,Listing automation,$15K-$30K,Director of Innovation,www.rpmliving.com,4,219K units managed
+84,Willow Bridge Property Co,Real Estate / Property Management,Multifamily PM,Dallas,TX,4500,$200M-$500M,Tenant communication AI,$15K-$30K,CTO,www.willowbridgepc.com,4,220K units; 75 markets
+85,Cushman & Wakefield,Real Estate / Property Management,Commercial RE,Chicago,IL,52000,$5B+,Lead qualification AI,$30K-$50K,Chief Digital Officer,www.cushmanwakefield.com,5,7.1B sq ft managed
+86,CBRE,Real Estate / Property Management,Commercial RE,Dallas,TX,130000,$10B+,Property analytics AI,$40K-$50K,CTO,www.cbre.com,5,7.3B sq ft; #1 commercial PM
+87,JLL,Real Estate / Property Management,Commercial RE,Chicago,IL,106000,$10B+,Tenant engagement AI,$30K-$50K,Chief Technology Officer,www.jll.com,5,4.6B sq ft managed
+88,Lincoln Property Company,Real Estate / Property Management,Commercial RE,Dallas,TX,8000,$500M-$1B,Lease management AI,$20K-$40K,VP of Technology,www.lpc.com,4,557M sq ft managed
+89,Colliers International,Real Estate / Property Management,Commercial RE,Seattle,WA,19000,$1B+,Market analytics AI,$25K-$50K,Chief Innovation Officer,www.colliers.com,4,2.5B sq ft managed
+90,Hines,Real Estate / Property Management,Commercial RE,Houston,TX,5000,$1B+,Building operations AI,$25K-$50K,CTO,www.hines.com,5,274M sq ft; 112% growth
+91,Evernest,Real Estate / Property Management,Residential PM,Birmingham,AL,1500,$100M-$200M,Tenant screening AI,$10K-$25K,Chief Technology Officer,www.evernest.co,4,47K+ doors; largest residential PM
+92,BH Management Services,Real Estate / Property Management,Multifamily PM,Des Moines,IA,3500,$200M-$500M,Leasing AI chatbot,$15K-$25K,VP of Operations,www.bhmanagement.com,4,107K units; 37 states
+93,WinnResidential,Real Estate / Property Management,Affordable Housing,Boston,MA,4000,$200M-$500M,Compliance automation,$15K-$30K,Director of IT,www.winncompanies.com,4,116K units; largest affordable manager
+94,Keller Williams Realty,Real Estate / Property Management,Brokerage,Austin,TX,180000,$1B+,Lead nurturing AI,$25K-$50K,Chief Innovation Officer,www.kw.com,5,Largest RE brokerage; tech focus
+95,RE/MAX,Real Estate / Property Management,Brokerage,Denver,CO,140000,$300M-$500M,Listing automation,$20K-$40K,CTO,www.remax.com,5,Global brand; franchise model
+96,Coldwell Banker,Real Estate / Property Management,Brokerage,Madison,NJ,100000,$500M-$1B,Lead qualification AI,$20K-$40K,VP of Technology,www.coldwellbanker.com,4,Realogy subsidiary
+97,Compass,Real Estate / Property Management,Brokerage,New York,NY,28000,$5B+,Market analytics AI,$25K-$50K,Chief Technology Officer,www.compass.com,5,Tech-first brokerage
+98,eXp Realty,Real Estate / Property Management,Virtual Brokerage,Bellingham,WA,85000,$1B+,Agent productivity AI,$20K-$40K,CTO,www.exprealty.com,4,Cloud-based; rapid growth
+99,Marcus & Millichap,Real Estate / Property Management,Commercial Brokerage,Calabasas,CA,2000,$500M-$1B,Deal matching AI,$15K-$30K,Director of Technology,www.marcusmillichap.com,4,Leading investment brokerage
+100,Newmark,Real Estate / Property Management,Commercial RE,New York,NY,7200,$1B+,Lease analytics AI,20K-$40K,Chief Innovation Officer,www.nmrk.com,4,Full-service commercial RE
+101,Sentral,Real Estate / Property Management,Multifamily PM,Denver,CO,800,$50M-$100M,Tenant engagement AI,$10K-$20K,CTO,www.sentral.com,3,160% growth; flexible living
+102,Tishman Speyer,Real Estate / Property Management,Commercial RE,New York,NY,4000,$1B+,Building operations AI,$25K-$50K,Chief Digital Officer,www.tishmanspeyer.com,5,207% unit growth
+103,Related Companies,Real Estate / Property Management,Mixed-Use,New York,NY,4000,$1B+,Tenant experience AI,$25K-$50K,VP of Technology,www.related.com,5,Hudson Yards developer
+104,Brookfield Properties,Real Estate / Property Management,Commercial RE,New York,NY,18000,$5B+,Property analytics AI,$30K-$50K,CTO,www.brookfieldproperties.com,5,800+ properties globally
+105,AvalonBay Communities,Real Estate / Property Management,Multifamily REIT,Arlington,VA,3100,$1B+,Leasing AI chatbot,$20K-$40K,VP of Digital,www.avaloncommunities.com,4,300+ apartment communities
+106,Equity Residential,Real Estate / Property Management,Multifamily REIT,Chicago,IL,2500,$1B+,Tenant screening AI,$20K-$40K,Chief Technology Officer,www.equityapartments.com,4,310+ properties
+107,Camden Property Trust,Real Estate / Property Management,Multifamily REIT,Houston,TX,1700,$1B+,Maintenance request AI,$15K-$30K,VP of Technology,www.camdenliving.com,4,58K apartments
+108,MAA (Mid-America Apartment),Real Estate / Property Management,Multifamily REIT,Germantown,TN,2500,$1B+,Lead nurturing AI,$15K-$30K,Director of IT,www.maac.com,4,100K units; Sunbelt focus
+109,UDR Inc,Real Estate / Property Management,Multifamily REIT,Highlands Ranch,CO,1400,$1B+,Resident experience AI,$15K-$25K,CTO,www.udr.com,3,60K apartments
+110,AppFolio,Real Estate / Property Management,PropTech,Santa Barbara,CA,1800,$500M-$1B,Property management AI,$15K-$30K,Chief Product Officer,www.appfolio.com,4,PM software + AI features
+111,RealPage,Real Estate / Property Management,PropTech,Richardson,TX,3500,$1B+,Revenue management AI,$20K-$40K,CTO,www.realpage.com,4,PM analytics platform
+112,Entrata,Real Estate / Property Management,PropTech,Lehi,UT,2500,$200M-$500M,Leasing automation AI,$15K-$30K,Chief Technology Officer,www.entrata.com,4,PM software platform
+113,Prologis,Real Estate / Property Management,Industrial REIT,San Francisco,CA,2500,$5B+,Logistics space AI,$25K-$50K,Chief Innovation Officer,www.prologis.com,5,Largest industrial REIT
+114,Simon Property Group,Real Estate / Property Management,Retail REIT,Indianapolis,IN,3400,$5B+,Tenant analytics AI,$25K-$50K,CTO,www.simon.com,5,Largest retail REIT
+115,Boston Properties,Real Estate / Property Management,Office REIT,Boston,MA,800,$1B+,Building automation AI,$20K-$40K,VP of Technology,www.bxp.com,4,Premier office REIT
+116,Invitation Homes,Real Estate / Property Management,SFR REIT,Dallas,TX,1700,$1B+,Tenant screening AI,$15K-$30K,Chief Technology Officer,www.invitationhomes.com,4,80K+ single-family rentals
+117,American Homes 4 Rent,Real Estate / Property Management,SFR REIT,Calabasas,CA,1300,$1B+,Maintenance AI chatbot,$15K-$25K,Director of IT,www.americanhomes4rent.com,4,60K+ homes
+118,Progress Residential,Real Estate / Property Management,SFR PM,Tempe,AZ,2000,$500M-$1B,Lead qualification AI,$15K-$25K,CTO,www.rentprogress.com,4,85K+ homes managed
+119,Tricon Residential,Real Estate / Property Management,SFR REIT,Toronto,ON,1200,$500M-$1B,Tenant engagement AI,$15K-$25K,VP of Technology,www.triconresidential.com,3,38K+ homes; US operations
+120,FirstService Residential,Real Estate / Property Management,HOA/Condo PM,Dania Beach,FL,9000,$1B+,Community management AI,$20K-$40K,Chief Technology Officer,www.fsresidential.com,4,9000+ communities managed
+121,RSM US,Accounting / CPA Firms,Top 10 CPA,Chicago,IL,13000,$5B+,Tax automation AI,$25K-$50K,Chief Innovation Officer,www.rsmus.com,5,5th largest US accounting firm
+122,BDO USA,Accounting / CPA Firms,Top 10 CPA,Chicago,IL,11000,$1B+,Audit AI analytics,$25K-$50K,CTO,www.bdo.com,5,6th largest US firm
+123,Grant Thornton,Accounting / CPA Firms,Top 10 CPA,Chicago,IL,9000,$1B+,Client onboarding AI,$25K-$50K,Chief Digital Officer,www.grantthornton.com,5,7th largest US firm
+124,Forvis Mazars,Accounting / CPA Firms,Top 10 CPA,Springfield,MO,6000,$1B+,Tax automation AI,$20K-$40K,CTO,www.forvismazars.us,5,Merger of BKD + DHG + Mazars
+125,CLA (CliftonLarsonAllen),Accounting / CPA Firms,Top 15 CPA,Minneapolis,MN,7500,$1B+,Audit workflow AI,$20K-$40K,Chief Innovation Officer,www.claconnect.com,5,9th largest US firm
+126,Baker Tilly,Accounting / CPA Firms,Top 15 CPA,Chicago,IL,6500,$1B+,Client onboarding AI,$20K-$40K,CTO,www.bakertilly.com,5,10th largest US firm
+127,Crowe,Accounting / CPA Firms,Top 15 CPA,Chicago,IL,5000,$1B+,Tax preparation AI,$20K-$40K,Chief Digital Officer,www.crowe.com,4,11th largest US firm
+128,CBIZ,Accounting / CPA Firms,Top 15 CPA,Cleveland,OH,6500,$1B+,Compliance automation,$20K-$35K,VP of Technology,www.cbiz.com,4,Business services + accounting
+129,Sikich,Accounting / CPA Firms,Mid-Size CPA,Naperville,IL,1500,$200M-$500M,Audit AI,$15K-$25K,Chief Technology Officer,www.sikich.com,4,Growing through acquisitions
+130,Marcum,Accounting / CPA Firms,Mid-Size CPA,New York,NY,3000,$500M-$1B,Tax automation AI,$15K-$30K,CIO,www.marcumllp.com,4,Top 15 US firm
+131,Plante Moran,Accounting / CPA Firms,Mid-Size CPA,Southfield,MI,3500,$500M-$1B,Client onboarding AI,$15K-$30K,Chief Innovation Officer,www.plantemoran.com,4,One of largest private CPA firms
+132,PKF O'Connor Davies,Accounting / CPA Firms,Mid-Size CPA,New York,NY,1000,$200M-$500M,Audit analytics AI,$10K-$25K,Director of IT,www.pkfod.com,3,Top 30 US firm
+133,Cherry Bekaert,Accounting / CPA Firms,Mid-Size CPA,Richmond,VA,2000,$200M-$500M,Tax preparation AI,$10K-$25K,CTO,www.cbh.com,3,Southeast focused
+134,Moss Adams,Accounting / CPA Firms,Mid-Size CPA,Seattle,WA,4000,$500M-$1B,Audit workflow AI,$15K-$30K,Chief Innovation Officer,www.mossadams.com,4,Largest West Coast firm
+135,Armanino,Accounting / CPA Firms,Mid-Size CPA,San Ramon,CA,1500,$200M-$500M,Client portal AI,$10K-$25K,Chief Digital Officer,www.armanino.com,4,Tech-forward firm
+136,Wipfli,Accounting / CPA Firms,Mid-Size CPA,Milwaukee,WI,3000,$500M-$1B,Tax automation AI,$15K-$25K,CTO,www.wipfli.com,4,Midwest and Mountain West
+137,Eide Bailly,Accounting / CPA Firms,Mid-Size CPA,Fargo,ND,3500,$500M-$1B,Audit AI,$15K-$25K,Director of Innovation,www.eidebailly.com,4,Great Plains focus
+138,Rehmann,Accounting / CPA Firms,Mid-Size CPA,Troy,MI,800,$100M-$200M,Client onboarding AI,$10K-$20K,VP of Technology,www.rehmann.com,3,Michigan and Ohio
+139,Schneider Downs,Accounting / CPA Firms,Mid-Size CPA,Pittsburgh,PA,500,$100M-$200M,Tax prep automation,$8K-$20K,Director of IT,www.schneiderdowns.com,3,Western PA leader
+140,Citrin Cooperman,Accounting / CPA Firms,Mid-Size CPA,New York,NY,1800,$200M-$500M,Compliance AI,$10K-$25K,CTO,www.citrincooperman.com,3,Northeast focused
+141,WithumSmith+Brown,Accounting / CPA Firms,Mid-Size CPA,Princeton,NJ,1800,$200M-$500M,Audit analytics AI,$10K-$25K,Chief Innovation Officer,www.withum.com,3,Mid-Atlantic focus
+142,EisnerAmper,Accounting / CPA Firms,Mid-Size CPA,Iselin,NJ,2500,$500M-$1B,Tax automation AI,$15K-$25K,CTO,www.eisneramper.com,4,Top 20 US firm
+143,KraftCPAs,Accounting / CPA Firms,Regional CPA,Nashville,TN,200,$25M-$50M,Client onboarding AI,$8K-$15K,Managing Partner,www.kraftcpas.com,3,Tennessee leader
+144,BPM,Accounting / CPA Firms,Regional CPA,San Francisco,CA,800,$100M-$200M,Audit workflow AI,$10K-$20K,Director of Technology,www.bpmcpa.com,3,Bay Area focused
+145,Aprio,Accounting / CPA Firms,Mid-Size CPA,Atlanta,GA,1500,$200M-$500M,Tax automation AI,$10K-$25K,CTO,www.aprio.com,4,Growing Southeast firm
+146,Carr Riggs & Ingram,Accounting / CPA Firms,Regional CPA,Enterprise,AL,2000,$200M-$500M,Audit AI,$10K-$25K,Director of IT,www.cricpa.com,3,Southeast focus
+147,Windham Brannon,Accounting / CPA Firms,Regional CPA,Atlanta,GA,200,$25M-$50M,Client portal AI,$8K-$15K,Managing Partner,www.windhambrannon.com,3,Atlanta-based boutique
+148,LBMC,Accounting / CPA Firms,Regional CPA,Brentwood,TN,600,$100M-$200M,Tax prep automation,$10K-$20K,VP of Technology,www.lbmc.com,3,Tennessee's largest
+149,Mayer Hoffman McCann,Accounting / CPA Firms,Mid-Size CPA,Leawood,KS,800,$100M-$200M,Audit analytics AI,$10K-$20K,CTO,www.mhmcpa.com,3,Global affiliation; 30 offices
+150,Freed Maxick,Accounting / CPA Firms,Regional CPA,Buffalo,NY,300,$25M-$50M,Tax automation AI,$8K-$15K,Director of IT,www.freedmaxick.com,3,Western NY leader
+151,Clark Nuber,Accounting / CPA Firms,Regional CPA,Bellevue,WA,150,$25M-$50M,Client onboarding AI,$8K-$15K,Managing Partner,www.clarknuber.com,3,Pacific NW focused
+152,Henry & Horne,Accounting / CPA Firms,Regional CPA,Tempe,AZ,150,$25M-$50M,Tax prep AI,$8K-$15K,Director of Operations,www.hhcpa.com,3,Arizona focused
+153,Kaufman Rossin,Accounting / CPA Firms,Regional CPA,Miami,FL,500,$50M-$100M,Audit workflow AI,$10K-$20K,CTO,www.kaufmanrossin.com,3,South Florida leader
+154,Friedman,Accounting / CPA Firms,Regional CPA,New York,NY,400,$50M-$100M,Tax automation AI,$8K-$20K,Director of IT,www.friedmanllp.com,3,NYC-based
+155,Grassi,Accounting / CPA Firms,Regional CPA,Jericho,NY,350,$50M-$100M,Client portal AI,$8K-$20K,Managing Partner,www.grassicpas.com,3,Long Island based
+156,Anchin,Accounting / CPA Firms,Regional CPA,New York,NY,350,$50M-$100M,Audit AI,$8K-$20K,Director of Technology,www.anchin.com,3,NYC boutique firm
+157,Lutz,Accounting / CPA Firms,Regional CPA,Omaha,NE,350,$25M-$50M,Tax prep automation,$8K-$15K,Director of IT,www.lutz.us,3,Nebraska leader
+158,Yeo & Yeo,Accounting / CPA Firms,Regional CPA,Saginaw,MI,300,$25M-$50M,Client onboarding AI,$8K-$15K,Managing Partner,www.yeoandyeo.com,3,Michigan focused
+159,Berdon,Accounting / CPA Firms,Regional CPA,New York,NY,400,$50M-$100M,Tax automation AI,$8K-$20K,Director of IT,www.berdonllp.com,3,NYC real estate focus
+160,Dixon Hughes Goodman,Accounting / CPA Firms,Mid-Size CPA,Charlotte,NC,2000,$200M-$500M,Audit analytics AI,$10K-$25K,CTO,www.dhg.com,3,Now part of Forvis Mazars
+161,Turner Construction,Construction / General Contractors,General Contractor,New York,NY,10000,$10B+,Project management AI,$30K-$50K,Chief Technology Officer,www.turnerconstruction.com,5,Largest US GC by revenue
+162,DPR Construction,Construction / General Contractors,General Contractor,Redwood City,CA,9000,$5B+,Estimating automation AI,$25K-$50K,VP of Innovation,www.dpr.com,5,Self-perform leader
+163,HITT Contracting,Construction / General Contractors,General Contractor,Falls Church,VA,1800,$1B+,Safety compliance AI,$20K-$35K,Director of Technology,www.hfrcontractor.com,4,DC area leader
+164,Gilbane Building Company,Construction / General Contractors,General Contractor,Providence,RI,3000,$5B+,Project management AI,$25K-$50K,CTO,www.gilbaneco.com,5,Family-owned since 1870
+165,Holder Construction,Construction / General Contractors,General Contractor,Atlanta,GA,1500,$1B+,Estimating automation,$15K-$30K,VP of Operations,www.holderconstruction.com,4,Southeast leader
+166,Clayco,Construction / General Contractors,Design-Build,St. Louis,MO,2500,$5B+,Project scheduling AI,$25K-$40K,Chief Innovation Officer,www.claycorp.com,5,Design-build leader
+167,Hensel Phelps,Construction / General Contractors,General Contractor,Greeley,CO,4000,$5B+,Safety compliance AI,$25K-$50K,Director of Innovation,www.henselphelps.com,5,Employee-owned
+168,McCarthy Building,Construction / General Contractors,General Contractor,St. Louis,MO,6000,$5B+,BIM AI integration,$25K-$50K,CTO,www.mccarthy.com,5,Employee-owned; 150+ years
+169,Skanska USA,Construction / General Contractors,General Contractor,New York,NY,7500,$5B+,Project management AI,$30K-$50K,VP of Digital,www.usa.skanska.com,5,Swedish parent; US operations
+170,Clark Construction,Construction / General Contractors,General Contractor,Bethesda,MD,4500,$5B+,Estimating AI,$25K-$50K,Chief Technology Officer,www.clarkconstruction.com,5,Mid-Atlantic leader
+171,Mortenson Construction,Construction / General Contractors,General Contractor,Minneapolis,MN,5000,$5B+,Safety analytics AI,$25K-$50K,VP of Innovation,www.mortenson.com,5,Employee-owned; energy focus
+172,JE Dunn Construction,Construction / General Contractors,General Contractor,Kansas City,MO,4000,$5B+,Project management AI,$25K-$40K,CTO,www.jedunn.com,5,Employee-owned
+173,Brasfield & Gorrie,Construction / General Contractors,General Contractor,Birmingham,AL,3500,$5B+,Estimating automation,$20K-$40K,Director of Technology,www.brasfieldgorrie.com,4,Southeast leader
+174,Robins & Morton,Construction / General Contractors,General Contractor,Birmingham,AL,2000,$1B+,Safety compliance AI,$15K-$30K,VP of IT,www.robinsmorton.com,4,Healthcare construction focus
+175,The Walsh Group,Construction / General Contractors,General Contractor,Chicago,IL,8000,$5B+,Project scheduling AI,$25K-$50K,Chief Innovation Officer,www.walshgroup.com,5,Infrastructure focused
+176,Barton Malow,Construction / General Contractors,General Contractor,Southfield,MI,2500,$1B+,BIM integration AI,$15K-$30K,Director of Innovation,www.bartonmalow.com,4,Employee-owned
+177,Webcor Builders,Construction / General Contractors,General Contractor,San Francisco,CA,1500,$1B+,Estimating AI,$15K-$30K,VP of Technology,www.webcor.com,4,Bay Area leader
+178,Swinerton,Construction / General Contractors,General Contractor,San Francisco,CA,4000,$5B+,Project management AI,$25K-$40K,CTO,www.swinerton.com,5,Employee-owned; 135+ years
+179,Sundt Construction,Construction / General Contractors,General Contractor,Tempe,AZ,2500,$1B+,Safety analytics AI,$15K-$30K,Director of IT,www.sundt.com,4,Employee-owned; Southwest
+180,Hunt Construction,Construction / General Contractors,General Contractor,Indianapolis,IN,1500,$1B+,Estimating automation,$15K-$25K,VP of Operations,www.huntconstructiongroup.com,4,Stadium specialist
+181,Ryan Companies,Construction / General Contractors,Design-Build,Minneapolis,MN,2000,$1B+,Project management AI,$15K-$30K,Chief Technology Officer,www.ryancompanies.com,4,Development + construction
+182,Structure Tone,Construction / General Contractors,Interiors/GC,New York,NY,3500,$5B+,Scheduling AI,$20K-$40K,CTO,www.structuretone.com,4,Interior construction leader
+183,Balfour Beatty US,Construction / General Contractors,General Contractor,Dallas,TX,3000,$1B+,Safety compliance AI,$15K-$30K,VP of Innovation,www.balfourbeattyus.com,4,UK parent; US operations
+184,Lendlease US,Construction / General Contractors,General Contractor,New York,NY,2000,$1B+,BIM AI integration,$20K-$35K,Director of Digital,www.lendlease.com,4,Australian parent; US ops
+185,Suffolk Construction,Construction / General Contractors,General Contractor,Boston,MA,3000,$5B+,Project management AI,$25K-$50K,Chief Technology Officer,www.suffolk.com,5,Tech-forward builder
+186,Consigli Construction,Construction / General Contractors,General Contractor,Milford,MA,1500,$1B+,Estimating AI,$15K-$25K,VP of IT,www.consigli.com,4,New England leader
+187,Messer Construction,Construction / General Contractors,General Contractor,Cincinnati,OH,1500,$1B+,Safety analytics AI,$15K-$25K,Director of Technology,www.messer.com,4,Employee-owned; Ohio Valley
+188,Shawmut Design and Construction,Construction / General Contractors,General Contractor,Boston,MA,1200,$1B+,Scheduling AI,$15K-$25K,CTO,www.shawmut.com,4,100% employee-owned
+189,Pepper Construction,Construction / General Contractors,General Contractor,Chicago,IL,1000,$500M-$1B,BIM integration AI,$10K-$25K,VP of Innovation,www.pepperconstruction.com,3,Midwest focused
+190,W.M. Jordan Company,Construction / General Contractors,General Contractor,Newport News,VA,600,$500M-$1B,Project management AI,$10K-$20K,Director of IT,www.wmjordan.com,3,Virginia focused
+191,Choate Construction,Construction / General Contractors,General Contractor,Atlanta,GA,800,$500M-$1B,Estimating automation,$10K-$20K,VP of Operations,www.choateco.com,3,Southeast focused
+192,Harvey-Cleary Builders,Construction / General Contractors,General Contractor,Houston,TX,300,$200M-$500M,Project scheduling AI,$8K-$20K,Director of Operations,www.harvey-cleary.com,3,Texas focused
+193,Alston Construction,Construction / General Contractors,General Contractor,Phoenix,AZ,400,$500M-$1B,Safety compliance AI,$10K-$20K,VP of IT,www.alstonconstruction.com,3,Industrial/distribution focus
+194,The Boldt Company,Construction / General Contractors,General Contractor,Appleton,WI,2500,$1B+,Prefab/modular AI,$15K-$30K,Chief Innovation Officer,www.boldt.com,4,Employee-owned
+195,Findorff,Construction / General Contractors,General Contractor,Madison,WI,500,$200M-$500M,Project management AI,$8K-$20K,Director of IT,www.findorff.com,3,Wisconsin focused
+196,CD Smith Construction,Construction / General Contractors,General Contractor,Fond du Lac,WI,300,$200M-$500M,Estimating AI,$8K-$15K,VP of Operations,www.cdsmith.com,3,Wisconsin focused
+197,Miron Construction,Construction / General Contractors,General Contractor,Neenah,WI,1500,$500M-$1B,Safety analytics AI,$10K-$25K,Director of Technology,www.miron-construction.com,3,Employee-owned; Wisconsin
+198,Charles Perry Partners,Construction / General Contractors,General Contractor,Gainesville,FL,200,$100M-$200M,Project management AI,$8K-$15K,VP of Operations,www.charlesperry.com,3,Florida focused
+199,Austin Commercial,Construction / General Contractors,General Contractor,Dallas,TX,1000,$500M-$1B,BIM integration AI,$10K-$25K,Director of IT,www.austin-ind.com,3,Part of Austin Industries
+200,Batson-Cook Company,Construction / General Contractors,General Contractor,West Point,GA,400,$200M-$500M,Estimating automation,$8K-$20K,VP of Operations,www.bfrconstructors.com,3,Southeast focused
+201,OLIPOP,eCommerce / DTC Brands,Beverages,Oakland,CA,200,$200M-$500M,Customer service AI,$10K-$25K,VP of E-Commerce,www.drinkolipop.com,4,Functional soda DTC leader
+202,Death Wish Coffee,eCommerce / DTC Brands,Coffee,Saratoga Springs,NY,50,$25M-$50M,Customer support AI,$8K-$15K,Director of Operations,www.deathwishcoffee.com,3,Worlds strongest coffee brand
+203,Brooklinen,eCommerce / DTC Brands,Home/Bedding,Brooklyn,NY,200,$100M-$200M,Personalization engine AI,$10K-$25K,CTO,www.brooklinen.com,4,DTC bedding leader
+204,Warby Parker,eCommerce / DTC Brands,Eyewear,New York,NY,3000,$500M-$1B,Virtual try-on AI,$20K-$40K,Chief Technology Officer,www.warbyparker.com,5,Public DTC brand; retail + online
+205,Allbirds,eCommerce / DTC Brands,Footwear,San Francisco,CA,800,$100M-$200M,Inventory automation AI,$10K-$25K,VP of Technology,www.allbirds.com,4,Sustainable footwear brand
+206,Glossier,eCommerce / DTC Brands,Beauty,New York,NY,500,$100M-$200M,Customer engagement AI,$10K-$25K,CTO,www.glossier.com,4,DTC beauty pioneer
+207,Dollar Shave Club,eCommerce / DTC Brands,Grooming,Marina del Rey,CA,500,$200M-$500M,Subscription AI,$15K-$25K,VP of Engineering,www.dollarshaveclub.com,4,Subscription grooming leader
+208,MVMT Watches,eCommerce / DTC Brands,Accessories,Los Angeles,CA,100,$50M-$100M,Customer retention AI,$8K-$20K,Director of E-Commerce,www.mvmt.com,3,Movado subsidiary
+209,Casper,eCommerce / DTC Brands,Mattress,New York,NY,400,$500M-$1B,Customer service AI,$15K-$25K,CTO,www.casper.com,4,DTC mattress pioneer
+210,Away,eCommerce / DTC Brands,Travel/Luggage,New York,NY,600,$200M-$500M,Customer engagement AI,$10K-$25K,VP of Technology,www.awaytravel.com,4,DTC luggage brand
+211,Bombas,eCommerce / DTC Brands,Apparel/Socks,New York,NY,300,$200M-$500M,Inventory automation,$10K-$20K,Director of Technology,www.bombas.com,4,Social mission; $300M+ revenue
+212,Rothys,eCommerce / DTC Brands,Footwear,San Francisco,CA,500,$100M-$200M,Personalization AI,$10K-$25K,CTO,www.rothys.com,4,Sustainable footwear
+213,ThirdLove,eCommerce / DTC Brands,Apparel/Intimates,San Francisco,CA,200,$50M-$100M,Fit recommendation AI,$8K-$20K,VP of Engineering,www.thirdlove.com,3,AI-powered fit tech
+214,Quip,eCommerce / DTC Brands,Oral Care,Brooklyn,NY,100,$50M-$100M,Subscription management AI,$8K-$15K,CTO,www.getquip.com,3,Subscription oral care
+215,Hims & Hers Health,eCommerce / DTC Brands,Telehealth/DTC,San Francisco,CA,2000,$1B+,Customer service AI,$20K-$40K,Chief Technology Officer,www.forhims.com,5,Public company; $1B+ revenue
+216,Native,eCommerce / DTC Brands,Personal Care,San Francisco,CA,100,$100M-$200M,Customer engagement AI,$8K-$20K,Director of E-Commerce,www.nativecos.com,3,P&G subsidiary
+217,Function of Beauty,eCommerce / DTC Brands,Hair Care,New York,NY,200,$100M-$200M,Personalization engine AI,$10K-$20K,CTO,www.functionofbeauty.com,4,Custom hair care
+218,Prose,eCommerce / DTC Brands,Hair Care,New York,NY,150,$50M-$100M,Product customization AI,$8K-$20K,VP of Technology,www.prose.com,3,Custom hair care formulas
+219,Billie,eCommerce / DTC Brands,Personal Care,New York,NY,80,$50M-$100M,Subscription AI,$8K-$15K,Director of E-Commerce,www.mybillie.com,3,Womens razor brand
+220,Hubble Contacts,eCommerce / DTC Brands,Eye Care,New York,NY,100,$50M-$100M,Customer retention AI,$8K-$15K,CTO,www.hubblecontacts.com,3,Subscription contacts
+221,BarkBox,eCommerce / DTC Brands,Pet/Subscription,New York,NY,500,$200M-$500M,Customer engagement AI,$10K-$25K,VP of Engineering,www.barkbox.com,4,BARK Inc; public company
+222,Chewy,eCommerce / DTC Brands,Pet E-Commerce,Dania Beach,FL,20000,$10B+,Customer service AI,$30K-$50K,Chief Technology Officer,www.chewy.com,5,Largest online pet retailer
+223,FabFitFun,eCommerce / DTC Brands,Subscription Box,Los Angeles,CA,300,$200M-$500M,Personalization AI,$10K-$25K,CTO,www.fabfitfun.com,4,Seasonal subscription box
+224,Stitch Fix,eCommerce / DTC Brands,Fashion/AI,San Francisco,CA,5000,$1B+,Style recommendation AI,$20K-$40K,Chief Algorithm Officer,www.stitchfix.com,5,AI-powered fashion
+225,Italic,eCommerce / DTC Brands,Luxury DTC,Los Angeles,CA,50,$10M-$25M,Inventory management AI,$8K-$15K,CEO,www.italic.com,3,Direct-from-manufacturer
+226,TRUFF,eCommerce / DTC Brands,Food/Condiments,Irvine,CA,50,$50M-$100M,Customer engagement AI,$8K-$15K,Director of E-Commerce,www.truff.com,3,Truffle hot sauce brand
+227,Fly By Jing,eCommerce / DTC Brands,Food/Condiments,Los Angeles,CA,30,$10M-$25M,Inventory automation,$8K-$12K,CEO,www.flybyjing.com,3,Sichuan-inspired sauces
+228,Brightland,eCommerce / DTC Brands,Food/Olive Oil,Los Angeles,CA,20,$5M-$10M,Customer retention AI,$5K-$10K,Founder,www.brightland.co,2,DTC olive oil brand
+229,Feat Clothing,eCommerce / DTC Brands,Athleisure,Henderson,NV,50,$10M-$25M,Customer service AI,$5K-$12K,Director of E-Commerce,www.featclothing.com,2,Growing DTC athleisure
+230,ASRV,eCommerce / DTC Brands,Athleisure,Carlsbad,CA,50,$10M-$25M,Inventory automation,$5K-$12K,CEO,www.asrv.com,2,Mens athletic brand
+231,Bylt Basics,eCommerce / DTC Brands,Apparel,Huntington Beach,CA,50,$10M-$25M,Customer engagement AI,$5K-$12K,Director of Marketing,www.byltbasics.com,2,Basics-focused apparel
+232,Lunya,eCommerce / DTC Brands,Sleepwear,Los Angeles,CA,100,$25M-$50M,Personalization AI,$8K-$15K,VP of E-Commerce,www.lunya.co,3,Premium sleepwear
+233,Thousand Fell,eCommerce / DTC Brands,Footwear,New York,NY,30,$5M-$10M,Customer retention AI,$5K-$10K,CEO,www.thousandfell.com,2,Recyclable sneakers
+234,Bite Toothpaste,eCommerce / DTC Brands,Personal Care,Los Angeles,CA,50,$10M-$25M,Subscription AI,$5K-$12K,Director of Operations,www.bitetoothpastebits.com,2,Sustainable oral care
+235,Huron,eCommerce / DTC Brands,Mens Grooming,New York,NY,30,$5M-$10M,Customer engagement AI,$5K-$10K,CEO,www.usehuron.com,2,Mens personal care
+236,Wild One,eCommerce / DTC Brands,Pet Products,New York,NY,40,$10M-$25M,Customer service AI,$5K-$12K,Director of E-Commerce,www.wildone.com,2,Modern pet brand
+237,Chippin,eCommerce / DTC Brands,Pet Food,New York,NY,20,$5M-$10M,Subscription management AI,$5K-$10K,CEO,www.chippin.com,2,Sustainable pet food
+238,The Farmers Dog,eCommerce / DTC Brands,Pet Food,New York,NY,500,$200M-$500M,Customer service AI,$10K-$25K,CTO,www.thefarmersdog.com,4,Fresh dog food subscription
+239,MUSH,eCommerce / DTC Brands,Food/Oats,Los Angeles,CA,30,$10M-$25M,Inventory automation,$5K-$12K,Director of Operations,www.eatmush.com,2,Ready-to-eat oats
+240,ColourPop,eCommerce / DTC Brands,Beauty,Los Angeles,CA,400,$200M-$500M,Personalization engine AI,$10K-$25K,VP of E-Commerce,www.colourpop.com,4,Affordable DTC beauty
+241,Planet Fitness,Fitness / Gym Franchises,Value Gym,Hampton,NH,40000,$1B+,Member retention AI,$25K-$50K,Chief Digital Officer,www.planetfitness.com,5,2400+ locations; NYSE listed
+242,Anytime Fitness,Fitness / Gym Franchises,24-Hour Gym,Woodbury,MN,30000,$500M-$1B,Lead nurturing AI,$20K-$40K,VP of Technology,www.anytimefitness.com,5,5000+ locations worldwide
+243,Crunch Fitness,Fitness / Gym Franchises,Full-Service Gym,New York,NY,10000,$500M-$1B,Scheduling automation,$15K-$30K,CTO,www.crunch.com,4,450+ locations
+244,Golds Gym,Fitness / Gym Franchises,Full-Service Gym,Dallas,TX,5000,$200M-$500M,Member engagement AI,$15K-$30K,VP of Digital,www.goldsgym.com,4,Iconic brand; 700+ locations
+245,Orangetheory Fitness,Fitness / Gym Franchises,Boutique Fitness,Boca Raton,FL,15000,$1B+,Member retention AI,$20K-$40K,Chief Technology Officer,www.orangetheory.com,5,1500+ studios
+246,F45 Training,Fitness / Gym Franchises,Boutique Fitness,Austin,TX,5000,$200M-$500M,Scheduling AI,$10K-$25K,CTO,www.f45training.com,4,1750+ studios globally
+247,Club Pilates,Fitness / Gym Franchises,Boutique Fitness,Irvine,CA,8000,$200M-$500M,Lead nurturing AI,$10K-$25K,VP of Technology,www.clubpilates.com,4,Xponential brand; 800+ studios
+248,HOTWORX,Fitness / Gym Franchises,Infrared Fitness,Baton Rouge,LA,3000,$100M-$200M,Member retention AI,$8K-$20K,Director of Technology,www.hotworx.net,3,700+ locations
+249,Pure Barre,Fitness / Gym Franchises,Boutique Fitness,Irvine,CA,5000,$100M-$200M,Scheduling automation,$8K-$20K,VP of Operations,www.purebarre.com,3,Xponential brand; 600+ studios
+250,D1 Training,Fitness / Gym Franchises,Athletic Training,Nashville,TN,2000,$50M-$100M,Lead qualification AI,$8K-$15K,Director of Technology,www.d1training.com,3,100+ locations
+251,Burn Boot Camp,Fitness / Gym Franchises,Boutique Fitness,Cornelius,NC,3000,$100M-$200M,Member engagement AI,$8K-$20K,VP of Technology,www.burnbootcamp.com,3,350+ locations
+252,The Exercise Coach,Fitness / Gym Franchises,Personal Training,Lake Zurich,IL,1000,$25M-$50M,Scheduling AI,$5K-$15K,Director of Operations,www.exercisecoach.com,3,140+ studios
+253,StretchLab,Fitness / Gym Franchises,Recovery/Stretch,Irvine,CA,3000,$50M-$100M,Appointment scheduling AI,$8K-$15K,VP of Technology,www.stretchlab.com,3,Xponential brand; 300+ studios
+254,TITLE Boxing Club,Fitness / Gym Franchises,Boxing Fitness,Kansas City,MO,1500,$25M-$50M,Lead nurturing AI,$5K-$15K,Director of Marketing,www.titleboxingclub.com,3,150+ locations
+255,Row House,Fitness / Gym Franchises,Boutique Fitness,Irvine,CA,1500,$25M-$50M,Member retention AI,$5K-$15K,VP of Operations,www.therowhouse.com,3,Xponential brand; rowing focus
+256,Barrys,Fitness / Gym Franchises,Boutique Fitness,Los Angeles,CA,2000,$100M-$200M,Scheduling automation AI,$10K-$20K,CTO,www.barrys.com,3,80+ studios
+257,SoulCycle,Fitness / Gym Franchises,Cycling,New York,NY,2000,$100M-$200M,Member engagement AI,$10K-$20K,VP of Technology,www.soul-cycle.com,3,Premium cycling studios
+258,Equinox,Fitness / Gym Franchises,Premium Fitness,New York,NY,10000,$1B+,Personalization AI,$20K-$40K,Chief Digital Officer,www.equinox.com,5,Premium fitness brand; 100+ clubs
+259,Life Time Fitness,Fitness / Gym Franchises,Premium Fitness,Chanhassen,MN,30000,$1B+,Member engagement AI,$25K-$50K,Chief Technology Officer,www.lifetime.life,5,170+ destinations; NYSE listed
+260,LA Fitness,Fitness / Gym Franchises,Full-Service Gym,Irvine,CA,10000,$1B+,Member retention AI,$20K-$35K,VP of Technology,www.lafitness.com,4,700+ clubs
+261,24 Hour Fitness,Fitness / Gym Franchises,Full-Service Gym,San Ramon,CA,8000,$500M-$1B,Scheduling automation AI,$15K-$30K,CTO,www.24hourfitness.com,4,300+ clubs
+262,YMCA of Greater New York,Fitness / Gym Franchises,Community Fitness,New York,NY,5000,$200M-$500M,Member engagement AI,$15K-$25K,CIO,www.ymcanyc.org,4,Largest US YMCA association
+263,UFC Gym,Fitness / Gym Franchises,MMA Fitness,Irvine,CA,3000,$100M-$200M,Lead nurturing AI,$10K-$20K,VP of Technology,www.ufcgym.com,3,150+ locations
+264,Snap Fitness,Fitness / Gym Franchises,24-Hour Gym,Chanhassen,MN,5000,$100M-$200M,Member retention AI,$8K-$20K,Director of Technology,www.snapfitness.com,3,1000+ locations
+265,Blink Fitness,Fitness / Gym Franchises,Value Gym,New York,NY,3000,$100M-$200M,Scheduling AI,$8K-$20K,CTO,www.blinkfitness.com,3,100+ locations
+266,EOS Fitness,Fitness / Gym Franchises,Full-Service Gym,Phoenix,AZ,2000,$50M-$100M,Lead qualification AI,$8K-$15K,VP of Operations,www.eosfitness.com,3,Growing Southwest brand
+267,Xponential Fitness,Fitness / Gym Franchises,Multi-Brand,Irvine,CA,5000,$200M-$500M,Multi-brand analytics AI,$20K-$40K,Chief Technology Officer,www.xponential.com,5,Parent of 10 fitness brands; NYSE
+268,CycleBar,Fitness / Gym Franchises,Cycling,Irvine,CA,2000,$50M-$100M,Member engagement AI,$8K-$15K,VP of Technology,www.cyclebar.com,3,Xponential brand; 200+ studios
+269,YogaSix,Fitness / Gym Franchises,Yoga,Irvine,CA,2000,$50M-$100M,Scheduling automation,$8K-$15K,Director of Operations,www.yogasix.com,3,Xponential brand; 200+ studios
+270,AKT,Fitness / Gym Franchises,Dance Fitness,Irvine,CA,500,$10M-$25M,Lead nurturing AI,$5K-$12K,VP of Operations,www.theakt.com,2,Xponential brand
+271,Rumble Boxing,Fitness / Gym Franchises,Boxing Fitness,New York,NY,1000,$25M-$50M,Member retention AI,$8K-$15K,Director of Technology,www.rumbleboxinggym.com,3,Xponential brand
+272,BFT (Body Fit Training),Fitness / Gym Franchises,Functional Training,Irvine,CA,1500,$25M-$50M,Scheduling AI,$5K-$15K,VP of Technology,www.bodyfittraining.com,3,Xponential brand; Australian origin
+273,Solidcore,Fitness / Gym Franchises,Pilates/Strength,Washington,DC,1500,$50M-$100M,Member engagement AI,$8K-$20K,CTO,www.solidcore.co,3,100+ studios
+274,CorePower Yoga,Fitness / Gym Franchises,Yoga,Denver,CO,3000,$100M-$200M,Scheduling automation AI,$10K-$20K,VP of Technology,www.corepoweryoga.com,3,200+ studios
+275,Club4 Fitness,Fitness / Gym Franchises,Value Gym,Flowood,MS,1000,$25M-$50M,Lead qualification AI,$5K-$15K,Director of Operations,www.club4fitness.com,2,Southeast value gym
+276,Workout Anytime,Fitness / Gym Franchises,24-Hour Gym,Alpharetta,GA,1500,$25M-$50M,Member retention AI,$5K-$15K,VP of Technology,www.workoutanytime.com,3,200+ locations
+277,Retro Fitness,Fitness / Gym Franchises,Value Gym,Colts Neck,NJ,2000,$50M-$100M,Lead nurturing AI,$8K-$15K,Director of Technology,www.retrofitness.com,3,140+ locations
+278,Basecamp Fitness,Fitness / Gym Franchises,HIIT,Irvine,CA,500,$10M-$25M,Scheduling automation,$5K-$12K,Director of Operations,www.basecampfitness.com,2,Xponential brand
+279,MADabolic,Fitness / Gym Franchises,Strength Training,Charlotte,NC,500,$10M-$25M,Member engagement AI,$5K-$12K,Director of Operations,www.madabolic.com,2,50+ studios
+280,CrossFit Mayhem,Fitness / Gym Franchises,CrossFit,Cookeville,TN,50,$5M-$10M,Member scheduling AI,$5K-$10K,Owner,www.crossfitmayhem.com,2,Top CrossFit affiliate; Rich Froning
+281,Lockton Companies,Insurance Agencies,Private Brokerage,Kansas City,MO,10500,$1B+,Claims processing AI,$25K-$50K,Chief Technology Officer,www.lockton.com,5,Largest privately held brokerage
+282,USI Insurance Services,Insurance Agencies,Brokerage,Valhalla,NY,10500,$1B+,Lead scoring AI,$25K-$50K,CTO,www.usi.com,5,10500 professionals; 200 offices
+283,Marsh McLennan Agency,Insurance Agencies,Brokerage,New York,NY,15000,$1B+,Underwriting automation,$30K-$50K,Chief Digital Officer,www.marshmma.com,5,Part of Marsh McLennan
+284,Hub International,Insurance Agencies,Brokerage,Chicago,IL,18000,$1B+,Claims processing AI,$25K-$50K,VP of Technology,www.hubinternational.com,5,500+ offices
+285,Acrisure,Insurance Agencies,Brokerage,Grand Rapids,MI,16000,$1B+,AI-powered quoting,$25K-$50K,CTO,www.acrisure.com,5,Fast growing; PE-backed
+286,Gallagher,Insurance Agencies,Global Brokerage,Rolling Meadows,IL,52000,$5B+,Underwriting AI,$30K-$50K,Chief Innovation Officer,www.ajg.com,5,Acquired AssuredPartners
+287,Brown & Brown,Insurance Agencies,Brokerage,Daytona Beach,FL,16000,$1B+,Claims automation AI,$25K-$50K,Chief Technology Officer,www.bbinsurance.com,5,NYSE listed; acquisition-driven
+288,AssuredPartners,Insurance Agencies,Brokerage,Lake Mary,FL,11000,$1B+,Lead scoring AI,$20K-$40K,CTO,www.assuredpartners.com,4,Acquired by Gallagher
+289,NFP,Insurance Agencies,Brokerage,New York,NY,7000,$1B+,Client onboarding AI,$20K-$35K,VP of Innovation,www.nfp.com,4,Part of Aon
+290,Risk Strategies,Insurance Agencies,Specialty Brokerage,Boston,MA,5000,$500M-$1B,Underwriting automation,$15K-$30K,Director of Technology,www.risk-strategies.com,4,Top 20 brokerage
+291,Alliant Insurance Services,Insurance Agencies,Specialty Brokerage,Newport Beach,CA,3500,$500M-$1B,Claims processing AI,$15K-$30K,CTO,www.alliant.com,4,Employee-owned
+292,IMA Financial Group,Insurance Agencies,Brokerage,Denver,CO,2000,$200M-$500M,Lead scoring AI,$10K-$25K,VP of Technology,www.imacorp.com,3,Employee-owned
+293,EPIC Insurance Brokers,Insurance Agencies,Brokerage,San Francisco,CA,2800,$200M-$500M,Client engagement AI,$10K-$25K,Director of Technology,www.epicbrokers.com,3,Growth-focused
+294,Higginbotham,Insurance Agencies,Regional Brokerage,Fort Worth,TX,2500,$200M-$500M,Claims automation,$10K-$25K,VP of IT,www.higginbotham.com,3,Largest independent in TX
+295,Holmes Murphy,Insurance Agencies,Regional Brokerage,Waukee,IA,1800,$100M-$200M,Underwriting AI,$10K-$20K,Director of Innovation,www.holmesmurphy.com,3,Employee-owned; Midwest
+296,Hylant,Insurance Agencies,Regional Brokerage,Toledo,OH,1000,$100M-$200M,Claims processing AI,$8K-$20K,VP of Technology,www.hylant.com,3,Top 30 US brokerage
+297,Woodruff Sawyer,Insurance Agencies,Regional Brokerage,San Francisco,CA,500,$100M-$200M,Lead qualification AI,$8K-$20K,Director of IT,www.wsandco.com,3,West Coast focused
+298,CCIG,Insurance Agencies,Regional Agency,Greenwood Village,CO,200,$25M-$50M,Client onboarding AI,$5K-$15K,VP of Operations,www.thinkccig.com,3,Colorado leader; top 100
+299,Atlas Insurance Brokers,Insurance Agencies,Regional Brokerage,Overland Park,KS,300,$50M-$100M,Lead scoring AI,$8K-$15K,Director of Technology,www.aibme.com,3,Top 100 P&C agency; 8 yrs running
+300,Rate Insurance,Insurance Agencies,Personal Lines,Chicago,IL,500,$50M-$100M,AI-powered quoting,$8K-$20K,CTO,www.rate.com/insurance,3,Top 100; fastest growing
+301,Patriot Growth Insurance,Insurance Agencies,Brokerage,Fort Lauderdale,FL,3000,$200M-$500M,Claims automation AI,$10K-$25K,VP of Technology,www.patriotgis.com,4,Fast-growing platform
+302,Relation Insurance Services,Insurance Agencies,Brokerage,Scottsdale,AZ,2000,$100M-$200M,Client engagement AI,$10K-$20K,Director of IT,www.relationinsurance.com,3,PE-backed growth
+303,Insurity,Insurance Agencies,InsurTech,Hartford,CT,800,$100M-$200M,Underwriting automation AI,$15K-$30K,Chief Technology Officer,www.insurity.com,4,Cloud insurance platform
+304,Lemonade,Insurance Agencies,InsurTech,New York,NY,1500,$200M-$500M,AI claims processing,$15K-$30K,CTO,www.lemonade.com,4,AI-first insurance company
+305,Hippo Insurance,Insurance Agencies,InsurTech,Austin,TX,800,$100M-$200M,Home insurance AI,$10K-$25K,Chief Technology Officer,www.hippo.com,4,Smart home insurance
+306,Kin Insurance,Insurance Agencies,InsurTech,Chicago,IL,500,$100M-$200M,Underwriting AI,$10K-$20K,CTO,www.kin.com,3,Direct-to-consumer home insurance
+307,Goosehead Insurance,Insurance Agencies,Franchise Agency,Westlake,TX,2500,$200M-$500M,Lead scoring AI,$10K-$25K,VP of Technology,www.gooseheadinsurance.com,4,NYSE listed; franchise model
+308,Brightway Insurance,Insurance Agencies,Franchise Agency,Jacksonville,FL,1500,$100M-$200M,Quote comparison AI,$8K-$20K,Director of Technology,www.brightway.com,3,300+ franchise locations
+309,The Hartford,Insurance Agencies,Carrier/Agency,Hartford,CT,19000,$10B+,Claims AI automation,$30K-$50K,Chief Digital Officer,www.thehartford.com,5,Fortune 500 insurer
+310,Erie Insurance,Insurance Agencies,Regional Carrier,Erie,PA,6000,$5B+,Claims processing AI,$20K-$40K,VP of Innovation,www.erieinsurance.com,4,Top regional insurer
+311,Selective Insurance,Insurance Agencies,Specialty Carrier,Branchville,NJ,2500,$1B+,Underwriting AI,$15K-$30K,CTO,www.selective.com,4,Commercial lines focus
+312,Westfield Insurance,Insurance Agencies,Regional Carrier,Westfield Center,OH,2500,$1B+,Claims automation,$15K-$25K,VP of Technology,www.westfieldinsurance.com,3,Midwest focus
+313,Hanover Insurance Group,Insurance Agencies,Regional Carrier,Worcester,MA,4500,$5B+,Underwriting AI,$20K-$35K,Chief Digital Officer,www.hanover.com,4,Top 30 P&C insurer
+314,EMC Insurance,Insurance Agencies,Regional Carrier,Des Moines,IA,2500,$1B+,Claims processing AI,$15K-$25K,Director of IT,www.emcins.com,3,Midwest commercial lines
+315,Donegal Insurance Group,Insurance Agencies,Regional Carrier,Marietta,PA,1500,$500M-$1B,Underwriting automation,$10K-$20K,VP of Technology,www.donegalgroup.com,3,Mid-Atlantic focus
+316,Cincinnati Financial,Insurance Agencies,Regional Carrier,Fairfield,OH,5000,$5B+,Claims AI,$20K-$35K,CTO,www.cinfin.com,4,Fortune 500; 35 years dividend growth
+317,Auto-Owners Insurance,Insurance Agencies,Regional Carrier,Lansing,MI,5500,$5B+,Claims automation AI,$20K-$35K,VP of Innovation,www.auto-owners.com,4,26 states; top 20 P&C
+318,State Auto Insurance,Insurance Agencies,Regional Carrier,Columbus,OH,1800,$1B+,Lead scoring AI,$10K-$25K,Director of Technology,www.stateauto.com,3,Now part of Liberty Mutual
+319,AMERITAS,Insurance Agencies,Life/Benefits,Lincoln,NE,2500,$1B+,Benefits enrollment AI,$15K-$25K,VP of Technology,www.ameritas.com,3,Dental/vision/life benefits
+320,Main Street America Insurance,Insurance Agencies,Regional Carrier,Jacksonville,FL,800,$500M-$1B,Underwriting AI,$10K-$20K,Director of IT,www.msagroup.com,3,Small business focus
+321,Robert Half,Staffing / Recruiting Firms,Professional Staffing,Menlo Park,CA,14000,$5B+,Resume screening AI,$25K-$50K,Chief Technology Officer,www.roberthalf.com,5,Worlds largest specialized staffing
+322,Randstad USA,Staffing / Recruiting Firms,General Staffing,Atlanta,GA,38000,$5B+,Candidate matching AI,$25K-$50K,VP of Innovation,www.randstadusa.com,5,AI-driven matching tools
+323,Insight Global,Staffing / Recruiting Firms,IT/Professional,Atlanta,GA,9000,$1B+,Resume screening AI,$20K-$40K,CTO,www.insightglobal.com,5,Fast-growing; high-volume recruiting
+324,Kforce,Staffing / Recruiting Firms,IT/Finance Staffing,Tampa,FL,4000,$1B+,Candidate matching AI,$20K-$35K,Chief Technology Officer,www.kforce.com,4,50+ US offices; NYSE listed
+325,TrueBlue,Staffing / Recruiting Firms,Industrial Staffing,Tacoma,WA,5000,$1B+,Worker matching AI,$15K-$30K,CTO,www.trueblue.com,4,NYSE listed; PeopleReady brand
+326,Aerotek,Staffing / Recruiting Firms,Engineering/Industrial,Hanover,MD,8000,$5B+,Interview scheduling AI,$20K-$40K,VP of Technology,www.aerotek.com,5,Allegis Group subsidiary
+327,TEKsystems,Staffing / Recruiting Firms,IT Staffing,Hanover,MD,5000,$5B+,Resume screening AI,$20K-$40K,Chief Digital Officer,www.teksystems.com,5,Allegis Group subsidiary
+328,Heidrick & Struggles,Staffing / Recruiting Firms,Executive Search,Chicago,IL,1700,$500M-$1B,Candidate assessment AI,$15K-$30K,CTO,www.heidrick.com,4,NYSE listed; executive search
+329,Korn Ferry,Staffing / Recruiting Firms,Executive Search,Los Angeles,CA,10000,$1B+,Leadership assessment AI,$25K-$50K,Chief Technology Officer,www.kornferry.com,5,Global organizational consulting
+330,LaSalle Network,Staffing / Recruiting Firms,IT/Professional,Chicago,IL,500,$100M-$200M,Candidate matching AI,$10K-$20K,VP of Technology,www.lasallenetwork.com,3,Midwest IT staffing leader
+331,TemPositions Group,Staffing / Recruiting Firms,Multi-Sector,New York,NY,600,$100M-$200M,Resume screening AI,$10K-$20K,Director of IT,www.tempositions.com,3,Top 1% staffing firm; Best of Staffing
+332,Frontline Source Group,Staffing / Recruiting Firms,IT/Finance,Dallas,TX,300,$50M-$100M,Interview scheduling AI,$8K-$15K,Director of Operations,www.frontlinesourcegroup.com,3,Quick-turnaround hiring
+333,Adecco USA,Staffing / Recruiting Firms,General Staffing,Jacksonville,FL,30000,$5B+,Worker matching AI,$25K-$50K,VP of Innovation,www.adeccousa.com,5,Global staffing leader
+334,Express Employment,Staffing / Recruiting Firms,General Staffing,Oklahoma City,OK,5000,$1B+,Candidate screening AI,$15K-$30K,CTO,www.expresspros.com,4,900+ franchise locations
+335,Spherion Staffing,Staffing / Recruiting Firms,Light Industrial,Atlanta,GA,2000,$200M-$500M,Worker matching AI,$10K-$20K,VP of Technology,www.spherion.com,3,175+ offices
+336,AppleOne,Staffing / Recruiting Firms,Administrative,Glendale,CA,1500,$100M-$200M,Resume screening AI,$8K-$20K,Director of IT,www.appleone.com,3,50+ offices
+337,Beacon Hill Staffing,Staffing / Recruiting Firms,Professional,Boston,MA,1000,$200M-$500M,Candidate matching AI,$10K-$20K,VP of Technology,www.beaconhillstaffing.com,3,Multiple business lines
+338,Judge Group,Staffing / Recruiting Firms,IT/Engineering,Wayne,PA,2000,$200M-$500M,Interview scheduling AI,$10K-$25K,Chief Technology Officer,www.judge.com,3,Learning + consulting too
+339,Vaco,Staffing / Recruiting Firms,Professional Staffing,Nashville,TN,1500,$200M-$500M,Candidate assessment AI,$10K-$25K,CTO,www.vaco.com,3,Finance/tech staffing leader
+340,Motion Recruitment,Staffing / Recruiting Firms,Tech Staffing,New York,NY,500,$100M-$200M,Resume screening AI,$8K-$20K,VP of Technology,www.motionrecruitment.com,3,Tech talent specialists
+341,Mondo (Insight Global),Staffing / Recruiting Firms,Digital/Creative,New York,NY,300,$50M-$100M,Candidate matching AI,$8K-$15K,Director of Technology,www.mondo.com,3,Digital staffing niche
+342,Addison Group,Staffing / Recruiting Firms,Professional,Chicago,IL,800,$100M-$200M,Interview scheduling AI,$8K-$20K,VP of Operations,www.addisongroup.com,3,Multi-sector staffing
+343,Brilliant Staffing,Staffing / Recruiting Firms,Finance/Accounting,Chicago,IL,200,$25M-$50M,Resume screening AI,$5K-$15K,Director of Operations,www.brilliantstaffing.com,2,Finance niche staffing
+344,Mitchell Martin,Staffing / Recruiting Firms,IT Staffing,New York,NY,300,$50M-$100M,Candidate matching AI,$8K-$15K,VP of Technology,www.mitchellmartin.com,3,IT consulting + staffing
+345,MatcHR (Match Group),Staffing / Recruiting Firms,Tech Recruiting,Los Angeles,CA,200,$25M-$50M,AI-powered matching,$5K-$15K,CTO,www.matchrstaffing.com,2,AI-forward staffing
+346,Hays US,Staffing / Recruiting Firms,Professional Staffing,Tampa,FL,1000,$200M-$500M,Candidate assessment AI,$10K-$20K,Chief Technology Officer,www.hays.com,3,Part of global Hays plc
+347,PrideStaff,Staffing / Recruiting Firms,Light Industrial,Fresno,CA,2000,$200M-$500M,Worker scheduling AI,$8K-$20K,VP of Technology,www.pridestaff.com,3,85+ offices; franchise model
+348,Kelly Services,Staffing / Recruiting Firms,General Staffing,Troy,MI,4000,$1B+,Candidate matching AI,$15K-$30K,Chief Technology Officer,www.kellyservices.com,4,75+ year history; global
+349,ManpowerGroup US,Staffing / Recruiting Firms,General Staffing,Milwaukee,WI,25000,$5B+,Workforce analytics AI,$25K-$50K,VP of Innovation,www.manpowergroup.com,5,Global workforce solutions
+350,Cielo,Staffing / Recruiting Firms,RPO,Milwaukee,WI,3000,$200M-$500M,Interview scheduling AI,$15K-$30K,CTO,www.cielotalent.com,4,Global RPO leader
+351,Alexander Mann Solutions,Staffing / Recruiting Firms,RPO,New York,NY,4000,$500M-$1B,Candidate assessment AI,$15K-$30K,Chief Technology Officer,www.alexandermannsolutions.com,4,Now AMS; talent solutions
+352,Yoh,Staffing / Recruiting Firms,IT/Engineering,Philadelphia,PA,2500,$500M-$1B,Resume screening AI,$10K-$25K,VP of Technology,www.yoh.com,3,Day & Zimmermann subsidiary
+353,Aquent,Staffing / Recruiting Firms,Creative Staffing,Boston,MA,1000,$200M-$500M,Candidate matching AI,$10K-$20K,CTO,www.aquent.com,3,Creative/marketing staffing
+354,Creative Circle,Staffing / Recruiting Firms,Creative Staffing,Los Angeles,CA,500,$100M-$200M,Candidate assessment AI,$8K-$15K,Director of Technology,www.creativecircle.com,3,Marketing/creative talent
+355,Procom,Staffing / Recruiting Firms,IT Staffing,Boston,MA,500,$100M-$200M,Resume screening AI,$8K-$15K,VP of Technology,www.procom.ca,3,IT consulting + staffing
+356,Nelson Staffing,Staffing / Recruiting Firms,Administrative,San Leandro,CA,300,$25M-$50M,Interview scheduling AI,$5K-$15K,Director of Operations,www.nelsonstaffing.com,2,Bay Area staffing
+357,On Assignment (Apex Group),Staffing / Recruiting Firms,Professional,Calabasas,CA,6000,$1B+,Candidate matching AI,$15K-$30K,Chief Technology Officer,www.apexgroup.com,4,Now Apex Group; diversified
+358,Mastech Holdings,Staffing / Recruiting Firms,IT Staffing,Pittsburgh,PA,2000,$200M-$500M,AI candidate matching,$10K-$25K,CTO,www.mastech.com,3,NYSE listed; digital transformation
+359,Volt Information Sciences,Staffing / Recruiting Firms,General Staffing,Orange,CT,1500,$200M-$500M,Workforce AI analytics,$10K-$20K,VP of Technology,www.volt.com,3,Multi-sector staffing
+360,Zobility (RGBSI),Staffing / Recruiting Firms,Engineering Staffing,Troy,MI,1000,$100M-$200M,Resume screening AI,$8K-$20K,Director of IT,www.zobility.com,3,Engineering/auto focus
+361,WebFX,Marketing / Digital Agencies,Full-Service Digital,Harrisburg,PA,500,$100M-$200M,Content generation AI,$15K-$30K,Chief Technology Officer,www.webfx.com,4,500+ employees; $10B+ driven for clients
+362,Disruptive Advertising,Marketing / Digital Agencies,PPC/CRO,Pleasant Grove,UT,200,$25M-$50M,Campaign optimization AI,$10K-$20K,VP of Operations,www.disruptiveadvertising.com,3,Google Premier Partner
+363,Ignite Visibility,Marketing / Digital Agencies,SEO/Digital,San Diego,CA,100,$25M-$50M,SEO automation AI,$8K-$20K,Director of Technology,www.ignitevisibility.com,3,Award-winning SEO agency
+364,NP Digital,Marketing / Digital Agencies,Full-Service,San Diego,CA,500,$50M-$100M,Content generation AI,$10K-$25K,CTO,www.npdigital.com,4,Neil Patel's agency; enterprise focus
+365,SmartSites,Marketing / Digital Agencies,Web/PPC,Paramus,NJ,200,$25M-$50M,Reporting automation AI,$8K-$20K,CTO,www.smartsites.com,3,SMB focused; top rated
+366,KlientBoost,Marketing / Digital Agencies,PPC/CRO,Costa Mesa,CA,100,$10M-$25M,Campaign optimization AI,$5K-$15K,Director of Operations,www.klientboost.com,3,SaaS/eComm focus
+367,Wieden+Kennedy,Marketing / Digital Agencies,Creative/Brand,Portland,OR,1500,$500M-$1B,Creative AI tools,$30K-$50K,Chief Innovation Officer,www.wk.com,5,Nike Just Do It agency
+368,Droga5,Marketing / Digital Agencies,Creative/Brand,New York,NY,500,$200M-$500M,Content generation AI,$25K-$50K,CTO,www.droga5.com,5,Award-winning creative agency
+369,BBDO Worldwide,Marketing / Digital Agencies,Full-Service,New York,NY,10000,$1B+,Campaign analytics AI,$30K-$50K,Chief Digital Officer,www.bbdo.com,5,Global advertising network
+370,R/GA,Marketing / Digital Agencies,Digital/Innovation,New York,NY,2000,$200M-$500M,Content personalization AI,$20K-$40K,CTO,www.rga.com,4,Innovation-focused agency
+371,VaynerMedia,Marketing / Digital Agencies,Social Media,New York,NY,1000,$200M-$500M,Social content AI,$15K-$30K,Chief Technology Officer,www.vaynermedia.com,4,Gary Vaynerchuk's agency
+372,Wpromote,Marketing / Digital Agencies,Performance Marketing,El Segundo,CA,500,$100M-$200M,Campaign optimization AI,$10K-$25K,VP of Technology,www.wpromote.com,4,Full-funnel performance
+373,Tinuiti,Marketing / Digital Agencies,Performance Marketing,New York,NY,1000,$200M-$500M,Attribution AI,$15K-$30K,CTO,www.tinuiti.com,4,Largest independent performance
+374,Power Digital Marketing,Marketing / Digital Agencies,Growth Marketing,San Diego,CA,700,$100M-$200M,Reporting automation AI,$10K-$25K,Chief Technology Officer,www.powerdigitalmarketing.com,4,nova platform; AI integration
+375,Thrive Internet Marketing,Marketing / Digital Agencies,SEO/PPC,Arlington,TX,200,$25M-$50K,Content generation AI,$8K-$15K,Director of Operations,www.thriveagency.com,3,Full-service digital agency
+376,Directive Consulting,Marketing / Digital Agencies,B2B SaaS Marketing,Irvine,CA,200,$25M-$50M,Campaign analytics AI,$8K-$20K,CTO,www.directive.com,3,B2B SaaS focused
+377,Walker Sands,Marketing / Digital Agencies,B2B/Tech PR,Chicago,IL,200,$25M-$50M,Content generation AI,$8K-$20K,VP of Technology,www.walkersands.com,3,B2B tech communications
+378,Single Grain,Marketing / Digital Agencies,Growth Marketing,Los Angeles,CA,100,$10M-$25M,SEO automation AI,$5K-$15K,Director of Operations,www.singlegrain.com,3,Eric Siu's agency
+379,Major Tom,Marketing / Digital Agencies,Full-Service,New York,NY,200,$25M-$50M,Content personalization AI,$8K-$20K,CTO,www.majortom.com,3,North American presence
+380,Refine Labs,Marketing / Digital Agencies,B2B Demand Gen,Boston,MA,100,$10M-$25M,Campaign optimization AI,$8K-$20K,Director of Technology,www.refinelabs.com,3,B2B demand generation pioneer
+381,Huge (IPG),Marketing / Digital Agencies,Digital Experience,Brooklyn,NY,1500,$200M-$500M,UX personalization AI,$20K-$40K,Chief Technology Officer,www.hugeinc.com,4,IPG subsidiary; design focus
+382,Razorfish,Marketing / Digital Agencies,Digital,New York,NY,2000,$200M-$500M,Customer journey AI,$20K-$40K,CTO,www.razorfish.com,4,Publicis Groupe subsidiary
+383,Digitas,Marketing / Digital Agencies,Data-Driven Marketing,Boston,MA,3000,$500M-$1B,Predictive analytics AI,$25K-$50K,Chief Data Officer,www.digitas.com,5,Publicis Groupe subsidiary
+384,MRM,Marketing / Digital Agencies,CRM/Data Marketing,New York,NY,2500,$200M-$500M,Marketing automation AI,$20K-$40K,VP of Technology,www.mrm.com,4,McCann Worldgroup subsidiary
+385,Merkle,Marketing / Digital Agencies,Data/CRM,Columbia,MD,14000,$1B+,Customer data AI,$25K-$50K,Chief Technology Officer,www.merkle.com,5,Dentsu subsidiary; data leader
+386,VMLY&R,Marketing / Digital Agencies,Creative/Digital,Kansas City,MO,7000,$1B+,Creative automation AI,$25K-$50K,CTO,www.vmlyr.com,5,WPP subsidiary
+387,Hawke Media,Marketing / Digital Agencies,Outsourced CMO,Los Angeles,CA,200,$25M-$50M,Content generation AI,$8K-$20K,Director of Technology,www.hawkemedia.com,3,Outsourced marketing leader
+388,360i,Marketing / Digital Agencies,Digital Innovation,New York,NY,500,$100M-$200M,Social listening AI,$10K-$25K,CTO,www.360i.com,4,Dentsu subsidiary
+389,iProspect,Marketing / Digital Agencies,Performance,Boston,MA,8000,$500M-$1B,Search optimization AI,$20K-$40K,Chief Technology Officer,www.iprospect.com,4,Dentsu subsidiary; global
+390,Seer Interactive,Marketing / Digital Agencies,SEO/Analytics,Philadelphia,PA,200,$25M-$50M,Data analytics AI,$8K-$20K,VP of Technology,www.seerinteractive.com,3,Data-forward SEO agency
+391,Barkley,Marketing / Digital Agencies,Creative,Kansas City,MO,300,$50M-$100M,Content generation AI,$8K-$20K,Director of Innovation,www.barkleyus.com,3,Independent creative agency
+392,Mekanism,Marketing / Digital Agencies,Creative/Social,San Francisco,CA,200,$25M-$50M,Social content AI,$8K-$20K,CTO,www.mekanism.com,3,Soul & science of marketing
+393,Funnel Boost Media,Marketing / Digital Agencies,Local SEO/PPC,San Antonio,TX,50,$5M-$10M,Lead generation AI,$5K-$12K,Director of Operations,www.funnelboostmedia.com,2,Veteran-owned; local focus
+394,Blackhawk Agency,Marketing / Digital Agencies,Growth Marketing,Austin,TX,50,$5M-$10M,Campaign optimization AI,$5K-$12K,Director of Technology,www.blackhawkagency.com,2,Growth-oriented; Austin-based
+395,Clearscope,Marketing / Digital Agencies,SEO Content,Austin,TX,50,$5M-$10M,Content optimization AI,$5K-$12K,CTO,www.clearscope.io,3,AI SEO content platform
+396,Media.Monks,Marketing / Digital Agencies,Digital Production,New York,NY,8000,$1B+,Content automation AI,$25K-$50K,Chief Technology Officer,www.media.monks.com,5,S4Capital subsidiary
+397,Jellyfish,Marketing / Digital Agencies,Digital Marketing,Baltimore,MD,2000,$200M-$500M,Training/analytics AI,$10K-$25K,CTO,www.jellyfish.com,4,Google partner; training focus
+398,Critical Mass,Marketing / Digital Agencies,Digital Experience,Calgary,AB,1000,$100M-$200M,UX personalization AI,$10K-$25K,VP of Technology,www.criticalmass.com,3,Experience design agency
+399,Dept Agency,Marketing / Digital Agencies,Digital,Amsterdam,NL,4000,$500M-$1B,AI-powered marketing,$15K-$30K,Chief Technology Officer,www.deptagency.com,4,Global digital agency; US operations
+400,Accenture Song,Marketing / Digital Agencies,Full-Service,New York,NY,40000,$5B+,Marketing AI suite,$40K-$50K,Chief Innovation Officer,www.accenture.com/song,5,Worlds largest digital agency
+401,OnPoint Manufacturing,Manufacturing (SMB),Custom/On-Demand,Florence,AL,200,$10M-$25M,Quality control AI,$8K-$20K,VP of Operations,www.onpointmanufacturing.com,3,On-demand production
+402,Suuchi Inc,Manufacturing (SMB),Tech-Driven Mfg,Carlstadt,NJ,300,$25M-$50M,Supply chain AI,$10K-$20K,CTO,www.suuchi.com,3,Design-to-delivery tech platform
+403,Protolabs,Manufacturing (SMB),Rapid Manufacturing,Maple Plain,MN,2800,$500M-$1B,Predictive maintenance AI,$15K-$30K,Chief Technology Officer,www.protolabs.com,4,Digital manufacturing leader
+404,Xometry,Manufacturing (SMB),On-Demand Mfg,North Bethesda,MD,1000,$500M-$1B,Estimating AI,$15K-$30K,CTO,www.xometry.com,4,AI-powered marketplace; NYSE
+405,Jabil,Manufacturing (SMB),Contract Manufacturing,St. Petersburg,FL,260000,$10B+,Quality control AI,$30K-$50K,Chief Digital Officer,www.jabil.com,5,Global contract manufacturer
+406,Flex Ltd,Manufacturing (SMB),Contract Manufacturing,San Jose,CA,170000,$10B+,Supply chain AI,$30K-$50K,VP of Digital,www.flex.com,5,Global electronics manufacturer
+407,Plexus Corp,Manufacturing (SMB),Contract Manufacturing,Neenah,WI,20000,$1B+,Predictive maintenance AI,$25K-$50K,CTO,www.plexus.com,4,Complex product manufacturing
+408,CUI Global,Manufacturing (SMB),Power/Electro Mfg,Tualatin,OR,200,$25M-$50M,Quality control AI,$8K-$15K,VP of Engineering,www.cuiglobal.com,3,Power supply manufacturer
+409,Marlin Steel,Manufacturing (SMB),Custom Metal,Baltimore,MD,50,$10M-$25M,Production scheduling AI,$5K-$15K,President,www.marlinwire.com,3,Custom metal forming
+410,Superior Industries,Manufacturing (SMB),Aluminum Wheels,Southfield,MI,7000,$1B+,Quality inspection AI,$20K-$40K,Chief Technology Officer,www.supind.com,4,NYSE listed; auto supplier
+411,Watts Water Technologies,Manufacturing (SMB),Water Products,North Andover,MA,4000,$1B+,Predictive maintenance AI,$20K-$35K,VP of Innovation,www.watts.com,4,NYSE listed; water management
+412,Chart Industries,Manufacturing (SMB),Industrial Equipment,Ball Ground,GA,11000,$1B+,Supply chain AI,$20K-$40K,CTO,www.chartindustries.com,4,NYSE listed; energy equipment
+413,Thermon Group,Manufacturing (SMB),Process Heating,Austin,TX,3000,$500M-$1B,Predictive maintenance AI,$15K-$25K,Director of Technology,www.thermon.com,3,Industrial process heating
+414,EnPro Industries,Manufacturing (SMB),Seals/Coatings,Charlotte,NC,4000,$1B+,Quality control AI,$15K-$30K,VP of Innovation,www.enproindustries.com,4,NYSE listed; engineered products
+415,Mueller Water Products,Manufacturing (SMB),Water Infrastructure,Atlanta,GA,3500,$1B+,Predictive maintenance AI,$15K-$30K,Chief Technology Officer,www.muellerwaterproducts.com,4,NYSE listed; water infrastructure
+416,Roper Technologies,Manufacturing (SMB),Diversified Industrial,Sarasota,FL,16000,$5B+,Quality analytics AI,$25K-$50K,CTO,www.ropertech.com,5,S&P 500 industrial
+417,Nordson Corporation,Manufacturing (SMB),Precision Dispensing,Westlake,OH,7500,$1B+,Production optimization AI,$20K-$35K,VP of Digital,www.nordson.com,4,NYSE listed; precision tech
+418,Haynes International,Manufacturing (SMB),Alloys,Kokomo,IN,2000,$500M-$1B,Quality control AI,$15K-$25K,Director of IT,www.haynesintl.com,3,High-performance alloys
+419,NN Inc,Manufacturing (SMB),Precision Components,Charlotte,NC,3500,$500M-$1B,Predictive maintenance AI,$15K-$25K,VP of Technology,www.nninc.com,3,Precision manufacturing
+420,Core Molding Technologies,Manufacturing (SMB),Composites,Columbus,OH,1500,$200M-$500M,Quality inspection AI,$10K-$20K,Director of Innovation,www.coremt.com,3,Composite manufacturing
+421,MW Industries,Manufacturing (SMB),Springs/Fasteners,Rosemont,IL,3000,$500M-$1B,Supply chain AI,$10K-$25K,VP of Operations,www.mw-ind.com,3,Precision components
+422,Jason Industries,Manufacturing (SMB),Industrial Components,Milwaukee,WI,2000,$200M-$500M,Production scheduling AI,$10K-$20K,Director of IT,www.jasoninc.com,3,Diversified industrial
+423,Chase Industries,Manufacturing (SMB),Safety Products,Montville,OH,200,$25M-$50M,Quality control AI,$5K-$15K,VP of Operations,www.chaseindustries.com,2,Industrial safety products
+424,Allied Products Corp,Manufacturing (SMB),Industrial Equipment,Chicago,IL,500,$50M-$100M,Predictive maintenance AI,$8K-$20K,Director of Technology,www.alliedproducts.com,3,Material handling equipment
+425,Taylor Made Group,Manufacturing (SMB),Marine/Auto Glass,Gloversville,NY,500,$50M-$100M,Quality inspection AI,$8K-$15K,VP of Engineering,www.taylormadewindshields.com,3,Marine products manufacturer
+426,Omega Protein,Manufacturing (SMB),Animal Nutrition,Houston,TX,800,$200M-$500M,Supply chain AI,$10K-$20K,Director of IT,www.omegaprotein.com,3,Fish oil/nutrition products
+427,Continental Building Products,Manufacturing (SMB),Building Materials,Herndon,VA,800,$200M-$500M,Production optimization AI,$10K-$20K,VP of Technology,www.continental-bp.com,3,Wallboard manufacturer
+428,Boise Cascade,Manufacturing (SMB),Wood Products,Boise,ID,7000,$5B+,Supply chain AI,$20K-$40K,CTO,www.bc.com,4,NYSE listed; building products
+429,GrafTech International,Manufacturing (SMB),Graphite Electrodes,Independence,OH,1500,$500M-$1B,Quality control AI,$10K-$25K,Director of Innovation,www.graftech.com,3,NYSE listed; graphite products
+430,Insteel Industries,Manufacturing (SMB),Steel Wire,Mount Airy,NC,1000,$500M-$1B,Predictive maintenance AI,$10K-$20K,VP of Technology,www.insteel.com,3,NYSE listed; steel wire
+431,American Axle,Manufacturing (SMB),Auto Components,Detroit,MI,20000,$5B+,Quality analytics AI,$25K-$50K,Chief Technology Officer,www.aam.com,5,NYSE listed; driveline components
+432,Modine Manufacturing,Manufacturing (SMB),Thermal Mgmt,Racine,WI,11000,$1B+,Predictive maintenance AI,$15K-$30K,VP of Innovation,www.modine.com,4,NYSE listed; thermal management
+433,Clearwater Paper,Manufacturing (SMB),Paper Products,Spokane,WA,2000,$1B+,Production scheduling AI,$10K-$25K,Director of IT,www.clearwaterpaper.com,3,NYSE listed; consumer tissue
+434,Olympic Steel,Manufacturing (SMB),Metal Service,Cleveland,OH,3000,$1B+,Supply chain AI,$10K-$25K,VP of Technology,www.olysteel.com,3,NASDAQ; steel distribution
+435,Kadant Inc,Manufacturing (SMB),Industrial Process,Westford,MA,3000,$500M-$1B,Predictive maintenance AI,$10K-$25K,CTO,www.kadant.com,3,NYSE listed; process equipment
+436,Luxfer Holdings,Manufacturing (SMB),Gas Cylinders,Riverside,CA,1500,$200M-$500M,Quality control AI,$8K-$20K,Director of Innovation,www.luxfer.com,3,NYSE listed; specialty materials
+437,Franklin Electric,Manufacturing (SMB),Pumping Systems,Fort Wayne,IN,5000,$1B+,Predictive maintenance AI,$15K-$25K,VP of Technology,www.franklin-electric.com,4,NASDAQ; water/fuel systems
+438,Lindsay Corporation,Manufacturing (SMB),Agriculture/Infra,Omaha,NE,1500,$500M-$1B,Smart agriculture AI,$10K-$25K,Director of Innovation,www.lindsay.com,3,NYSE listed; irrigation
+439,Watts Water Technologies,Manufacturing (SMB),Plumbing/Flow,North Andover,MA,4000,$1B+,Quality analytics AI,$15K-$30K,Chief Technology Officer,www.watts.com,4,NYSE; water management products
+440,Haynes Wire Company,Manufacturing (SMB),Wire Products,Mountain Home,NC,100,$10M-$25M,Production optimization AI,$5K-$12K,VP of Operations,www.hayneswire.com,2,Specialty wire manufacturer
+441,C.H. Robinson,Logistics / Freight / 3PL,Freight Brokerage,Eden Prairie,MN,15000,$10B+,Route optimization AI,$30K-$50K,Chief Technology Officer,www.chrobinson.com,5,Navisphere platform; largest broker
+442,XPO Logistics,Logistics / Freight / 3PL,3PL,Greenwich,CT,38000,$5B+,Shipment tracking AI,$25K-$50K,CTO,www.xpo.com,5,Last-mile + LTL leader
+443,J.B. Hunt,Logistics / Freight / 3PL,Intermodal/3PL,Lowell,AR,35000,$10B+,Load matching AI,$25K-$50K,Chief Digital Officer,www.jbhunt.com,5,J.B. Hunt 360 platform
+444,Echo Global Logistics,Logistics / Freight / 3PL,Freight Brokerage,Chicago,IL,3000,$1B+,Route optimization AI,$15K-$30K,VP of Technology,www.echo.com,4,Multi-modal brokerage
+445,TQL (Total Quality Logistics),Logistics / Freight / 3PL,Freight Brokerage,Cincinnati,OH,8000,$5B+,Load matching AI,$20K-$40K,CTO,www.tql.com,5,Largest privately held broker
+446,Worldwide Express (WWEX),Logistics / Freight / 3PL,Freight Brokerage,Dallas,TX,4000,$1B+,Shipment tracking AI,$15K-$30K,Chief Technology Officer,www.wwex.com,4,92K+ SMB customers
+447,Expeditors International,Logistics / Freight / 3PL,Freight Forwarding,Seattle,WA,18000,$5B+,Demand forecasting AI,$25K-$50K,VP of Innovation,www.expeditors.com,5,Non-asset-based; global reach
+448,DHL Supply Chain NA,Logistics / Freight / 3PL,3PL,Westerville,OH,50000,$10B+,Warehouse automation AI,$30K-$50K,CTO,www.dhl.com,5,Gartner Leader 10 yrs running
+449,UPS Supply Chain Solutions,Logistics / Freight / 3PL,3PL,Atlanta,GA,500000,$50B+,Route optimization AI,$40K-$50K,Chief Digital Officer,www.ups.com/supplychain,5,End-to-end solutions
+450,FedEx Logistics,Logistics / Freight / 3PL,3PL,Memphis,TN,500000,$50B+,Shipment prediction AI,$40K-$50K,VP of Innovation,www.fedex.com/logistics,5,Global logistics platform
+451,Ryder System,Logistics / Freight / 3PL,3PL/Fleet,Miami,FL,36000,$5B+,Fleet analytics AI,$25K-$50K,Chief Technology Officer,www.ryder.com,5,NYSE; fleet management + 3PL
+452,Kenco Group,Logistics / Freight / 3PL,3PL,Chattanooga,TN,5000,$500M-$1B,Warehouse automation AI,$15K-$30K,CTO,www.kencogroup.com,4,75+ years; employee-owned
+453,NFI Industries,Logistics / Freight / 3PL,3PL,Camden,NJ,15000,$1B+,Route optimization AI,$20K-$40K,VP of Technology,www.nfiindustries.com,4,Family-owned since 1932
+454,Saddle Creek Logistics,Logistics / Freight / 3PL,3PL,Lakeland,FL,3000,$500M-$1B,Demand forecasting AI,$10K-$25K,Director of Innovation,www.sclogistics.com,3,Omnichannel fulfillment
+455,Werner Enterprises,Logistics / Freight / 3PL,Trucking/3PL,Omaha,NE,13000,$1B+,Route optimization AI,$15K-$30K,Chief Technology Officer,www.werner.com,4,NASDAQ listed; full truckload
+456,Schneider National,Logistics / Freight / 3PL,Trucking/3PL,Green Bay,WI,15000,$5B+,Load matching AI,$20K-$40K,CTO,www.schneider.com,5,NYSE listed; intermodal leader
+457,Coyote Logistics,Logistics / Freight / 3PL,Freight Brokerage,Chicago,IL,3000,$1B+,Carrier matching AI,$15K-$25K,VP of Technology,www.coyote.com,4,UPS subsidiary
+458,GlobalTranz,Logistics / Freight / 3PL,Freight Brokerage,Scottsdale,AZ,2000,$1B+,Shipment tracking AI,$10K-$25K,CTO,www.globaltranz.com,3,Tech-enabled brokerage
+459,Transplace (Uber Freight),Logistics / Freight / 3PL,Managed Transportation,Frisco,TX,3000,$1B+,Route optimization AI,$15K-$30K,Chief Technology Officer,www.uberfreight.com,4,Now part of Uber Freight
+460,ShipBob,Logistics / Freight / 3PL,eComm Fulfillment,Chicago,IL,1500,$200M-$500M,Inventory forecasting AI,$10K-$25K,CTO,www.shipbob.com,4,DTC fulfillment leader
+461,Flexport,Logistics / Freight / 3PL,Digital Freight,San Francisco,CA,3000,$500M-$1B,Supply chain AI,$15K-$30K,Chief Technology Officer,www.flexport.com,4,AI-first freight forwarder
+462,Arrive Logistics,Logistics / Freight / 3PL,Freight Brokerage,Austin,TX,1500,$1B+,Carrier matching AI,$10K-$25K,VP of Technology,www.arrivelogistics.com,3,Fast-growing brokerage
+463,Redwood Logistics,Logistics / Freight / 3PL,Managed Freight,Chicago,IL,800,$200M-$500M,Integration AI,$8K-$20K,CTO,www.redwoodlogistics.com,3,Platform-based 3PL
+464,BNSF Logistics,Logistics / Freight / 3PL,Rail/Intermodal,Springdale,AR,2000,$500M-$1B,Shipment tracking AI,$15K-$25K,VP of Technology,www.bnsflogistics.com,3,BNSF Railway subsidiary
+465,Penske Logistics,Logistics / Freight / 3PL,3PL,Reading,PA,37000,$5B+,Fleet analytics AI,$25K-$50K,Chief Technology Officer,www.penskelogistics.com,5,Full-service logistics
+466,GXO Logistics,Logistics / Freight / 3PL,Contract Logistics,Greenwich,CT,120000,$5B+,Warehouse robotics AI,$30K-$50K,CTO,www.gxo.com,5,Largest pure-play contract logistics
+467,R+L Carriers,Logistics / Freight / 3PL,LTL,Wilmington,OH,15000,$1B+,Route optimization AI,$15K-$30K,VP of Technology,www.rlcarriers.com,4,National LTL carrier
+468,SEKO Logistics,Logistics / Freight / 3PL,Omnichannel,Itasca,IL,2000,$500M-$1B,Demand forecasting AI,$10K-$25K,Director of Innovation,www.sekologistics.com,3,Global omnichannel logistics
+469,Radial (bpost),Logistics / Freight / 3PL,eComm Fulfillment,King of Prussia,PA,5000,$500M-$1B,Order processing AI,$10K-$25K,CTO,www.radial.com,3,eCommerce fulfillment
+470,Port Logistics Group,Logistics / Freight / 3PL,Last-Mile,Kearny,NJ,1500,$200M-$500M,Route optimization AI,$8K-$20K,Director of Technology,www.portlogisticsgroup.com,3,Last-mile delivery
+471,OHL (Geodis),Logistics / Freight / 3PL,3PL,Brentwood,TN,3000,$500M-$1B,Warehouse automation AI,$10K-$25K,VP of Technology,www.geodis.com,3,Now Geodis Americas
+472,Pilot Freight Services,Logistics / Freight / 3PL,Last-Mile,Lima,PA,2000,$500M-$1B,Delivery scheduling AI,$10K-$20K,CTO,www.pilotdelivers.com,3,White-glove last-mile
+473,ShipStation,Logistics / Freight / 3PL,Shipping Software,Austin,TX,500,$100M-$200M,Order processing AI,$8K-$20K,Chief Technology Officer,www.shipstation.com,3,Auctane subsidiary
+474,Convoy,Logistics / Freight / 3PL,Digital Freight,Seattle,WA,300,$100M-$200M,AI carrier matching,$8K-$20K,CTO,www.convoy.com,3,AI-first freight platform
+475,FreightPOP,Logistics / Freight / 3PL,TMS Software,Manhattan Beach,CA,100,$10M-$25M,Shipping optimization AI,$5K-$15K,Director of Product,www.freightpop.com,2,Multi-carrier TMS
+476,Loadsmart,Logistics / Freight / 3PL,Digital Freight,New York,NY,300,$50M-$100M,AI pricing engine,$8K-$15K,CTO,www.loadsmart.com,3,AI-powered freight
+477,project44,Logistics / Freight / 3PL,Visibility Platform,Chicago,IL,1000,$100M-$200M,Shipment tracking AI,$10K-$25K,Chief Technology Officer,www.project44.com,4,Supply chain visibility
+478,FourKites,Logistics / Freight / 3PL,Visibility Platform,Chicago,IL,700,$100M-$200M,Predictive tracking AI,$10K-$25K,CTO,www.fourkites.com,4,Real-time visibility
+479,Descartes Systems,Logistics / Freight / 3PL,Logistics Tech,Waterloo,ON,2000,$500M-$1B,Route optimization AI,$15K-$25K,Chief Technology Officer,www.descartes.com,4,NASDAQ listed; logistics tech
+480,MercuryGate,Logistics / Freight / 3PL,TMS,Cary,NC,400,$50M-$100M,Load optimization AI,$8K-$20K,CTO,www.mercurygate.com,3,TMS platform
+481,Chipotle Mexican Grill,Restaurants / Food Service Chains,Fast Casual,Newport Beach,CA,110000,$10B+,Inventory AI,$30K-$50K,Chief Technology Officer,www.chipotle.com,5,3500+ locations; 315 new in 2025
+482,Daves Hot Chicken,Restaurants / Food Service Chains,Fast Casual,Pasadena,CA,5000,$200M-$500M,Staff scheduling AI,$10K-$25K,VP of Technology,www.daveshotchicken.com,4,260 locations; 80 new in 2025
+483,Cava Group,Restaurants / Food Service Chains,Fast Casual,Washington,DC,6000,$500M-$1B,Customer feedback AI,$15K-$30K,CTO,www.cava.com,4,Mediterranean chain; NYSE listed
+484,Wingstop,Restaurants / Food Service Chains,Fast Casual,Dallas,TX,3000,$200M-$500M,Inventory management AI,$10K-$25K,Chief Digital Officer,www.wingstop.com,4,2560+ stores; 30% growth
+485,Raising Canes,Restaurants / Food Service Chains,Fast Casual,Baton Rouge,LA,50000,$5B+,Staff scheduling AI,$25K-$50K,VP of Technology,www.raisingcanes.com,5,900 locations; 100+ new in 2025
+486,Sweetgreen,Restaurants / Food Service Chains,Fast Casual,Los Angeles,CA,4500,$500M-$1B,Inventory AI,$15K-$30K,Chief Technology Officer,www.sweetgreen.com,4,Infinite Kitchen automation
+487,First Watch,Restaurants / Food Service Chains,Breakfast/Brunch,Bradenton,FL,10000,$500M-$1B,Customer feedback AI,$10K-$25K,VP of Digital,www.firstwatch.com,4,500+ restaurants; 20% growth
+488,Bonchon,Restaurants / Food Service Chains,Korean Fried Chicken,New York,NY,2000,$100M-$200M,Inventory management AI,$8K-$20K,Director of Technology,www.bonchon.com,3,150 US locations; expanding to 500
+489,Port of Subs,Restaurants / Food Service Chains,Sandwich Chain,Reno,NV,1500,$50M-$100M,Staff scheduling AI,$5K-$15K,VP of Operations,www.portofsubs.com,3,450 new locations in development
+490,Shake Shack,Restaurants / Food Service Chains,Fast Casual,New York,NY,9000,$1B+,Customer engagement AI,$15K-$30K,Chief Technology Officer,www.shakeshack.com,4,500+ locations; NYSE listed
+491,Panera Bread,Restaurants / Food Service Chains,Fast Casual,St. Louis,MO,70000,$5B+,Drive-thru AI,$25K-$50K,CTO,www.panerabread.com,5,2100+ locations
+492,Five Guys,Restaurants / Food Service Chains,Fast Casual,Lorton,VA,25000,$1B+,Inventory management AI,$15K-$30K,VP of Technology,www.fiveguys.com,4,1800+ locations
+493,MOD Pizza,Restaurants / Food Service Chains,Fast Casual,Bellevue,WA,10000,$500M-$1B,Staff scheduling AI,$10K-$25K,Director of Technology,www.modpizza.com,3,500+ locations
+494,Noodles & Company,Restaurants / Food Service Chains,Fast Casual,Broomfield,CO,9000,$500M-$1B,Customer feedback AI,$10K-$20K,CTO,www.noodles.com,3,450+ locations; NASDAQ
+495,Portillos,Restaurants / Food Service Chains,Fast Casual,Oak Brook,IL,8000,$500M-$1B,Inventory AI,$10K-$25K,VP of Digital,www.portillos.com,4,80+ locations; expanding
+496,Zaxbys,Restaurants / Food Service Chains,Fast Casual,Athens,GA,20000,$1B+,Staff scheduling AI,$15K-$30K,Chief Technology Officer,www.zaxbys.com,4,900+ locations
+497,Wawa,Restaurants / Food Service Chains,Convenience/QSR,Wawa,PA,35000,$10B+,Inventory management AI,$25K-$50K,CTO,www.wawa.com,5,1000+ locations
+498,Sheetz,Restaurants / Food Service Chains,Convenience/QSR,Altoona,PA,23000,$5B+,Customer feedback AI,$20K-$40K,VP of Technology,www.sheetz.com,5,700+ locations
+499,Dutch Bros,Restaurants / Food Service Chains,Coffee/Drive-Thru,Grants Pass,OR,15000,$1B+,Drive-thru AI,$15K-$30K,Chief Technology Officer,www.dutchbros.com,4,900+ locations; NYSE
+500,Chicken Salad Chick,Restaurants / Food Service Chains,Fast Casual,Auburn,AL,5000,$200M-$500M,Staff scheduling AI,$8K-$20K,VP of Operations,www.chickensaladchick.com,3,250+ locations
+501,Salata,Restaurants / Food Service Chains,Fast Casual,Houston,TX,2000,$50M-$100M,Inventory AI,$5K-$15K,Director of Technology,www.salata.com,2,100+ locations
+502,The Halal Guys,Restaurants / Food Service Chains,Fast Casual,New York,NY,1000,$50M-$100M,Customer engagement AI,$5K-$15K,VP of Operations,www.thehalalguys.com,3,100+ locations
+503,CAVA Group,Restaurants / Food Service Chains,Mediterranean,Washington,DC,6000,$500M-$1B,Menu optimization AI,$15K-$30K,CTO,www.cava.com,4,350+ locations
+504,Mendocino Farms,Restaurants / Food Service Chains,Fast Casual,Los Angeles,CA,2500,$100M-$200M,Inventory management AI,$8K-$20K,Director of Technology,www.mendocinofarms.com,3,60+ locations; California focused
+505,Blaze Pizza,Restaurants / Food Service Chains,Fast Casual,Pasadena,CA,5000,$200M-$500M,Staff scheduling AI,$8K-$20K,VP of Technology,www.blazepizza.com,3,300+ locations
+506,Tropical Smoothie Cafe,Restaurants / Food Service Chains,Fast Casual,Atlanta,GA,10000,$500M-$1B,Inventory AI,$10K-$25K,Chief Technology Officer,www.tropicalsmoothiecafe.com,4,1400+ locations
+507,Torchys Tacos,Restaurants / Food Service Chains,Fast Casual,Austin,TX,5000,$200M-$500M,Customer feedback AI,$8K-$20K,Director of Technology,www.torchystacos.com,3,100+ locations; Texas-based
+508,Velvet Taco,Restaurants / Food Service Chains,Fast Casual,Dallas,TX,2000,$50M-$100M,Staff scheduling AI,$5K-$15K,VP of Operations,www.velvettaco.com,2,40+ locations
+509,The Original Pancake House,Restaurants / Food Service Chains,Breakfast,Portland,OR,3000,$100M-$200M,Customer feedback AI,$5K-$15K,Director of Operations,www.originalpancakehouse.com,3,100+ franchised locations
+510,Potbelly Sandwich,Restaurants / Food Service Chains,Fast Casual,Chicago,IL,5000,$200M-$500M,Inventory management AI,$8K-$20K,CTO,www.potbelly.com,3,400+ locations; NASDAQ
+511,McAlisters Deli,Restaurants / Food Service Chains,Fast Casual,Sandy Springs,GA,10000,$500M-$1B,Staff scheduling AI,$10K-$20K,VP of Technology,www.mcalistersdeli.com,3,500+ locations
+512,Naf Naf Middle Eastern Grill,Restaurants / Food Service Chains,Fast Casual,Chicago,IL,500,$25M-$50M,Inventory AI,$5K-$12K,Director of Operations,www.nafnafgrill.com,2,40+ locations
+513,Freebirds World Burrito,Restaurants / Food Service Chains,Fast Casual,Austin,TX,1000,$25M-$50M,Customer engagement AI,$5K-$12K,VP of Operations,www.freebirds.com,2,60+ locations; Texas
+514,Cousins Subs,Restaurants / Food Service Chains,Sandwich Chain,Menomonee Falls,WI,2000,$50M-$100M,Inventory management AI,$5K-$15K,Director of IT,www.cousinssubs.com,2,90+ locations
+515,Eggs Up Grill,Restaurants / Food Service Chains,Breakfast,Spartanburg,SC,1500,$25M-$50M,Staff scheduling AI,$5K-$12K,VP of Operations,www.eggsupgrill.com,2,60+ locations; Southeast
+516,Clean Juice,Restaurants / Food Service Chains,Juice Bar,Charlotte,NC,800,$10M-$25M,Inventory AI,$5K-$10K,Director of Operations,www.cleanjuice.com,2,100+ franchise locations
+517,Swig,Restaurants / Food Service Chains,Drink Shop,St. George,UT,500,$10M-$25M,Customer engagement AI,$5K-$10K,Director of Technology,www.swigdrinks.com,2,Dirty soda trend; 50+ locations
+518,Eureka! Restaurant Group,Restaurants / Food Service Chains,Full Service,Hawthorne,CA,2000,$50M-$100M,Staff scheduling AI,$8K-$15K,Director of IT,www.eurekarestaurantgroup.com,3,30 locations; upscale casual
+519,North Italia,Restaurants / Food Service Chains,Full Service,Scottsdale,AZ,3000,$100M-$200M,Customer feedback AI,$8K-$20K,VP of Technology,www.northitalia.com,3,30+ locations; upscale Italian
+520,True Food Kitchen,Restaurants / Food Service Chains,Full Service,Phoenix,AZ,3000,$100M-$200M,Inventory management AI,$8K-$20K,Director of Technology,www.truefoodkitchen.com,3,45+ locations; health-focused
+521,Lithia Motors,Auto Dealerships,Multi-Brand Dealer,Medford,OR,18000,$10B+,Lead follow-up AI,$30K-$50K,Chief Digital Officer,www.lithia.com,5,#1 US auto retailer; NYSE
+522,AutoNation,Auto Dealerships,Multi-Brand Dealer,Fort Lauderdale,FL,21000,$10B+,Inventory management AI,$30K-$50K,Chief Technology Officer,www.autonation.com,5,#2 US dealer; NYSE
+523,Penske Automotive Group,Auto Dealerships,Multi-Brand Dealer,Bloomfield Hills,MI,27000,$10B+,Service scheduling AI,$30K-$50K,CTO,www.penskeautomotive.com,5,#3 US dealer; NYSE
+524,Group 1 Automotive,Auto Dealerships,Multi-Brand Dealer,Houston,TX,15000,$10B+,Lead follow-up AI,$25K-$50K,VP of Digital,www.group1auto.com,5,#4 US dealer; NYSE
+525,Asbury Automotive Group,Auto Dealerships,Multi-Brand Dealer,Duluth,GA,12000,$10B+,Customer engagement AI,$25K-$50K,Chief Technology Officer,www.asburyauto.com,5,#5 US dealer; NYSE
+526,Sonic Automotive,Auto Dealerships,Multi-Brand Dealer,Charlotte,NC,10000,$10B+,Inventory AI,$25K-$50K,CTO,www.sonicautomotive.com,5,NYSE; EchoPark brand
+527,Hendrick Automotive,Auto Dealerships,Multi-Brand Dealer,Charlotte,NC,10000,$10B+,Lead follow-up AI,$25K-$50K,VP of Technology,www.hendrickauto.com,5,Largest private dealer group
+528,Larry H. Miller Dealerships,Auto Dealerships,Multi-Brand Dealer,Sandy,UT,8000,$5B+,Service scheduling AI,$20K-$40K,Director of Digital,www.lhm.com,4,60+ dealerships
+529,Ken Garff Automotive,Auto Dealerships,Multi-Brand Dealer,Salt Lake City,UT,6000,$5B+,Customer engagement AI,$20K-$40K,VP of Technology,www.kengarff.com,4,50+ locations
+530,Holman Enterprises,Auto Dealerships,Multi-Brand Dealer,Mount Laurel,NJ,6000,$5B+,Lead follow-up AI,$20K-$40K,Chief Technology Officer,www.holmanenterprises.com,4,Acquired Leith Automotive
+531,Parks Automotive Group,Auto Dealerships,Multi-Brand Dealer,Kannapolis,NC,2000,$1B+,Inventory management AI,$10K-$25K,Director of IT,www.parksautogroup.com,3,Southeast dealer group
+532,Sewell Automotive,Auto Dealerships,Luxury Dealer,Dallas,TX,2500,$1B+,Customer engagement AI,$15K-$25K,VP of Technology,www.sewell.com,4,Luxury brand focus
+533,JM Family Enterprises,Auto Dealerships,Distributor/Dealer,Deerfield Beach,FL,4500,$10B+,Service scheduling AI,$25K-$50K,CTO,www.jmfamily.com,5,Southeast Toyota distributor
+534,Fields Auto Group,Auto Dealerships,Multi-Brand Dealer,Lakeland,FL,1500,$1B+,Lead follow-up AI,$10K-$20K,Director of Digital,www.fieldsauto.com,3,Florida dealer group
+535,Morgan Auto Group,Auto Dealerships,Multi-Brand Dealer,Tampa,FL,2000,$1B+,Inventory management AI,$10K-$25K,VP of Technology,www.maborgs.com,3,Tampa area dealer group
+536,Greenway Automotive,Auto Dealerships,Multi-Brand Dealer,Orlando,FL,1500,$500M-$1B,Customer engagement AI,$8K-$20K,Director of IT,www.greenway.com,3,Southeast dealer group
+537,Serra Automotive,Auto Dealerships,Multi-Brand Dealer,Fenton,MI,1200,$500M-$1B,Lead follow-up AI,$8K-$20K,VP of Technology,www.serraautomotive.com,3,Midwest dealer group
+538,Bert Ogden Auto Group,Auto Dealerships,Multi-Brand Dealer,McAllen,TX,2000,$1B+,Service scheduling AI,$10K-$25K,Director of Digital,www.bertogden.com,3,South Texas dealer group
+539,Carvana,Auto Dealerships,Online Dealer,Tempe,AZ,13000,$10B+,AI pricing engine,$25K-$50K,Chief Technology Officer,www.carvana.com,5,NYSE; online used car leader
+540,CarMax,Auto Dealerships,Used Car Dealer,Richmond,VA,27000,$10B+,Inventory AI,$30K-$50K,CTO,www.carmax.com,5,Fortune 500; 240+ stores
+541,Vroom,Auto Dealerships,Online Dealer,Houston,TX,1500,$1B+,AI vehicle appraisal,$10K-$25K,Chief Technology Officer,www.vroom.com,3,NASDAQ; online auto retail
+542,AutoTrader / Cox Automotive,Auto Dealerships,Auto Platform,Atlanta,GA,27000,$5B+,AI lead scoring,$30K-$50K,VP of AI,www.coxautoinc.com,5,Auto marketplace + DMS platform
+543,CDK Global,Auto Dealerships,Auto Tech,Austin,TX,9000,$1B+,Dealer management AI,$20K-$40K,Chief Technology Officer,www.cdkglobal.com,4,DMS provider for dealerships
+544,Vaughan Automotive,Auto Dealerships,Multi-Brand Dealer,Boerne,TX,800,$200M-$500M,Lead follow-up AI,$8K-$15K,Director of IT,www.vaughanauto.com,3,New to Top 150 list
+545,Jeff Wyler Automotive Family,Auto Dealerships,Multi-Brand Dealer,Cincinnati,OH,1500,$1B+,Service scheduling AI,$10K-$20K,VP of Technology,www.jeffwyler.com,3,Ohio/Kentucky dealer group
+546,David Wilson Automotive Group,Auto Dealerships,Multi-Brand Dealer,Newport Beach,CA,1000,$500M-$1B,Customer engagement AI,$8K-$20K,Director of Digital,www.davidwilsonautomotive.com,3,Southern CA dealer group
+547,Scoggin-Dickey,Auto Dealerships,Multi-Brand Dealer,Lubbock,TX,500,$200M-$500M,Lead follow-up AI,$5K-$15K,Director of IT,www.scoggindickey.com,2,West Texas dealer
+548,Performance Automotive,Auto Dealerships,Multi-Brand Dealer,Chapel Hill,NC,800,$200M-$500M,Inventory management AI,$8K-$15K,VP of Technology,www.performanceautogroup.com,3,NC dealer group
+549,Priority Automotive,Auto Dealerships,Multi-Brand Dealer,Virginia Beach,VA,1500,$500M-$1B,Service scheduling AI,$8K-$20K,Director of IT,www.priorityauto.com,3,Virginia dealer group
+550,Napleton Automotive Group,Auto Dealerships,Multi-Brand Dealer,Lake Park,FL,2000,$1B+,Lead follow-up AI,$10K-$25K,VP of Digital,www.napletonautomotive.com,3,Multi-state dealer group
+551,Flow Automotive,Auto Dealerships,Multi-Brand Dealer,Winston-Salem,NC,1500,$500M-$1B,Customer engagement AI,$8K-$20K,Director of Technology,www.flowcompanies.com,3,NC dealer group
+552,Bical Auto Mall,Auto Dealerships,Multi-Brand Dealer,Brooklyn,NY,300,$100M-$200M,Lead follow-up AI,$5K-$15K,General Manager,www.bical.com,2,NYC area dealer
+553,Ganley Automotive Group,Auto Dealerships,Multi-Brand Dealer,Cleveland,OH,1500,$500M-$1B,Service scheduling AI,$8K-$20K,VP of Technology,www.ganley.com,3,Ohio dealer group
+554,Germain Motor Company,Auto Dealerships,Multi-Brand Dealer,Columbus,OH,1000,$500M-$1B,Inventory management AI,$8K-$20K,Director of IT,www.germain.com,3,Ohio dealer group
+555,Galpin Motors,Auto Dealerships,Multi-Brand Dealer,North Hills,CA,800,$200M-$500M,Customer engagement AI,$8K-$15K,VP of Technology,www.galpin.com,3,LA iconic dealer
+556,Bergstrom Automotive,Auto Dealerships,Multi-Brand Dealer,Appleton,WI,1000,$500M-$1B,Lead follow-up AI,$8K-$20K,Director of Digital,www.bergstromauto.com,3,Wisconsin dealer group
+557,John Eagle Dealerships,Auto Dealerships,Multi-Brand Dealer,Dallas,TX,1200,$500M-$1B,Service scheduling AI,$8K-$20K,VP of Technology,www.johneagle.com,3,Texas dealer group
+558,Shottenkirk Automotive,Auto Dealerships,Multi-Brand Dealer,Fort Madison,IA,800,$200M-$500M,Inventory management AI,$5K-$15K,Director of IT,www.shottenkirk.com,2,Midwest dealer group
+559,Love Field Chrysler Dodge,Auto Dealerships,Single Brand,Dallas,TX,200,$50M-$100M,Lead follow-up AI,$5K-$12K,General Manager,www.lovefieldchrysler.com,2,Single location; high volume
+560,Rick Hendrick City Chevrolet,Auto Dealerships,Single Brand,Charlotte,NC,300,$100M-$200M,Service scheduling AI,$5K-$15K,General Manager,www.citychevrolet.com,2,Hendrick subsidiary; high volume
+561,Service Champions,"Home Services (HVAC, Plumbing, Roofing)",HVAC/Plumbing,Pleasanton,CA,2000,$200M-$500M,Dispatch AI,$10K-$25K,Chief Operating Officer,www.servicechampions.net,4,Champions Group; 20+ locations
+562,Hoffmann Brothers,"Home Services (HVAC, Plumbing, Roofing)",HVAC/Plumbing,St. Louis,MO,400,$50M-$100M,Lead qualification AI,$8K-$20K,Director of Operations,www.hoffmannbros.com,3,40+ years; 10K+ 5-star reviews
+563,Peterman Brothers,"Home Services (HVAC, Plumbing, Roofing)",HVAC/Plumbing,Indianapolis,IN,500,$50M-$100M,Dispatch AI,$8K-$20K,VP of Operations,www.petermanhvac.com,3,Fastest growing in Indiana
+564,Roto-Rooter,"Home Services (HVAC, Plumbing, Roofing)",Plumbing/Drain,Cincinnati,OH,5000,$500M-$1B,Dispatch AI,$15K-$30K,Chief Technology Officer,www.rotorooter.com,5,498 locations; 90% US coverage
+565,Mr. Rooter Plumbing,"Home Services (HVAC, Plumbing, Roofing)",Plumbing,Waco,TX,3000,$200M-$500M,Lead qualification AI,$10K-$25K,VP of Technology,www.mrrooter.com,4,Neighborly brand; 215 US franchises
+566,One Hour Heating & Air,"Home Services (HVAC, Plumbing, Roofing)",HVAC,Columbia,MD,2500,$200M-$500M,Estimate automation AI,$10K-$25K,Director of Technology,www.onehourheatandair.com,4,Authority Brands franchise
+567,Benjamin Franklin Plumbing,"Home Services (HVAC, Plumbing, Roofing)",Plumbing,Columbia,MD,2000,$100M-$200M,Dispatch AI,$8K-$20K,VP of Operations,www.benjaminfranklinplumbing.com,3,Authority Brands franchise
+568,1-800-Plumber +Air,"Home Services (HVAC, Plumbing, Roofing)",HVAC/Plumbing,Houston,TX,500,$25M-$50M,Lead qualification AI,$5K-$15K,Director of Operations,www.1800plumber.com,3,Combined HVAC/plumbing franchise
+569,Bluefrog Plumbing + Drain,"Home Services (HVAC, Plumbing, Roofing)",Plumbing,Phoenix,AZ,300,$10M-$25M,Dispatch AI,$5K-$12K,VP of Franchise,www.bluefrogplumbing.com,2,Emergency plumbing focus
+570,Comfort Systems USA,"Home Services (HVAC, Plumbing, Roofing)",HVAC Commercial,Houston,TX,15000,$1B+,Predictive maintenance AI,$25K-$50K,Chief Technology Officer,www.comfortsystemsusa.com,5,NYSE listed; mechanical services
+571,EMCOR Group,"Home Services (HVAC, Plumbing, Roofing)",HVAC/Mechanical,Norwalk,CT,40000,$10B+,Building automation AI,$30K-$50K,VP of Innovation,www.emcorgroup.com,5,Fortune 500; largest US HVAC
+572,Trane Technologies,"Home Services (HVAC, Plumbing, Roofing)",HVAC Manufacturing,Davidson,NC,40000,$10B+,Predictive maintenance AI,$30K-$50K,Chief Technology Officer,www.tranetechnologies.com,5,NYSE listed; $16B revenue
+573,Carrier Global,"Home Services (HVAC, Plumbing, Roofing)",HVAC Manufacturing,Palm Beach Gardens,FL,53000,$10B+,Smart building AI,$30K-$50K,CTO,www.corporate.carrier.com,5,NYSE listed; $22B revenue
+574,ARS/Rescue Rooter,"Home Services (HVAC, Plumbing, Roofing)",HVAC/Plumbing,Memphis,TN,7000,$1B+,Dispatch AI,$15K-$30K,VP of Technology,www.ars.com,4,American Residential Services; 65+ locations
+575,Service Experts,"Home Services (HVAC, Plumbing, Roofing)",HVAC,Richardson,TX,5000,$500M-$1B,Lead qualification AI,$10K-$25K,Director of Technology,www.serviceexperts.com,4,130+ locations nationwide
+576,Neighborly,"Home Services (HVAC, Plumbing, Roofing)",Multi-Brand Home,Waco,TX,5000,$1B+,Cross-sell AI,$20K-$40K,Chief Technology Officer,www.neighborly.com,5,30+ home service brands
+577,ABC Supply,"Home Services (HVAC, Plumbing, Roofing)",Roofing Distribution,Beloit,WI,15000,$10B+,Inventory management AI,$25K-$50K,VP of Innovation,www.abcsupply.com,5,Largest US roofing distributor
+578,CentiMark Corporation,"Home Services (HVAC, Plumbing, Roofing)",Roofing,Canonsburg,PA,4000,$500M-$1B,Estimate automation AI,$10K-$25K,Director of Technology,www.centimark.com,4,Largest US roofing contractor
+579,Baker Roofing,"Home Services (HVAC, Plumbing, Roofing)",Roofing,Raleigh,NC,1500,$200M-$500M,Dispatch AI,$8K-$20K,VP of Operations,www.bakerroofing.com,3,100+ years; Southeast
+580,Tecta America,"Home Services (HVAC, Plumbing, Roofing)",Roofing,Rosemont,IL,3000,$500M-$1B,Estimate automation AI,$10K-$25K,Chief Technology Officer,www.tectaamerica.com,4,Largest commercial roofer
+581,Nations Roof,"Home Services (HVAC, Plumbing, Roofing)",Roofing,Fairfield,OH,1000,$100M-$200M,Dispatch AI,$8K-$15K,Director of IT,www.nationsroof.com,3,National commercial roofer
+582,Ace Hardware Home Services,"Home Services (HVAC, Plumbing, Roofing)",Multi-Home Service,Oak Brook,IL,3000,$200M-$500M,Lead qualification AI,$10K-$25K,VP of Technology,www.acehardware.com,4,Plumbing/HVAC/electrical
+583,Wrench Group,"Home Services (HVAC, Plumbing, Roofing)",HVAC/Plumbing,Atlanta,GA,3500,$500M-$1B,Dispatch AI,$10K-$25K,Chief Technology Officer,www.wrenchgroup.com,4,Multi-brand home services
+584,Horizon Services,"Home Services (HVAC, Plumbing, Roofing)",HVAC/Plumbing,Wilmington,DE,1500,$100M-$200M,Lead qualification AI,$8K-$20K,Director of Technology,www.horizonservices.com,3,Mid-Atlantic service leader
+585,Morris-Jenkins,"Home Services (HVAC, Plumbing, Roofing)",HVAC,Charlotte,NC,500,$50M-$100M,Estimate automation AI,$5K-$15K,Director of Operations,www.morrisjenkins.com,3,Charlotte HVAC leader
+586,Aire Serv,"Home Services (HVAC, Plumbing, Roofing)",HVAC,Waco,TX,1500,$50M-$100M,Dispatch AI,$5K-$15K,VP of Franchise,www.aireserv.com,3,Neighborly brand
+587,Coolray,"Home Services (HVAC, Plumbing, Roofing)",HVAC,Marietta,GA,400,$50M-$100M,Lead qualification AI,$5K-$15K,Director of Operations,www.coolray.com,3,Wrench Group brand; Atlanta
+588,Michael & Son Services,"Home Services (HVAC, Plumbing, Roofing)",Multi-Home Service,Alexandria,VA,800,$100M-$200M,Dispatch AI,$8K-$20K,VP of Technology,www.michaelandson.com,3,DC metro area leader
+589,Hiller Plumbing,"Home Services (HVAC, Plumbing, Roofing)",Plumbing/HVAC,Nashville,TN,600,$50M-$100M,Lead qualification AI,$5K-$15K,Director of Operations,www.happyhiller.com,3,Tennessee leader
+590,Bonney Plumbing,"Home Services (HVAC, Plumbing, Roofing)",Plumbing/HVAC,Sacramento,CA,300,$25M-$50M,Estimate automation AI,$5K-$12K,VP of Operations,www.bonney.com,2,Sacramento area leader
+591,Lee Company,"Home Services (HVAC, Plumbing, Roofing)",HVAC/Mechanical,Franklin,TN,1800,$200M-$500M,Predictive maintenance AI,$10K-$25K,Director of Technology,www.leecompany.com,3,Tennessee multi-service
+592,Isaac Heating & Air,"Home Services (HVAC, Plumbing, Roofing)",HVAC,Rochester,NY,500,$50M-$100M,Dispatch AI,$5K-$15K,Director of Operations,www.isaacheating.com,3,NY state HVAC leader
+593,Ideal Services,"Home Services (HVAC, Plumbing, Roofing)",HVAC/Plumbing,Las Vegas,NV,200,$10M-$25M,Lead qualification AI,$5K-$12K,Owner,www.idealservices.com,2,Las Vegas home services
+594,Schneller Knochelmann,"Home Services (HVAC, Plumbing, Roofing)",Plumbing/HVAC,Cincinnati,OH,200,$10M-$25M,Dispatch AI,$5K-$12K,Director of Operations,www.skplumbing.com,2,Cincinnati area leader
+595,Goodberlet Home Services,"Home Services (HVAC, Plumbing, Roofing)",HVAC,Joliet,IL,100,$5M-$10M,Estimate automation AI,$5K-$10K,Owner,www.goodberlet.com,2,Chicago suburbs
+596,Long Roofing,"Home Services (HVAC, Plumbing, Roofing)",Roofing,Laurel,MD,500,$50M-$100M,Lead qualification AI,$5K-$15K,Director of Marketing,www.longroofing.com,3,East Coast roofing leader
+597,Power Home Remodeling,"Home Services (HVAC, Plumbing, Roofing)",Roofing/Windows,Chester,PA,3000,$500M-$1B,Lead qualification AI,$10K-$25K,VP of Technology,www.powerhome.com,4,Largest exterior remodeler
+598,Leaf Home Solutions,"Home Services (HVAC, Plumbing, Roofing)",Gutters/Home,Hudson,OH,5000,$500M-$1B,Dispatch AI,$10K-$25K,Chief Technology Officer,www.leafhome.com,4,LeafFilter parent; 150+ offices
+599,Groundworks,"Home Services (HVAC, Plumbing, Roofing)",Foundation Repair,Virginia Beach,VA,5000,$500M-$1B,Lead qualification AI,$10K-$25K,VP of Technology,www.groundworks.com,4,30+ brands; PE-backed
+600,Mr. Electric,"Home Services (HVAC, Plumbing, Roofing)",Electrical,Waco,TX,1500,$50M-$100M,Dispatch AI,$5K-$15K,VP of Franchise,www.mrelectric.com,3,Neighborly brand
+601,HubSpot,SaaS / Software Companies,CRM/Marketing,Cambridge,MA,7000,$1B+,Customer onboarding AI,$25K-$50K,Chief Product Officer,www.hubspot.com,5,NYSE listed; CRM leader
+602,Salesforce,SaaS / Software Companies,CRM,San Francisco,CA,73000,$10B+,Churn prediction AI,$30K-$50K,Chief AI Officer,www.salesforce.com,5,CRM market leader; Einstein AI
+603,Datadog,SaaS / Software Companies,Monitoring,New York,NY,5000,$1B+,Support automation AI,$20K-$40K,CTO,www.datadoghq.com,5,NASDAQ listed; observability
+604,Monday.com,SaaS / Software Companies,Work Management,New York,NY,2000,$500M-$1B,Workflow automation AI,$15K-$30K,Chief Technology Officer,www.monday.com,4,NASDAQ listed
+605,Notion,SaaS / Software Companies,Productivity,San Francisco,CA,500,$200M-$500M,Customer onboarding AI,$10K-$25K,CTO,www.notion.so,4,AI-enhanced workspace
+606,ClickUp,SaaS / Software Companies,Project Management,San Diego,CA,1000,$200M-$500M,Support automation AI,$10K-$25K,VP of Engineering,www.clickup.com,4,All-in-one productivity
+607,Miro,SaaS / Software Companies,Visual Collaboration,San Francisco,CA,1800,$200M-$500M,Customer onboarding AI,$10K-$25K,Chief Technology Officer,www.miro.com,4,Digital whiteboard
+608,Deel,SaaS / Software Companies,HR/Payroll,San Francisco,CA,4000,$500M-$1B,Compliance automation AI,$15K-$30K,CTO,www.deel.com,4,Global payroll/HR platform
+609,Rippling,SaaS / Software Companies,HR Tech,San Francisco,CA,3000,$500M-$1B,Employee onboarding AI,$15K-$30K,Chief Technology Officer,www.rippling.com,5,Unified workforce platform
+610,CrowdStrike,SaaS / Software Companies,Cybersecurity,Austin,TX,8000,$1B+,Threat detection AI,$25K-$50K,CTO,www.crowdstrike.com,5,NASDAQ; $3B+ revenue
+611,Palantir Technologies,SaaS / Software Companies,Data Analytics,Denver,CO,3500,$1B+,Data analysis AI,$30K-$50K,Chief Technology Officer,www.palantir.com,5,NYSE listed; government + commercial
+612,Snowflake,SaaS / Software Companies,Data Cloud,Bozeman,MT,6000,$1B+,Data pipeline AI,$25K-$50K,CTO,www.snowflake.com,5,NYSE listed; cloud data
+613,Twilio,SaaS / Software Companies,Communications API,San Francisco,CA,6000,$1B+,Customer engagement AI,$20K-$40K,Chief Product Officer,www.twilio.com,4,NYSE listed; CPaaS leader
+614,Amplitude,SaaS / Software Companies,Product Analytics,San Francisco,CA,700,$200M-$500M,Churn prediction AI,$10K-$25K,CTO,www.amplitude.com,4,NASDAQ listed; digital analytics
+615,Calendly,SaaS / Software Companies,Scheduling,Atlanta,GA,700,$200M-$500M,Customer onboarding AI,$10K-$20K,Chief Technology Officer,www.calendly.com,3,Scheduling automation leader
+616,Motive,SaaS / Software Companies,Fleet/Operations,San Francisco,CA,3000,$500M-$1B,Fleet analytics AI,$15K-$30K,CTO,www.gomotive.com,4,120K+ customers
+617,Gusto,SaaS / Software Companies,HR/Payroll,San Francisco,CA,2500,$200M-$500M,Employee onboarding AI,$10K-$25K,Chief Technology Officer,www.gusto.com,4,SMB payroll/HR platform
+618,Brex,SaaS / Software Companies,Finance/Spend,San Francisco,CA,1100,$200M-$500M,Expense automation AI,$10K-$25K,CTO,www.brex.com,4,Corporate card/spend management
+619,Figma,SaaS / Software Companies,Design,San Francisco,CA,1500,$500M-$1B,Design collaboration AI,$15K-$25K,Chief Technology Officer,www.figma.com,4,Collaborative design platform
+620,Airtable,SaaS / Software Companies,Low-Code/Database,San Francisco,CA,900,$200M-$500M,Workflow AI,$10K-$20K,CTO,www.airtable.com,3,No-code database platform
+621,Canva,SaaS / Software Companies,Design Platform,San Francisco,CA,5000,$1B+,Content generation AI,$15K-$30K,Chief Technology Officer,www.canva.com,5,Visual communication platform
+622,Webflow,SaaS / Software Companies,Website Builder,San Francisco,CA,800,$100M-$200M,Customer onboarding AI,$8K-$20K,CTO,www.webflow.com,3,Visual website builder
+623,Loom,SaaS / Software Companies,Video Messaging,San Francisco,CA,200,$50M-$100M,Support automation AI,$5K-$15K,Chief Technology Officer,www.loom.com,3,Atlassian subsidiary
+624,Linear,SaaS / Software Companies,Project Management,San Francisco,CA,100,$25M-$50M,Issue triage AI,$5K-$15K,CTO,www.linear.app,3,Developer-focused PM
+625,Vercel,SaaS / Software Companies,Frontend Platform,San Francisco,CA,500,$100M-$200M,Support automation AI,$8K-$20K,Chief Technology Officer,www.vercel.com,4,Next.js/frontend platform
+626,Supabase,SaaS / Software Companies,Backend Platform,San Francisco,CA,200,$25M-$50M,Developer onboarding AI,$5K-$15K,CTO,www.supabase.com,3,Open-source Firebase alternative
+627,Retool,SaaS / Software Companies,Internal Tools,San Francisco,CA,400,$100M-$200M,Workflow automation AI,$8K-$20K,Chief Technology Officer,www.retool.com,3,Internal tool builder
+628,Postman,SaaS / Software Companies,API Platform,San Francisco,CA,900,$200M-$500M,API testing AI,$10K-$20K,CTO,www.postman.com,4,30M+ developers
+629,Freshworks,SaaS / Software Companies,CRM/Support,San Mateo,CA,5500,$500M-$1B,Support automation AI,$15K-$30K,Chief Technology Officer,www.freshworks.com,4,NASDAQ listed; SMB focus
+630,Zendesk,SaaS / Software Companies,Customer Support,San Francisco,CA,6000,$1B+,Support automation AI,$20K-$40K,CTO,www.zendesk.com,5,Customer experience platform
+631,Intercom,SaaS / Software Companies,Customer Messaging,San Francisco,CA,700,$200M-$500M,Chatbot AI,$10K-$25K,Chief Technology Officer,www.intercom.com,4,Fin AI chatbot
+632,Gong,SaaS / Software Companies,Revenue Intelligence,San Francisco,CA,1200,$200M-$500M,Sales coaching AI,$15K-$30K,CTO,www.gong.io,4,Revenue intelligence platform
+633,Clari,SaaS / Software Companies,Revenue Operations,Sunnyvale,CA,700,$100M-$200M,Revenue prediction AI,$10K-$25K,Chief Technology Officer,www.clari.com,3,RevOps platform
+634,Drift (Salesloft),SaaS / Software Companies,Conversational Sales,Boston,MA,500,$100M-$200M,Chatbot AI,$8K-$20K,CTO,www.salesloft.com,3,Now part of Salesloft
+635,Outreach,SaaS / Software Companies,Sales Engagement,Seattle,WA,1000,$200M-$500M,Sales automation AI,$10K-$25K,Chief Technology Officer,www.outreach.io,4,Sales engagement leader
+636,6sense,SaaS / Software Companies,ABM Platform,San Francisco,CA,1200,$200M-$500M,Intent prediction AI,$10K-$25K,CTO,www.6sense.com,4,Account-based marketing AI
+637,ZoomInfo,SaaS / Software Companies,Sales Intelligence,Vancouver,WA,3500,$1B+,Lead scoring AI,$15K-$30K,Chief Technology Officer,www.zoominfo.com,5,NASDAQ listed; data platform
+638,Terminus,SaaS / Software Companies,ABM,Atlanta,GA,300,$25M-$50M,Customer engagement AI,$5K-$15K,CTO,www.terminus.com,3,Account-based marketing
+639,Drata,SaaS / Software Companies,Compliance,San Diego,CA,500,$100M-$200M,Compliance automation AI,$10K-$20K,Chief Technology Officer,www.drata.com,4,Compliance automation platform
+640,Statsig,SaaS / Software Companies,Experimentation,Bellevue,WA,200,$50M-$100M,A/B testing AI,$8K-$15K,CTO,www.statsig.com,3,$6B valuation; fastest growing
+641,Coursera,Education / EdTech,Online Learning,Mountain View,CA,1500,$500M-$1B,Student engagement AI,$15K-$30K,Chief Technology Officer,www.coursera.org,4,NYSE listed; 183M learners
+642,Duolingo,Education / EdTech,Language Learning,Pittsburgh,PA,900,$500M-$1B,Enrollment optimization AI,$15K-$30K,CTO,www.duolingo.com,4,NASDAQ listed; 120M+ MAU
+643,Instructure (Canvas),Education / EdTech,LMS,Salt Lake City,UT,2000,$500M-$1B,Grading automation AI,$15K-$30K,Chief Product Officer,www.instructure.com,4,3000+ institutions; Canvas LMS
+644,Khan Academy,Education / EdTech,Online Learning,Mountain View,CA,300,$50M-$100M,Student engagement AI,$8K-$15K,CTO,www.khanacademy.org,3,Free education; Khanmigo AI
+645,Chegg,Education / EdTech,Study Help,Santa Clara,CA,1500,$500M-$1B,AI tutoring,$10K-$25K,Chief Technology Officer,www.chegg.com,4,NYSE listed; student support
+646,Outschool,Education / EdTech,K-12 Online,San Francisco,CA,300,$50M-$100M,Scheduling AI,$5K-$15K,CTO,www.outschool.com,3,Ages 3-18; live online classes
+647,Teachers Pay Teachers,Education / EdTech,Marketplace,New York,NY,200,$25M-$50M,Content recommendation AI,$5K-$15K,VP of Product,www.teacherspayteachers.com,3,Teacher marketplace
+648,DreamBox Learning,Education / EdTech,K-12 Math,Bellevue,WA,300,$50M-$100M,Adaptive learning AI,$8K-$15K,Chief Technology Officer,www.dreambox.com,3,AI math learning platform
+649,Newsela,Education / EdTech,K-12 Content,New York,NY,500,$50M-$100M,Content personalization AI,$8K-$20K,CTO,www.newsela.com,3,Adaptive reading platform
+650,Blackboard (Anthology),Education / EdTech,LMS,Boca Raton,FL,4000,$500M-$1B,Student engagement AI,$15K-$30K,Chief Technology Officer,www.anthology.com,4,Higher ed technology suite
+651,PowerSchool,Education / EdTech,K-12 SIS,Folsom,CA,3000,$500M-$1B,Enrollment AI,$10K-$25K,CTO,www.powerschool.com,4,K-12 education technology
+652,Cengage Group,Education / EdTech,Higher Ed Content,Boston,MA,5000,$1B+,Content generation AI,$15K-$30K,Chief Technology Officer,www.cengage.com,4,Digital learning resources
+653,McGraw Hill,Education / EdTech,Educational Content,New York,NY,4000,$1B+,Adaptive learning AI,$15K-$30K,CTO,www.mheducation.com,4,ALEKS AI platform
+654,Pearson,Education / EdTech,Educational Content,Hoboken,NJ,20000,$5B+,Student engagement AI,$25K-$50K,Chief Technology Officer,www.pearson.com,5,NYSE listed; global education
+655,2U / edX,Education / EdTech,Online Degree,Lanham,MD,3000,$500M-$1B,Enrollment optimization AI,$10K-$25K,CTO,www.2u.com,4,University partnerships
+656,Clever,Education / EdTech,K-12 Platform,San Francisco,CA,200,$25M-$50M,Student data AI,$5K-$15K,Chief Technology Officer,www.clever.com,3,SSO for schools; 100K+ schools
+657,Schoology (PowerSchool),Education / EdTech,LMS,New York,NY,500,$50M-$100M,Grading automation AI,$8K-$15K,VP of Product,www.schoology.com,3,K-12 LMS platform
+658,Remind,Education / EdTech,Communication,San Francisco,CA,200,$25M-$50M,Parent engagement AI,$5K-$12K,CTO,www.remind.com,2,School communication app
+659,ClassDojo,Education / EdTech,Communication,San Francisco,CA,100,$25M-$50M,Student engagement AI,$5K-$12K,Chief Technology Officer,www.classdojo.com,2,K-8 communication platform
+660,Brightspace (D2L),Education / EdTech,LMS,Kitchener,ON,1000,$200M-$500M,Grading automation AI,$10K-$20K,CTO,www.d2l.com,3,Higher ed + K-12 LMS
+661,MasterClass,Education / EdTech,Online Learning,San Francisco,CA,500,$200M-$500M,Content recommendation AI,$10K-$20K,Chief Technology Officer,www.masterclass.com,4,Celebrity-taught courses
+662,Udemy Business,Education / EdTech,Corporate Learning,San Francisco,CA,1500,$500M-$1B,Learning path AI,$10K-$25K,CTO,www.udemy.com,4,NASDAQ listed; corporate training
+663,Pluralsight,Education / EdTech,Tech Learning,Draper,UT,1500,$200M-$500M,Skill assessment AI,$10K-$20K,Chief Technology Officer,www.pluralsight.com,4,Tech skills platform
+664,Skillshare,Education / EdTech,Creative Learning,New York,NY,200,$50M-$100M,Content recommendation AI,$5K-$15K,CTO,www.skillshare.com,3,Creative learning community
+665,Kahoot!,Education / EdTech,Gamified Learning,Austin,TX,500,$100M-$200M,Student engagement AI,$8K-$15K,Chief Technology Officer,www.kahoot.com,3,Gamified learning platform
+666,Litmos (SAP),Education / EdTech,Corporate LMS,San Carlos,CA,300,$50M-$100M,Learning analytics AI,$8K-$15K,VP of Product,www.litmos.com,3,Corporate training LMS
+667,Guild Education,Education / EdTech,Employer Education,Denver,CO,2000,$200M-$500M,Enrollment AI,$10K-$25K,CTO,www.guild.com,4,Employer education benefits
+668,Handshake,Education / EdTech,Career Platform,San Francisco,CA,800,$100M-$200M,Job matching AI,$8K-$20K,Chief Technology Officer,www.joinhandshake.com,3,College career platform
+669,Degreed,Education / EdTech,Skills Platform,Pleasanton,CA,500,$50M-$100M,Skill assessment AI,$8K-$15K,CTO,www.degreed.com,3,Workforce upskilling
+670,Niche,Education / EdTech,School Search,Pittsburgh,PA,200,$25M-$50M,Enrollment optimization AI,$5K-$15K,VP of Product,www.niche.com,3,School rankings/reviews
+671,GoGuardian,Education / EdTech,K-12 Safety,Los Angeles,CA,500,$100M-$200M,Student safety AI,$8K-$20K,Chief Technology Officer,www.goguardian.com,3,Student safety/engagement
+672,Nearpod (Renaissance),Education / EdTech,Interactive Learning,Fort Lauderdale,FL,300,$50M-$100M,Student engagement AI,$5K-$15K,VP of Product,www.nearpod.com,3,Interactive lessons; Renaissance sub
+673,Age of Learning,Education / EdTech,Early Learning,Glendale,CA,500,$100M-$200M,Adaptive learning AI,$8K-$15K,CTO,www.ageoflearning.com,3,ABCmouse platform
+674,IXL Learning,Education / EdTech,K-12 Practice,San Mateo,CA,400,$100M-$200M,Adaptive assessment AI,$8K-$15K,Chief Technology Officer,www.ixl.com,3,K-12 practice platform
+675,BetterUp,Education / EdTech,Coaching Platform,San Francisco,CA,1000,$200M-$500M,Coaching match AI,$10K-$25K,CTO,www.betterup.com,4,Digital coaching platform
+676,Quizlet,Education / EdTech,Study Tools,San Francisco,CA,300,$100M-$200M,Study recommendation AI,$8K-$15K,Chief Technology Officer,www.quizlet.com,3,AI-powered study tools
+677,Crimson Education,Education / EdTech,College Admissions,New York,NY,3000,$100M-$200M,Application review AI,$8K-$20K,CTO,www.crimsoneducation.org,3,Global admissions consulting
+678,Articulate,Education / EdTech,Course Creation,New York,NY,500,$200M-$500M,Content generation AI,$10K-$20K,Chief Technology Officer,www.articulate.com,4,eLearning authoring tools
+679,Docebo,Education / EdTech,Corporate LMS,Athens,GA,900,$200M-$500M,Learning path AI,$10K-$20K,CTO,www.docebo.com,4,NASDAQ listed; AI-powered LMS
+680,Emeritus,Education / EdTech,Exec Education,Boston,MA,2000,$200M-$500M,Enrollment optimization AI,$10K-$25K,Chief Technology Officer,www.emeritus.org,4,University partnership platform
+681,Banfield Pet Hospital,Veterinary / Pet Services,General Vet,Vancouver,WA,16000,$1B+,Appointment scheduling AI,$20K-$40K,Chief Technology Officer,www.banfield.com,5,Mars subsidiary; 1000 hospitals
+682,VCA Animal Hospitals,Veterinary / Pet Services,General Vet,Los Angeles,CA,25000,$1B+,Pet health records AI,$25K-$50K,CTO,www.vcahospitals.com,5,Mars subsidiary; 900+ hospitals
+683,BluePearl Pet Hospital,Veterinary / Pet Services,Specialty/Emergency,Tampa,FL,7000,$500M-$1B,Follow-up automation AI,$15K-$30K,VP of Technology,www.bluepearlvet.com,4,Mars subsidiary; 100+ hospitals
+684,VetCor,Veterinary / Pet Services,General Vet,Norfolk,VA,8000,$500M-$1B,Appointment scheduling AI,$15K-$30K,Director of Technology,www.vetcor.com,4,800+ practices
+685,National Veterinary Associates,Veterinary / Pet Services,Multi-Specialty,Agoura Hills,CA,10000,$1B+,Pet records AI,$20K-$40K,Chief Technology Officer,www.nva.com,5,JAB Investors backed
+686,Thrive Pet Healthcare,Veterinary / Pet Services,General Vet,Austin,TX,6000,$500M-$1B,Follow-up automation,$10K-$25K,CTO,www.thrivepetcare.com,4,Petco partnership history
+687,MedVet,Veterinary / Pet Services,Specialty/Emergency,Columbus,OH,3000,$200M-$500M,Appointment scheduling AI,$10K-$25K,VP of Technology,www.medvet.com,4,Vet-owned; specialty focus
+688,Pathway Vet Alliance,Veterinary / Pet Services,General Vet,Austin,TX,4000,$200M-$500M,Pet health records AI,$10K-$20K,Director of IT,www.pathwayvetalliance.com,3,TSG Consumer Partners backed
+689,Ethos Veterinary Health,Veterinary / Pet Services,Specialty,Woburn,MA,5000,$500M-$1B,Clinical AI support,$15K-$30K,Chief Technology Officer,www.ethosvet.com,4,NVA subsidiary; specialty focus
+690,PetVet Care Centers,Veterinary / Pet Services,General Vet,Westport,CT,6000,$500M-$1B,Scheduling automation AI,$10K-$25K,VP of Technology,www.petvetcarecenters.com,4,KKR backed; 450+ hospitals
+691,Destination Pet,Veterinary / Pet Services,Full-Service Pet,Highlands Ranch,CO,3000,$100M-$200M,Follow-up automation,$8K-$20K,Director of Technology,www.destinationpet.com,3,Vet + boarding + grooming
+692,VIP Petcare,Veterinary / Pet Services,Affordable Vet,Windsor,CA,1000,$50M-$100M,Appointment scheduling AI,$5K-$15K,VP of Operations,www.vippetcare.com,3,Retail-based vet clinics
+693,Southern Veterinary Partners,Veterinary / Pet Services,General Vet,Birmingham,AL,5000,$500M-$1B,Pet records AI,$10K-$25K,Chief Technology Officer,www.southernvetpartners.com,4,SE focused; 400+ hospitals
+694,Heart + Paw,Veterinary / Pet Services,Full-Service Pet,Newtown Square,PA,1000,$50M-$100M,Customer engagement AI,$5K-$15K,CTO,www.heartandpaw.com,3,Vet + grooming + daycare
+695,PetSuites,Veterinary / Pet Services,Boarding/Daycare,Delaware,OH,500,$25M-$50M,Scheduling AI,$5K-$12K,Director of Operations,www.petsuites.com,2,NVA subsidiary
+696,Camp Bow Wow,Veterinary / Pet Services,Dog Daycare,Broomfield,CO,3000,$100M-$200M,Follow-up automation,$5K-$15K,VP of Technology,www.campbowwow.com,3,200+ franchise locations
+697,Dogtopia,Veterinary / Pet Services,Dog Daycare,Phoenix,AZ,2500,$50M-$100M,Scheduling AI,$5K-$15K,Director of Technology,www.dogtopia.com,3,200+ franchise locations
+698,PetSmart (Vetco),Veterinary / Pet Services,Retail Vet,Phoenix,AZ,55000,$5B+,Appointment scheduling AI,$25K-$50K,Chief Technology Officer,www.petsmart.com,5,1650+ retail stores
+699,Petco,Veterinary / Pet Services,Retail/Vet,San Diego,CA,28000,$5B+,Pet health AI,$25K-$50K,CTO,www.petco.com,5,NASDAQ listed; 1500+ locations
+700,Fuzzy Pet Health,Veterinary / Pet Services,Telehealth Vet,San Francisco,CA,100,$10M-$25M,Virtual triage AI,$5K-$12K,Chief Technology Officer,www.fuzzy.com,3,Digital-first vet care
+701,Vetster,Veterinary / Pet Services,Vet Telehealth,Toronto,ON,100,$10M-$25M,Appointment scheduling AI,$5K-$12K,CTO,www.vetster.com,3,Online vet appointment platform
+702,Dutch Pet,Veterinary / Pet Services,Vet Telehealth,New York,NY,50,$5M-$10M,Follow-up automation AI,$5K-$10K,Director of Technology,www.dutch.com,2,DTC pet telehealth
+703,Wisdom Panel (Mars),Veterinary / Pet Services,Pet Genetics,Portland,OR,200,$50M-$100M,Data analytics AI,$5K-$15K,VP of Technology,www.wisdompanel.com,3,Mars subsidiary; DNA testing
+704,Wag!,Veterinary / Pet Services,Pet Services Platform,San Francisco,CA,300,$50M-$100M,Matching AI,$5K-$15K,CTO,www.wag.com,3,Pet walking/sitting platform
+705,Rover,Veterinary / Pet Services,Pet Services Platform,Seattle,WA,500,$200M-$500M,Matching AI,$8K-$20K,Chief Technology Officer,www.rover.com,4,Pet care marketplace
+706,Bond Vet,Veterinary / Pet Services,Modern Vet,New York,NY,400,$25M-$50M,Appointment scheduling AI,$5K-$15K,CTO,www.bondvet.com,3,Urban vet clinics
+707,Modern Animal,Veterinary / Pet Services,Tech-Forward Vet,Los Angeles,CA,200,$10M-$25M,Pet health records AI,$5K-$15K,Chief Technology Officer,www.modernanimal.com,3,Tech-first vet clinics
+708,Rarebreed Veterinary Partners,Veterinary / Pet Services,General Vet,Fairfield,CT,2000,$100M-$200M,Follow-up automation AI,$8K-$20K,VP of Technology,www.rarebreedvet.com,3,Growing vet platform
+709,Community Veterinary Partners,Veterinary / Pet Services,General Vet,Boston,MA,1500,$100M-$200M,Appointment scheduling AI,$8K-$15K,Director of IT,www.communityvetpartners.com,3,Northeast focused
+710,Galaxy Vets,Veterinary / Pet Services,General Vet,West Palm Beach,FL,1000,$50M-$100M,Pet records AI,$5K-$15K,CTO,www.galaxyvets.com,3,Vet-led platform
+711,Mission Veterinary Partners,Veterinary / Pet Services,General Vet,Farmington Hills,MI,3000,$200M-$500M,Follow-up automation,$8K-$20K,Chief Technology Officer,www.missionvetpartners.com,4,Midwest focused; 300+ hospitals
+712,Lap of Love,Veterinary / Pet Services,End-of-Life Vet,Tampa,FL,300,$25M-$50M,Scheduling AI,$5K-$12K,Director of Technology,www.lapoflove.com,2,In-home hospice/euthanasia
+713,Bingle Vet Clinics,Veterinary / Pet Services,Franchise Vet,Houston,TX,200,$10M-$25M,Appointment scheduling AI,$5K-$12K,VP of Franchise,www.binglevetclinics.com,2,Franchise vet model
+714,AZPetVet,Veterinary / Pet Services,General Vet,Phoenix,AZ,600,$25M-$50M,Pet health records AI,$5K-$12K,Director of Operations,www.azpetvet.com,2,Arizona vet network
+715,Compassion-First Pet Hospitals,Veterinary / Pet Services,Specialty Vet,Manchester,NH,2000,$200M-$500M,Follow-up automation,$8K-$20K,VP of Technology,www.compassionfirstpets.com,3,NVA/JAB backed
+716,Veterinary Emergency Group,Veterinary / Pet Services,Emergency Vet,White Plains,NY,2000,$100M-$200M,Patient triage AI,$8K-$20K,Chief Technology Officer,www.veterinaryemergencygroup.com,3,Fast-growing ER vet
+717,Cvet (Covetrus),Veterinary / Pet Services,Vet Tech/Distribution,Portland,ME,5000,$1B+,Practice management AI,$15K-$30K,CTO,www.covetrus.com,4,Vet tech platform
+718,IDEXX Laboratories,Veterinary / Pet Services,Vet Diagnostics,Westbrook,ME,11000,$1B+,Diagnostic AI,$20K-$40K,Chief Technology Officer,www.idexx.com,5,NASDAQ listed; vet diagnostics leader
+719,Zoetis,Veterinary / Pet Services,Animal Health,Parsippany,NJ,13000,$5B+,Data analytics AI,$25K-$50K,VP of Digital,www.zoetis.com,5,NYSE listed; animal pharma leader
+720,Elanco Animal Health,Veterinary / Pet Services,Animal Health,Greenfield,IN,9000,$1B+,Data analytics AI,$15K-$30K,Chief Technology Officer,www.elanco.com,4,NYSE listed; animal health
+721,Heartland Dental,Dental (DSO),Large DSO,Effingham,IL,20000,$1B+,Patient scheduling AI,$25K-$50K,Chief Technology Officer,www.heartland.com,5,Largest DSO; 1800+ practices
+722,Aspen Dental (TAG),Dental (DSO),Large DSO,Chicago,IL,18000,$1B+,Treatment plan AI,$25K-$50K,CTO,www.aspendental.com,5,1100+ practices; 45 states
+723,PDS Health,Dental (DSO),Large DSO,Irvine,CA,15000,$1B+,Billing automation AI,$20K-$40K,Chief Technology Officer,www.pdshealth.com,5,1000+ practices; 24 states
+724,MB2 Dental,Dental (DSO),Partnership DSO,Dallas,TX,5000,$500M-$1B,Patient scheduling AI,$15K-$30K,VP of Technology,www.mb2dental.com,4,750+ practices; 35+ states
+725,Sonrava Health,Dental (DSO),Large DSO,San Clemente,CA,7000,$500M-$1B,Billing automation,$15K-$30K,CTO,www.sonravahealth.com,4,600 offices; Western Dental
+726,Smile Doctors,Dental (DSO),Orthodontic DSO,Memphis,TN,5000,$200M-$500M,Treatment plan AI,$10K-$25K,Chief Technology Officer,www.smiledoctors.com,4,550+ practices; ortho focus
+727,Dental Care Alliance,Dental (DSO),Large DSO,Sarasota,FL,5000,$500M-$1B,Patient engagement AI,$15K-$25K,VP of Technology,www.dentalcarealliance.com,4,360+ practices; 21 states
+728,Benevis,Dental (DSO),Pediatric DSO,Atlanta,GA,4000,$200M-$500M,Billing automation AI,$10K-$20K,Director of IT,www.benevis.com,3,Pediatric/Medicaid focus
+729,American Dental Partners,Dental (DSO),Large DSO,Wakefield,MA,3000,$200M-$500M,Scheduling AI,$10K-$20K,CTO,www.amdpi.com,3,Multi-state DSO
+730,Smile Brands,Dental (DSO),Large DSO,Irvine,CA,8000,$500M-$1B,Patient scheduling AI,$15K-$30K,Chief Technology Officer,www.smilebrands.com,4,600+ offices
+731,ClearChoice Dental,Dental (DSO),Implant Centers,Greenwood Village,CO,3000,$200M-$500M,Treatment plan AI,$10K-$25K,VP of Technology,www.clearchoice.com,4,TAG subsidiary; implant focus
+732,Pacific Dental Services,Dental (DSO),Partnership DSO,Irvine,CA,15000,$1B+,Clinical AI tools,$20K-$40K,CTO,www.pacificdentalservices.com,5,1000+ offices; dental innovation
+733,Affordable Care (Affordable Dentures),Dental (DSO),Value DSO,Kinston,NC,3000,$200M-$500M,Billing automation AI,$8K-$20K,Director of Technology,www.affordabledentures.com,3,250+ locations; denture focus
+734,Great Expressions Dental,Dental (DSO),Mid-Size DSO,Southfield,MI,2500,$200M-$500M,Patient engagement AI,$8K-$20K,VP of IT,www.greatexpressions.com,3,300+ offices; 10 states
+735,Mortenson Dental Partners,Dental (DSO),Mid-Size DSO,Louisville,KY,1500,$100M-$200M,Scheduling AI,$8K-$15K,Director of Technology,www.mortensondentalpartners.com,3,100+ locations
+736,Specialty Dental Brands,Dental (DSO),Specialty DSO,Nashville,TN,1000,$50M-$100M,Treatment plan AI,$5K-$15K,CTO,www.specialtydentalbrands.com,3,Specialty focus; growing
+737,D4C Dental Brands,Dental (DSO),Pediatric DSO,Dallas,TX,2000,$100M-$200M,Patient scheduling AI,$8K-$20K,VP of Technology,www.d4cdentalbrands.com,3,Pediatric/ortho focus
+738,Sage Dental,Dental (DSO),Regional DSO,Boca Raton,FL,2000,$100M-$200M,Billing automation AI,$8K-$15K,Director of IT,www.sagedental.com,3,FL/GA focused
+739,Dental One Associates,Dental (DSO),Mid-Size DSO,Dallas,TX,1500,$100M-$200M,Patient engagement AI,$8K-$15K,CTO,www.dentaloneassociates.com,3,Southwest focused
+740,42 North Dental,Dental (DSO),Regional DSO,Waltham,MA,1000,$50M-$100M,Scheduling AI,$5K-$15K,Director of Technology,www.42northdental.com,3,New England focused
+741,Perfect Teeth,Dental (DSO),Regional DSO,Denver,CO,1500,$50M-$100M,Patient scheduling AI,$5K-$15K,VP of Operations,www.perfectteeth.com,2,Colorado/NM focused
+742,Tend,Dental (DSO),Modern Dental,New York,NY,800,$50M-$100M,Patient experience AI,$8K-$20K,Chief Technology Officer,www.hellotend.com,3,Tech-forward dental startup
+743,Risas Dental,Dental (DSO),Value DSO,Phoenix,AZ,1000,$50M-$100M,Bilingual scheduling AI,$5K-$15K,Director of IT,www.risasdental.com,3,Hispanic community focus
+744,Rodeo Dental,Dental (DSO),Community DSO,Fort Worth,TX,800,$25M-$50M,Patient engagement AI,$5K-$12K,Director of Technology,www.rodeodental.com,2,Texas community focused
+745,Coast Dental,Dental (DSO),Regional DSO,Tampa,FL,2000,$100M-$200M,Billing automation,$8K-$15K,VP of IT,www.coastdental.com,3,Florida focused
+746,Brident Dental,Dental (DSO),Value DSO,Houston,TX,1500,$100M-$200M,Scheduling AI,$5K-$15K,Director of Operations,www.brident.com,3,Texas/CA focused
+747,Lightwave Dental,Dental (DSO),Partnership DSO,Minneapolis,MN,500,$25M-$50M,Patient records AI,$5K-$12K,CTO,www.lightwavepartners.com,2,Doctor-led partnership model
+748,DecisionOne Dental Partners,Dental (DSO),Partnership DSO,Dallas,TX,800,$25M-$50M,Treatment plan AI,$5K-$15K,VP of Technology,www.decisiononedental.com,2,TX focused partnership
+749,Marquee Dental Partners,Dental (DSO),Partnership DSO,Nashville,TN,600,$25M-$50M,Scheduling AI,$5K-$12K,Director of IT,www.marqueedental.com,2,SE partnership model
+750,North American Dental Group,Dental (DSO),Mid-Size DSO,Pittsburgh,PA,2000,$100M-$200M,Patient engagement AI,$8K-$20K,Chief Technology Officer,www.nadentalgroup.com,3,14 states; 250+ locations
+751,Dental365,Dental (DSO),Regional DSO,Garden City,NY,1000,$50M-$100M,Scheduling AI,$5K-$15K,Director of Technology,www.dental365.com,3,NY/NJ/CT focused
+752,Jefferson Dental,Dental (DSO),Regional DSO,Dallas,TX,1500,$50M-$100M,Billing automation AI,$5K-$15K,VP of IT,www.jeffersondental.com,2,Texas focused; 70+ offices
+753,Corus Orthodontists,Dental (DSO),Ortho DSO,Toronto,ON,800,$50M-$100M,Treatment plan AI,$5K-$15K,CTO,www.corusortho.com,3,US + Canada ortho network
+754,OrthoSynetics,Dental (DSO),Ortho Management,Metairie,LA,500,$25M-$50M,Practice management AI,$5K-$12K,Director of Technology,www.orthosynetics.com,2,Orthodontic practice management
+755,Kool Smiles (Benevis),Dental (DSO),Pediatric DSO,Atlanta,GA,2000,$100M-$200M,Scheduling AI,$5K-$15K,VP of Operations,www.mykoolsmiles.com,3,Benevis brand; pediatric
+756,Imagen Dental Partners,Dental (DSO),Partnership DSO,Scottsdale,AZ,400,$10M-$25M,Patient records AI,$5K-$12K,Director of IT,www.imagendentalpartners.com,2,AZ partnership model
+757,My Community Dental Centers,Dental (DSO),Nonprofit DSO,Farwell,MI,500,$25M-$50M,Scheduling AI,$5K-$10K,Director of Technology,www.mydental.org,2,Michigan nonprofit dental
+758,Smilebuilderz,Dental (DSO),Regional Practice,Lancaster,PA,100,$10M-$25M,Patient engagement AI,$5K-$10K,Practice Manager,www.smilebuilderz.com,2,PA multi-location practice
+759,Gentle Dental,Dental (DSO),Regional DSO,San Dimas,CA,2000,$100M-$200M,Scheduling AI,$8K-$15K,VP of Technology,www.gentledental.com,3,West Coast focused
+760,Refresh Dental,Dental (DSO),Regional DSO,Pittsburgh,PA,800,$25M-$50M,Patient scheduling AI,$5K-$12K,Director of IT,www.refreshdental.com,2,PA/OH focused
+761,Home Instead,Senior Care / Home Health,In-Home Care,Omaha,NE,100000,$1B+,Caregiver scheduling AI,$20K-$40K,Chief Technology Officer,www.homeinstead.com,5,1200+ franchises; largest senior care
+762,Visiting Angels,Senior Care / Home Health,In-Home Care,Bryn Mawr,PA,25000,$200M-$500M,Patient monitoring AI,$10K-$25K,VP of Technology,www.visitingangels.com,4,578 franchise units
+763,Right at Home,Senior Care / Home Health,In-Home Care,Omaha,NE,20000,$200M-$500M,Caregiver scheduling AI,$10K-$25K,Director of Technology,www.rightathome.net,4,734 total locations
+764,Comfort Keepers,Senior Care / Home Health,In-Home Care,Irvine,CA,15000,$200M-$500M,Patient monitoring AI,$10K-$25K,CTO,www.comfortkeepers.com,4,625+ franchise locations
+765,BrightStar Care,Senior Care / Home Health,Medical Home Care,Chicago,IL,10000,$200M-$500M,Compliance automation AI,$10K-$25K,Chief Technology Officer,www.brightstarcare.com,4,342 franchise units
+766,Senior Helpers,Senior Care / Home Health,In-Home Care,Towson,MD,8000,$100M-$200M,Caregiver scheduling AI,$8K-$20K,VP of Technology,www.seniorhelpers.com,3,350+ locations
+767,Interim HealthCare,Senior Care / Home Health,Home Health,Sunrise,FL,40000,$1B+,Patient monitoring AI,$15K-$30K,CTO,www.interimhealthcare.com,5,Caring Brands; 50+ year history
+768,Kindred at Home (Humana),Senior Care / Home Health,Home Health,Louisville,KY,43000,$5B+,Care coordination AI,$25K-$50K,Chief Technology Officer,www.kindredathome.com,5,Humana subsidiary; largest home health
+769,Amedisys,Senior Care / Home Health,Home Health/Hospice,Baton Rouge,LA,21000,$1B+,Patient monitoring AI,$20K-$40K,CTO,www.amedisys.com,5,NASDAQ listed; home health leader
+770,LHC Group (UnitedHealth),Senior Care / Home Health,Home Health,Lafayette,LA,30000,$1B+,Compliance automation AI,$20K-$40K,VP of Technology,www.lhcgroup.com,5,UnitedHealth subsidiary
+771,Encompass Health,Senior Care / Home Health,Home Health/Rehab,Birmingham,AL,50000,$5B+,Care coordination AI,$25K-$50K,Chief Technology Officer,www.encompasshealth.com,5,NYSE listed; rehab + home health
+772,AccordantHealth (CVS),Senior Care / Home Health,Home Health,Greensboro,NC,1000,$100M-$200M,Patient monitoring AI,$8K-$20K,Director of Technology,www.accordant.com,3,CVS specialty pharmacy
+773,Addus HomeCare,Senior Care / Home Health,Home Care,Frisco,TX,35000,$1B+,Caregiver scheduling AI,$15K-$30K,CTO,www.addus.com,4,NASDAQ listed; multi-service
+774,Almost Family (LHC),Senior Care / Home Health,Home Health,Louisville,KY,8000,$500M-$1B,Compliance automation AI,$10K-$25K,VP of Technology,www.almostfamily.com,3,Now part of LHC Group
+775,Bayada Home Health Care,Senior Care / Home Health,Home Health,Moorestown,NJ,26000,$1B+,Caregiver scheduling AI,$15K-$30K,Chief Technology Officer,www.bayada.com,5,360+ offices; nonprofit
+776,Elara Caring,Senior Care / Home Health,Home Health,Dallas,TX,30000,$1B+,Patient monitoring AI,$15K-$30K,CTO,www.elara.com,4,Merger of Great Elm + National HPC
+777,Aveanna Healthcare,Senior Care / Home Health,Home Health/Pediatric,Atlanta,GA,32000,$1B+,Compliance automation AI,$15K-$30K,VP of Technology,www.aveanna.com,4,NASDAQ listed; pediatric focus
+778,ComForCare Home Care,Senior Care / Home Health,In-Home Care,Bloomfield Hills,MI,5000,$50M-$100M,Caregiver scheduling AI,$5K-$15K,Director of IT,www.comforcare.com,3,212 franchise units
+779,FirstLight Home Care,Senior Care / Home Health,In-Home Care,Cincinnati,OH,4000,$50M-$100M,Patient monitoring AI,$5K-$15K,VP of Technology,www.firstlighthomecare.com,3,189 locations
+780,Griswold Home Care,Senior Care / Home Health,In-Home Care,Blue Bell,PA,3000,$50M-$100M,Caregiver scheduling AI,$5K-$15K,Director of Technology,www.griswoldhomecare.com,3,180 locations; since 1982
+781,HomeWell Care Services,Senior Care / Home Health,In-Home Care,Burkburnett,TX,2000,$25M-$50M,Scheduling AI,$5K-$12K,VP of Operations,www.homewellcares.com,2,145 units
+782,Amada Senior Care,Senior Care / Home Health,In-Home Care,San Clemente,CA,2500,$25M-$50M,Patient monitoring AI,$5K-$15K,Director of Technology,www.amadaseniorcare.com,3,150+ locations
+783,Assisting Hands,Senior Care / Home Health,In-Home Care,Des Plaines,IL,3000,$50M-$100M,Caregiver scheduling AI,$5K-$15K,VP of Technology,www.assistinghands.com,3,200 franchise units
+784,Homewatch CareGivers,Senior Care / Home Health,In-Home Care,Denver,CO,4500,$50M-$100M,Compliance automation AI,$5K-$15K,Director of IT,www.homewatchcaregivers.com,3,30+ states; 7 countries
+785,SYNERGY HomeCare,Senior Care / Home Health,In-Home Care,Gilbert,AZ,3000,$50M-$100M,Caregiver scheduling AI,$5K-$15K,VP of Technology,www.synergyhomecare.com,3,200+ franchise locations
+786,Home Helpers Home Care,Senior Care / Home Health,In-Home Care,Cincinnati,OH,3000,$50M-$100M,Patient monitoring AI,$5K-$15K,Director of Technology,www.homehelpershomecare.com,3,300+ territories
+787,Always Best Care,Senior Care / Home Health,In-Home Care,Roseville,CA,2000,$25M-$50M,Compliance automation AI,$5K-$12K,VP of Operations,www.alwaysbestcare.com,2,200+ franchise locations
+788,CarePatrol,Senior Care / Home Health,Senior Placement,Gilbert,AZ,500,$25M-$50M,Matching AI,$5K-$12K,CTO,www.carepatrol.com,3,Franchise placement service
+789,Enhabit Home Health & Hospice,Senior Care / Home Health,Home Health,Dallas,TX,10000,$1B+,Care coordination AI,$15K-$30K,Chief Technology Officer,www.ehab.com,4,NYSE listed; spin-off from Encompass
+790,Angels of Care Pediatric Home Health,Senior Care / Home Health,Pediatric Home Health,Bedford,TX,2000,$50M-$100M,Caregiver scheduling AI,$5K-$15K,Director of IT,www.angelsofcare.com,3,Texas-based pediatric
+791,ProMedica Senior Care,Senior Care / Home Health,Senior Living,Toledo,OH,15000,$1B+,Patient monitoring AI,$15K-$30K,VP of Technology,www.promedica.org,4,Non-profit; multi-service
+792,Sunrise Senior Living,Senior Care / Home Health,Assisted Living,McLean,VA,30000,$1B+,Resident monitoring AI,$15K-$30K,Chief Technology Officer,www.sunriseseniorliving.com,4,320+ communities
+793,Brookdale Senior Living,Senior Care / Home Health,Senior Living,Brentwood,TN,42000,$1B+,Caregiver scheduling AI,$20K-$40K,CTO,www.brookdale.com,5,NYSE listed; largest senior living
+794,Five Star Senior Living,Senior Care / Home Health,Senior Living,Newton,MA,16000,$500M-$1B,Resident monitoring AI,$10K-$25K,VP of Technology,www.fivestarseniorliving.com,3,250+ communities
+795,Atria Senior Living,Senior Care / Home Health,Senior Living,Louisville,KY,12000,$1B+,Patient monitoring AI,$15K-$25K,Chief Technology Officer,www.atriaseniorliving.com,4,200+ communities
+796,Life Care Centers of America,Senior Care / Home Health,Skilled Nursing,Cleveland,TN,25000,$1B+,Compliance automation AI,$15K-$30K,CTO,www.lcca.com,4,200+ facilities
+797,The Ensign Group,Senior Care / Home Health,Skilled Nursing,San Juan Capistrano,CA,40000,$1B+,Care coordination AI,$15K-$30K,VP of Technology,www.ensigngroup.net,4,NASDAQ listed; 275+ facilities
+798,National HealthCare Corp,Senior Care / Home Health,Long-Term Care,Murfreesboro,TN,12000,$1B+,Patient monitoring AI,$10K-$25K,Director of IT,www.nhccare.com,3,70+ facilities
+799,Sabra Health Care REIT,Senior Care / Home Health,Healthcare REIT,Irvine,CA,100,$500M-$1B,Portfolio analytics AI,$10K-$20K,VP of Technology,www.sabrahealth.com,3,NASDAQ listed; senior care REIT
+800,CareFinders Total Care,Senior Care / Home Health,Home Care,Clark,NJ,200,$10M-$25M,Caregiver scheduling AI,$5K-$10K,Director of Operations,www.carefindersinc.com,2,NJ home care provider
+801,Moneta Group,Financial Advisory / Wealth Management,RIA,St. Louis,MO,600,$200M-$500M,Portfolio reporting AI,$15K-$30K,Chief Technology Officer,www.monetagroup.com,4,#1 fee-only RIA; $42.8B AUM
+802,EP Wealth Advisors,Financial Advisory / Wealth Management,RIA,Torrance,CA,500,$100M-$200M,Client communication AI,$10K-$25K,CTO,www.epwealth.com,4,$35.6B AUM
+803,Savant Wealth Management,Financial Advisory / Wealth Management,RIA,Rockford,IL,300,$100M-$200M,Compliance AI,$10K-$20K,Director of Technology,www.savantwealth.com,3,$29.6B AUM
+804,Homrich Berg,Financial Advisory / Wealth Management,RIA,Atlanta,GA,200,$50M-$100M,Portfolio reporting AI,$8K-$20K,VP of Technology,www.homrichberg.com,3,$18.6B AUM
+805,Mercer Advisors,Financial Advisory / Wealth Management,RIA,Denver,CO,1200,$200M-$500M,Client onboarding AI,$10K-$25K,Chief Technology Officer,www.merceradvisors.com,4,Top 5 RIA; $50B+ AUM
+806,Creative Planning,Financial Advisory / Wealth Management,RIA,Overland Park,KS,2000,$500M-$1B,Portfolio analytics AI,$15K-$30K,CTO,www.creativeplanning.com,5,Peter Mallouk; $300B+ AUM
+807,Fisher Investments,Financial Advisory / Wealth Management,RIA,Camas,WA,5000,$1B+,Client communication AI,$20K-$40K,Chief Technology Officer,www.fisherinvestments.com,5,$200B+ AUM
+808,Edelman Financial Engines,Financial Advisory / Wealth Management,RIA,Santa Clara,CA,3000,$1B+,Portfolio reporting AI,$15K-$30K,CTO,www.edelmanfinancialengines.com,5,Largest RIA by advisors
+809,Hightower Advisors,Financial Advisory / Wealth Management,RIA Network,Chicago,IL,1200,$200M-$500M,Compliance AI,$10K-$25K,VP of Technology,www.hightoweradvisors.com,4,$130B+ AUM
+810,Mariner Wealth Advisors,Financial Advisory / Wealth Management,RIA,Overland Park,KS,1500,$200M-$500M,Client onboarding AI,$10K-$25K,Chief Technology Officer,www.marinerwealthadvisors.com,4,$100B+ AUM
+811,Beacon Pointe Advisors,Financial Advisory / Wealth Management,RIA,Newport Beach,CA,300,$50M-$100M,Portfolio reporting AI,$8K-$20K,Director of IT,www.beaconpointe.com,3,$30B+ AUM
+812,Buckingham Strategic Wealth,Financial Advisory / Wealth Management,RIA,St. Louis,MO,200,$50M-$100M,Compliance AI,$8K-$15K,CTO,www.buckinghamstrategicwealth.com,3,Evidence-based investing
+813,Carson Group,Financial Advisory / Wealth Management,RIA Network,Omaha,NE,500,$100M-$200M,Client communication AI,$10K-$20K,Chief Technology Officer,www.carsongroup.com,4,Ron Carson; advisor platform
+814,Captrust Financial Advisors,Financial Advisory / Wealth Management,RIA,Raleigh,NC,1000,$200M-$500M,Portfolio analytics AI,$10K-$25K,VP of Technology,www.captrust.com,4,$800B+ AUM; retirement focus
+815,Raymond James,Financial Advisory / Wealth Management,Broker-Dealer,St. Petersburg,FL,15000,$10B+,Client engagement AI,$25K-$50K,Chief Technology Officer,www.raymondjames.com,5,NYSE listed; $1.4T AUM
+816,Edward Jones,Financial Advisory / Wealth Management,Broker-Dealer,St. Louis,MO,52000,$10B+,Client communication AI,$30K-$50K,CTO,www.edwardjones.com,5,15K+ advisors; $1.9T AUA
+817,Stifel Financial,Financial Advisory / Wealth Management,Broker-Dealer,St. Louis,MO,8500,$1B+,Portfolio reporting AI,$15K-$30K,VP of Technology,www.stifel.com,4,NYSE listed
+818,Baird,Financial Advisory / Wealth Management,Broker-Dealer,Milwaukee,WI,4500,$1B+,Client engagement AI,$15K-$30K,Chief Technology Officer,www.bairdwealth.com,4,Employee-owned
+819,LPL Financial,Financial Advisory / Wealth Management,Independent BD,San Diego,CA,6000,$5B+,Advisor productivity AI,$25K-$50K,CTO,www.lpl.com,5,#1 independent BD; 32K advisors
+820,Cetera Financial Group,Financial Advisory / Wealth Management,Network BD,Dallas,TX,2000,$500M-$1B,Compliance AI,$10K-$25K,Chief Technology Officer,www.cetera.com,4,8000+ advisors
+821,Wealthfront,Financial Advisory / Wealth Management,Robo-Advisor,Palo Alto,CA,500,$100M-$200M,Portfolio optimization AI,$10K-$20K,CTO,www.wealthfront.com,4,UBS subsidiary; $70B+ AUM
+822,Betterment,Financial Advisory / Wealth Management,Robo-Advisor,New York,NY,400,$100M-$200M,Tax optimization AI,$10K-$20K,Chief Technology Officer,www.betterment.com,4,Digital wealth management
+823,Personal Capital (Empower),Financial Advisory / Wealth Management,Digital Wealth,San Carlos,CA,1000,$200M-$500M,Portfolio analytics AI,$10K-$25K,CTO,www.personalcapital.com,4,Empower subsidiary
+824,Focus Financial Partners,Financial Advisory / Wealth Management,RIA Platform,New York,NY,5000,$1B+,Client onboarding AI,$15K-$30K,Chief Technology Officer,www.focusfinancialpartners.com,5,NASDAQ listed; $400B+ AUM
+825,Pathstone,Financial Advisory / Wealth Management,Multi-Family Office,Englewood,NJ,300,$50M-$100M,Portfolio reporting AI,$8K-$20K,VP of Technology,www.pathstone.com,3,$30B+ AUM
+826,Sanctuary Wealth,Financial Advisory / Wealth Management,RIA Network,Indianapolis,IN,200,$25M-$50M,Client communication AI,$5K-$15K,Director of Technology,www.sanctuarywealth.com,3,Growing RIA network
+827,Dynasty Financial Partners,Financial Advisory / Wealth Management,RIA Platform,New York,NY,200,$50M-$100M,Compliance AI,$8K-$20K,CTO,www.dynastyfinancialpartners.com,3,RIA infrastructure platform
+828,Steward Partners,Financial Advisory / Wealth Management,RIA,Washington,DC,100,$25M-$50M,Portfolio analytics AI,$5K-$15K,Director of IT,www.stewardpartners.com,3,Raymond James partnership
+829,Cresset Capital,Financial Advisory / Wealth Management,Multi-Family Office,Chicago,IL,200,$50M-$100M,Portfolio reporting AI,$8K-$20K,Chief Technology Officer,www.cressetcapital.com,3,$50B+ AUM
+830,Corient (CI Financial),Financial Advisory / Wealth Management,RIA Platform,Miami,FL,1500,$200M-$500M,Client onboarding AI,$10K-$25K,CTO,www.corient.com,4,CI Financial US wealth
+831,Perigon Wealth,Financial Advisory / Wealth Management,RIA,San Francisco,CA,100,$25M-$50M,Compliance AI,$5K-$15K,VP of Technology,www.perigonwealth.com,3,Top ranked RIA
+832,GHPIA,Financial Advisory / Wealth Management,RIA,Greenwich,CT,50,$10M-$25M,Portfolio reporting AI,$5K-$12K,Director of Operations,www.ghpia.com,2,CT-based wealth management
+833,Plancorp,Financial Advisory / Wealth Management,RIA,St. Louis,MO,100,$25M-$50M,Client communication AI,$5K-$15K,Director of IT,www.plancorp.com,3,Buckingham affiliate
+834,Sequoia Financial Group,Financial Advisory / Wealth Management,RIA,Akron,OH,300,$50M-$100M,Compliance AI,$8K-$15K,CTO,www.sequoia-financial.com,3,Growing RIA; Midwest
+835,Bleakley Financial Group,Financial Advisory / Wealth Management,RIA,Fairfield,NJ,50,$10M-$25M,Portfolio reporting AI,$5K-$12K,Director of Technology,www.bleakley.com,2,NJ-based wealth management
+836,SignatureFD,Financial Advisory / Wealth Management,RIA,Atlanta,GA,100,$25M-$50M,Client engagement AI,$5K-$15K,VP of Technology,www.signaturefd.com,3,Purpose-based planning
+837,Aspiriant,Financial Advisory / Wealth Management,RIA,Los Angeles,CA,200,$50M-$100M,Portfolio analytics AI,$8K-$20K,Chief Technology Officer,www.aspiriant.com,3,$15B+ AUM
+838,Telemus Capital,Financial Advisory / Wealth Management,RIA,Southfield,MI,80,$25M-$50M,Client communication AI,$5K-$12K,Director of IT,www.telemus.com,2,Michigan-based RIA
+839,Crestwood Advisors,Financial Advisory / Wealth Management,RIA,Boston,MA,80,$25M-$50M,Portfolio reporting AI,$5K-$15K,CTO,www.crestwoodadvisors.com,3,FA Magazine 2025 ranking
+840,Gresham Partners,Financial Advisory / Wealth Management,Family Office,Chicago,IL,80,$25M-$50M,Compliance AI,$5K-$15K,Director of Technology,www.greshampartners.com,3,$11.6B AUM; #20 fee-only RIA
+841,Rollins Inc (Orkin),Pest Control / Cleaning Services,Pest Control,Atlanta,GA,18000,$1B+,Route optimization AI,$20K-$40K,Chief Technology Officer,www.rollins.com,5,NYSE listed; Orkin parent; $2.5B rev
+842,Rentokil (Terminix),Pest Control / Cleaning Services,Pest Control,Reading,PA,30000,$5B+,Scheduling AI,$25K-$50K,CTO,www.rentokil-initial.com,5,Acquired Terminix; global leader
+843,Arrow Exterminators,Pest Control / Cleaning Services,Pest Control,Atlanta,GA,3000,$200M-$500M,Route optimization AI,$10K-$25K,VP of Technology,www.arrowexterminators.com,4,Top 5 US pest control
+844,Truly Nolen,Pest Control / Cleaning Services,Pest Control,Tucson,AZ,1500,$100M-$200M,Scheduling AI,$8K-$20K,Director of IT,www.trulynolen.com,3,95+ US locations; 200+ global
+845,Cooks Pest Control,Pest Control / Cleaning Services,Pest Control,Decatur,AL,1500,$100M-$200M,Customer retention AI,$8K-$20K,VP of Technology,www.cookspest.com,3,Southeast leader; since 1926
+846,HomeTeam Pest Defense,Pest Control / Cleaning Services,Pest Control,Dallas,TX,2000,$200M-$500M,Route optimization AI,$10K-$20K,Director of Technology,www.hometeampestdefense.com,3,Rollins subsidiary
+847,ABC Home & Commercial,Pest Control / Cleaning Services,Multi-Service,Austin,TX,1500,$100M-$200M,Scheduling AI,$8K-$20K,VP of Operations,www.abchomeandcommercial.com,3,Pest + lawn + AC
+848,Aptive Environmental,Pest Control / Cleaning Services,Pest Control,Provo,UT,5000,$200M-$500M,Customer retention AI,$10K-$25K,Chief Technology Officer,www.goaptive.com,4,Fast-growing; digital-first
+849,Massey Services,Pest Control / Cleaning Services,Pest/Lawn,Orlando,FL,2800,$200M-$500M,Route optimization AI,$10K-$20K,Director of IT,www.masseyservices.com,3,Florida leader
+850,Mosquito Squad,Pest Control / Cleaning Services,Specialty Pest,Virginia Beach,VA,1500,$50M-$100M,Scheduling AI,$5K-$15K,VP of Franchise,www.mosquitosquad.com,3,237 franchise units
+851,ABC (ServiceMaster),Pest Control / Cleaning Services,Cleaning/Pest,Memphis,TN,13000,$1B+,Route optimization AI,$15K-$30K,Chief Technology Officer,www.servicemaster.com,5,ServiceMaster parent; Roark Capital
+852,Jan-Pro Cleaning,Pest Control / Cleaning Services,Commercial Cleaning,Alpharetta,GA,10000,$200M-$500M,Scheduling AI,$10K-$25K,VP of Technology,www.jan-pro.com,4,10000+ franchise locations
+853,Jani-King International,Pest Control / Cleaning Services,Commercial Cleaning,Addison,TX,9000,$200M-$500M,Customer retention AI,$10K-$20K,Director of IT,www.janiking.com,4,Worlds largest commercial cleaning
+854,Coverall,Pest Control / Cleaning Services,Commercial Cleaning,Deerfield Beach,FL,8000,$100M-$200M,Route optimization AI,$8K-$20K,VP of Technology,www.coverall.com,3,9000+ franchisees
+855,Vanguard Cleaning Systems,Pest Control / Cleaning Services,Commercial Cleaning,San Mateo,CA,5000,$100M-$200M,Scheduling AI,$8K-$15K,Director of Technology,www.vanguardcleaning.com,3,3000+ franchise partners
+856,Stratus Building Solutions,Pest Control / Cleaning Services,Green Cleaning,Los Angeles,CA,4000,$100M-$200M,Customer retention AI,$5K-$15K,VP of Operations,www.stratusclean.com,3,Green cleaning franchise
+857,Stanley Steemer,Pest Control / Cleaning Services,Carpet/Cleaning,Dublin,OH,5000,$200M-$500M,Scheduling AI,$10K-$20K,Chief Technology Officer,www.stanleysteemer.com,4,300+ locations
+858,Merry Maids,Pest Control / Cleaning Services,Residential Cleaning,Memphis,TN,8000,$200M-$500M,Route optimization AI,$8K-$20K,VP of Technology,www.merrymaids.com,3,ServiceMaster brand
+859,Molly Maid,Pest Control / Cleaning Services,Residential Cleaning,Waco,TX,5000,$100M-$200M,Scheduling AI,$5K-$15K,Director of Technology,www.mollymaid.com,3,Neighborly brand
+860,The Maids,Pest Control / Cleaning Services,Residential Cleaning,Omaha,NE,3000,$50M-$100M,Route optimization AI,$5K-$15K,VP of Operations,www.maids.com,2,Franchise residential cleaning
+861,CleanNet USA,Pest Control / Cleaning Services,Commercial Cleaning,Columbia,MD,3000,$50M-$100M,Customer retention AI,$5K-$12K,Director of IT,www.cleannetusa.com,2,Franchise commercial cleaning
+862,Anago Cleaning Systems,Pest Control / Cleaning Services,Commercial Cleaning,Fort Lauderdale,FL,3000,$50M-$100M,Scheduling AI,$5K-$12K,VP of Technology,www.anagocleaning.com,2,Master franchise model
+863,Office Pride,Pest Control / Cleaning Services,Commercial Cleaning,Winter Park,FL,1500,$25M-$50M,Route optimization AI,$5K-$10K,Director of Operations,www.officepride.com,2,Faith-based cleaning
+864,OpenWorks,Pest Control / Cleaning Services,Facility Services,Phoenix,AZ,3000,$50M-$100M,Scheduling AI,$5K-$15K,VP of Technology,www.openworksweb.com,3,Facility management
+865,ABM Industries,Pest Control / Cleaning Services,Facility Services,New York,NY,100000,$5B+,Building automation AI,$30K-$50K,Chief Technology Officer,www.abm.com,5,NYSE listed; facility services
+866,ISS A/S (US),Pest Control / Cleaning Services,Facility Services,New York,NY,40000,$5B+,Workforce scheduling AI,$25K-$50K,CTO,www.us.issworld.com,5,Global facility services
+867,Cintas,Pest Control / Cleaning Services,Facility/Uniforms,Cincinnati,OH,44000,$5B+,Route optimization AI,$25K-$50K,Chief Technology Officer,www.cintas.com,5,NYSE listed; uniforms + facilities
+868,UniFirst,Pest Control / Cleaning Services,Uniforms/Cleaning,Wilmington,MA,14000,$1B+,Scheduling AI,$10K-$25K,VP of Technology,www.unifirst.com,4,NYSE listed; uniform services
+869,Critter Control,Pest Control / Cleaning Services,Wildlife Control,Traverse City,MI,1000,$25M-$50M,Scheduling AI,$5K-$12K,Director of IT,www.crittercontrol.com,2,100+ locations
+870,Pestmaster Services,Pest Control / Cleaning Services,Pest Control,Bishop,CA,200,$10M-$25M,Route optimization AI,$5K-$10K,Director of Operations,www.pestmaster.com,2,Government + commercial pest
+871,Anticimex (US),Pest Control / Cleaning Services,Smart Pest,Philadelphia,PA,500,$50M-$100M,IoT pest monitoring AI,$8K-$20K,VP of Technology,www.anticimex.com,3,Swedish parent; smart pest tech
+872,Mosquito Joe,Pest Control / Cleaning Services,Specialty Pest,Virginia Beach,VA,1500,$25M-$50M,Route optimization AI,$5K-$12K,Director of Franchise,www.mosquitojoe.com,2,Neighborly brand
+873,Servpro,Pest Control / Cleaning Services,Restoration/Cleaning,Gallatin,TN,12000,$500M-$1B,Dispatch AI,$10K-$25K,Chief Technology Officer,www.servpro.com,4,2000+ franchise locations
+874,PuroClean,Pest Control / Cleaning Services,Restoration/Cleaning,Tamarac,FL,3000,$100M-$200M,Scheduling AI,$5K-$15K,VP of Technology,www.puroclean.com,3,Paramedics of property damage
+875,Restoration 1,Pest Control / Cleaning Services,Restoration,Waco,TX,2000,$50M-$100M,Dispatch AI,$5K-$12K,Director of Technology,www.restoration1.com,2,Franchise restoration
+876,Presto-X (Rentokil),Pest Control / Cleaning Services,Pest Control,Omaha,NE,500,$50M-$100M,Route optimization AI,$5K-$15K,VP of Operations,www.prestox.com,3,Rentokil subsidiary; Midwest
+877,Bulwark Exterminating,Pest Control / Cleaning Services,Pest Control,Mesa,AZ,300,$10M-$25M,Customer retention AI,$5K-$10K,Director of IT,www.bulwarkpestcontrol.com,2,Southwest pest control
+878,Hulett Environmental,Pest Control / Cleaning Services,Pest Control,West Palm Beach,FL,800,$50M-$100M,Route optimization AI,$5K-$15K,VP of Technology,www.hulett.com,3,Florida pest leader
+879,Turner Pest Control,Pest Control / Cleaning Services,Pest Control,Jacksonville,FL,400,$25M-$50M,Scheduling AI,$5K-$12K,Director of Operations,www.turnerpest.com,2,Jacksonville area leader
+880,Modern Pest Services,Pest Control / Cleaning Services,Pest Control,Brunswick,ME,200,$10M-$25M,Route optimization AI,$5K-$10K,VP of Operations,www.modernpest.com,2,New England pest control
+881,Quad (Quad/Graphics),Printing / Signage / Packaging,Commercial Printing,Sussex,WI,13000,$1B+,Order processing AI,$15K-$30K,Chief Technology Officer,www.quad.com,5,NYSE listed; largest US printer
+882,RR Donnelley,Printing / Signage / Packaging,Commercial Printing,Chicago,IL,20000,$1B+,Estimating AI,$15K-$30K,CTO,www.rrd.com,5,NYSE listed; global print
+883,Taylor Corporation,Printing / Signage / Packaging,Diversified Print,North Mankato,MN,10000,$1B+,Order processing AI,$10K-$25K,VP of Technology,www.taylor.com,4,Custom packaging + print
+884,Cimpress (Vistaprint),Printing / Signage / Packaging,Online Printing,Waltham,MA,12000,$1B+,Quality control AI,$15K-$30K,Chief Technology Officer,www.cimpress.com,5,NASDAQ listed; mass customization
+885,International Paper,Printing / Signage / Packaging,Packaging,Memphis,TN,39000,$10B+,Quality control AI,$30K-$50K,CTO,www.internationalpaper.com,5,NYSE listed; largest packaging co
+886,Packaging Corp of America,Printing / Signage / Packaging,Corrugated Packaging,Lake Forest,IL,15000,$5B+,Estimating AI,$20K-$40K,VP of Innovation,www.packagingcorp.com,5,NYSE listed; since 1867
+887,Graphic Packaging,Printing / Signage / Packaging,Consumer Packaging,Atlanta,GA,24000,$5B+,Quality control AI,$20K-$40K,Chief Technology Officer,www.graphicpkg.com,5,Fortune 500
+888,Sealed Air,Printing / Signage / Packaging,Protective Packaging,Charlotte,NC,17000,$5B+,Supply chain AI,$20K-$40K,CTO,www.sealedair.com,5,BUBBLE WRAP maker; NYSE
+889,Avery Dennison,Printing / Signage / Packaging,Labels/Packaging,Mentor,OH,36000,$5B+,Quality control AI,$25K-$50K,VP of Digital,www.averydennison.com,5,Fortune 500; labels leader
+890,Oliver Inc,Printing / Signage / Packaging,Printing/Packaging,Twinsburg,OH,500,$50M-$100M,Order processing AI,$8K-$20K,VP of Technology,www.oliverinc.com,3,250+ years combined experience
+891,Global Printing,Printing / Signage / Packaging,Consumer Packaging,Kowloon,HK,500,$50M-$100M,Quality control AI,$8K-$15K,Director of Operations,www.gprinting.com,3,International print solutions
+892,Minuteman Press,Printing / Signage / Packaging,Franchise Print,Farmingdale,NY,5000,$200M-$500M,Estimating AI,$8K-$20K,VP of Franchise,www.minutemanpress.com,4,900+ franchise locations
+893,AlphaGraphics,Printing / Signage / Packaging,Franchise Print,Salt Lake City,UT,2000,$100M-$200M,Order processing AI,$5K-$15K,Director of Technology,www.alphagraphics.com,3,250+ franchise locations
+894,Sir Speedy,Printing / Signage / Packaging,Franchise Print,Mission Viejo,CA,1500,$50M-$100M,Estimating AI,$5K-$12K,VP of Operations,www.sirspeedy.com,2,Franchise Solutions brand
+895,FASTSIGNS International,Printing / Signage / Packaging,Signage,Carrollton,TX,5000,$200M-$500M,Order processing AI,$8K-$20K,Chief Technology Officer,www.fastsigns.com,4,770+ franchise locations
+896,Signs Now,Printing / Signage / Packaging,Signage,Daytona Beach,FL,1000,$25M-$50M,Estimating AI,$5K-$12K,Director of IT,www.signsnow.com,2,Franchise signage
+897,YESCO,Printing / Signage / Packaging,Signage/Lighting,Salt Lake City,UT,1500,$100M-$200M,Quality control AI,$8K-$15K,VP of Technology,www.yesco.com,3,Sign manufacturing + service
+898,SpeedPro Imaging,Printing / Signage / Packaging,Large Format Print,Denver,CO,800,$25M-$50M,Order processing AI,$5K-$12K,Director of Franchise,www.speedpro.com,2,Large format franchise
+899,Signarama,Printing / Signage / Packaging,Signage,West Palm Beach,FL,3000,$100M-$200M,Estimating AI,$5K-$15K,VP of Technology,www.signarama.com,3,800+ franchise locations
+900,Multi-Color Corporation,Printing / Signage / Packaging,Labels,Batavia,OH,6000,$1B+,Quality control AI,$10K-$25K,CTO,www.mcclabel.com,4,Now part of Clarios
+901,SiO2 Materials Science,Printing / Signage / Packaging,Packaging Tech,Auburn,AL,300,$50M-$100M,Quality control AI,$8K-$15K,VP of Technology,www.sio2ms.com,3,High-tech packaging
+902,Berlin Packaging,Printing / Signage / Packaging,Packaging Distributor,Chicago,IL,2000,$1B+,Order processing AI,$10K-$25K,Chief Technology Officer,www.berlinpackaging.com,4,Packaging supply chain
+903,TricorBraun,Printing / Signage / Packaging,Packaging Solutions,St. Louis,MO,1500,$500M-$1B,Estimating AI,$8K-$20K,VP of Technology,www.tricorbraun.com,3,Rigid packaging distributor
+904,Sonoco Products,Printing / Signage / Packaging,Industrial Packaging,Hartsville,SC,22000,$5B+,Quality control AI,$20K-$40K,CTO,www.sonoco.com,5,NYSE listed; diversified packaging
+905,Pactiv Evergreen,Printing / Signage / Packaging,Food Packaging,Lake Forest,IL,14000,$5B+,Supply chain AI,$20K-$40K,Chief Technology Officer,www.pactivevergreen.com,4,NASDAQ; foodservice packaging
+906,Berry Global,Printing / Signage / Packaging,Plastic Packaging,Evansville,IN,46000,$10B+,Quality control AI,$25K-$50K,CTO,www.berryglobal.com,5,NYSE listed; $14B revenue
+907,Westrock,Printing / Signage / Packaging,Corrugated/Consumer,Atlanta,GA,44000,$10B+,Estimating AI,$25K-$50K,VP of Innovation,www.westrock.com,5,NYSE listed; now Smurfit Westrock
+908,GPA (Graphic Packaging Alternative),Printing / Signage / Packaging,Specialty Print,Clearwater,FL,200,$25M-$50M,Order processing AI,$5K-$12K,Director of Operations,www.askgpa.com,2,Specialty print distributor
+909,ColorDynamics,Printing / Signage / Packaging,Commercial Print,Allen,TX,100,$10M-$25M,Estimating AI,$5K-$10K,VP of Production,www.colordynamics.com,2,Texas commercial printer
+910,Worth Higgins & Associates,Printing / Signage / Packaging,Commercial Print,Richmond,VA,100,$10M-$25M,Quality control AI,$5K-$10K,Director of Operations,www.worthhiggins.com,2,Richmond printer
+911,Cenveo (now Ennis Inc),Printing / Signage / Packaging,Print/Forms,Midlothian,TX,4000,$500M-$1B,Order processing AI,$8K-$20K,Chief Technology Officer,www.ennis.com,3,NYSE listed; business forms
+912,Multi Packaging Solutions,Printing / Signage / Packaging,Premium Packaging,New York,NY,6000,$500M-$1B,Quality control AI,$10K-$25K,VP of Technology,www.multipkg.com,3,Premium/specialty packaging
+913,Meyers Printing,Printing / Signage / Packaging,Commercial Print,Minneapolis,MN,100,$10M-$25M,Estimating AI,$5K-$10K,Director of Production,www.meyers.com,2,Minnesota commercial printer
+914,Shutterfly,Printing / Signage / Packaging,Consumer Print,San Jose,CA,5000,$1B+,Personalization AI,$10K-$25K,Chief Technology Officer,www.shutterfly.com,4,Consumer photo printing
+915,MOO,Printing / Signage / Packaging,Premium Print,London,UK,500,$100M-$200M,Order processing AI,$5K-$15K,CTO,www.moo.com,3,US operations; premium cards
+916,PrintingForLess,Printing / Signage / Packaging,Online Commercial,Livingston,MT,100,$10M-$25M,Estimating AI,$5K-$10K,Director of Technology,www.printingforless.com,2,Online commercial printing
+917,4Over,Printing / Signage / Packaging,Trade Printing,Los Angeles,CA,1000,$100M-$200M,Order processing AI,$5K-$15K,VP of Technology,www.4over.com,3,Wholesale trade printer
+918,Mimeo,Printing / Signage / Packaging,Cloud Printing,New York,NY,200,$25M-$50M,Order automation AI,$5K-$12K,CTO,www.mimeo.com,3,Cloud-based print solutions
+919,StickerGiant,Printing / Signage / Packaging,Custom Labels,Longmont,CO,100,$10M-$25M,Order processing AI,$5K-$10K,Director of Operations,www.stickergiant.com,2,Custom sticker/label printing
+920,PFL (Printing for Less),Printing / Signage / Packaging,Direct Mail/Print,Livingston,MT,200,$25M-$50M,Campaign automation AI,$5K-$15K,VP of Technology,www.pfl.com,3,Tactile marketing automation
+921,American Red Cross,Nonprofits / Associations,Humanitarian,Washington,DC,20000,$1B+,Donor management AI,$15K-$30K,Chief Information Officer,www.redcross.org,5,Disaster relief; 300+ chapters
+922,United Way Worldwide,Nonprofits / Associations,Community,Alexandria,VA,8000,$1B+,Grant writing AI,$10K-$25K,VP of Technology,www.unitedway.org,5,1800+ local organizations
+923,Habitat for Humanity,Nonprofits / Associations,Housing,Atlanta,GA,2000,$500M-$1B,Donor management AI,$10K-$25K,Chief Technology Officer,www.habitat.org,4,70+ countries
+924,Salvation Army,Nonprofits / Associations,Social Services,Alexandria,VA,60000,$5B+,Event automation AI,$20K-$40K,CIO,www.salvationarmyusa.org,5,7600+ centers in US
+925,Goodwill Industries,Nonprofits / Associations,Workforce Dev,Rockville,MD,120000,$5B+,Donor management AI,$20K-$40K,Chief Technology Officer,www.goodwill.org,5,3300+ stores
+926,Boys & Girls Clubs,Nonprofits / Associations,Youth,Atlanta,GA,50000,$1B+,Event automation AI,$10K-$25K,VP of Technology,www.bgca.org,4,4700+ clubs
+927,Feeding America,Nonprofits / Associations,Hunger Relief,Chicago,IL,2000,$1B+,Donor management AI,$10K-$25K,CTO,www.feedingamerica.org,4,200 food banks
+928,YMCA of the USA,Nonprofits / Associations,Community,Chicago,IL,60000,$5B+,Member engagement AI,$20K-$40K,Chief Technology Officer,www.ymca.org,5,2700+ locations
+929,National Association of Realtors,Nonprofits / Associations,Trade Association,Chicago,IL,1000,$200M-$500M,Member engagement AI,$10K-$25K,CTO,www.nar.realtor,4,1.5M+ members; largest trade assn
+930,American Medical Association,Nonprofits / Associations,Professional Assn,Chicago,IL,1200,$500M-$1B,Grant writing AI,$10K-$25K,VP of Technology,www.ama-assn.org,4,270K+ physician members
+931,American Bar Association,Nonprofits / Associations,Professional Assn,Chicago,IL,1000,$200M-$500M,Event automation AI,$8K-$20K,Director of IT,www.americanbar.org,3,400K+ members
+932,IEEE,Nonprofits / Associations,Professional Assn,Piscataway,NJ,2000,$500M-$1B,Member engagement AI,$10K-$25K,Chief Technology Officer,www.ieee.org,4,400K+ members; engineering
+933,American Chemical Society,Nonprofits / Associations,Professional Assn,Washington,DC,2000,$500M-$1B,Content management AI,$10K-$25K,CTO,www.acs.org,4,155K+ members
+934,National Association of Manufacturers,Nonprofits / Associations,Trade Association,Washington,DC,500,$50M-$100M,Event automation AI,$8K-$15K,Director of IT,www.nam.org,3,14K+ member companies
+935,US Chamber of Commerce,Nonprofits / Associations,Business Association,Washington,DC,1500,$200M-$500M,Member engagement AI,$10K-$25K,VP of Technology,www.uschamber.com,4,3M+ businesses represented
+936,AARP,Nonprofits / Associations,Advocacy/Membership,Washington,DC,2500,$1B+,Member engagement AI,$15K-$30K,Chief Technology Officer,www.aarp.org,5,38M+ members
+937,American Cancer Society,Nonprofits / Associations,Health,Atlanta,GA,5000,$500M-$1B,Donor management AI,$10K-$25K,CTO,www.cancer.org,4,Leading cancer research nonprofit
+938,American Heart Association,Nonprofits / Associations,Health,Dallas,TX,3500,$500M-$1B,Grant writing AI,$10K-$25K,VP of Technology,www.heart.org,4,Heart health research/advocacy
+939,St. Jude Childrens Research,Nonprofits / Associations,Healthcare,Memphis,TN,5000,$1B+,Donor engagement AI,$15K-$30K,Chief Technology Officer,www.stjude.org,5,Leading pediatric research
+940,Susan G. Komen,Nonprofits / Associations,Health,Dallas,TX,400,$100M-$200M,Donor management AI,$5K-$15K,Director of IT,www.komen.org,3,Breast cancer research
+941,World Wildlife Fund,Nonprofits / Associations,Environment,Washington,DC,3000,$200M-$500M,Donor engagement AI,$8K-$20K,VP of Technology,www.worldwildlife.org,4,100+ countries
+942,Nature Conservancy,Nonprofits / Associations,Environment,Arlington,VA,4000,$1B+,Grant writing AI,$10K-$25K,Chief Technology Officer,www.nature.org,5,79 countries; largest conservation
+943,Sierra Club,Nonprofits / Associations,Environment,Oakland,CA,700,$100M-$200M,Member engagement AI,$5K-$15K,Director of Technology,www.sierraclub.org,3,3.8M members + supporters
+944,Planned Parenthood,Nonprofits / Associations,Healthcare,New York,NY,12000,$1B+,Event automation AI,$10K-$25K,CTO,www.plannedparenthood.org,4,600+ health centers
+945,March of Dimes,Nonprofits / Associations,Health,Arlington,VA,800,$100M-$200M,Donor management AI,$5K-$15K,VP of Technology,www.marchofdimes.org,3,Maternal/infant health
+946,Special Olympics,Nonprofits / Associations,Sports/Disability,Washington,DC,500,$200M-$500M,Event automation AI,$8K-$15K,Director of IT,www.specialolympics.org,3,5.5M athletes; 170 countries
+947,ASAE,Nonprofits / Associations,Association Management,Washington,DC,200,$25M-$50M,Member engagement AI,$5K-$15K,VP of Technology,www.asaecenter.org,3,21K+ association execs
+948,PhRMA,Nonprofits / Associations,Trade Association,Washington,DC,300,$200M-$500M,Content management AI,$8K-$20K,Director of IT,www.phrma.org,3,Pharmaceutical industry advocacy
+949,American Hospital Association,Nonprofits / Associations,Trade Association,Chicago,IL,500,$100M-$200M,Event automation AI,$8K-$15K,VP of Technology,www.aha.org,3,5K+ member hospitals
+950,National Education Association,Nonprofits / Associations,Labor/Professional,Washington,DC,600,$200M-$500M,Member engagement AI,$8K-$20K,Chief Technology Officer,www.nea.org,4,3M+ members; largest union
+951,Make-A-Wish Foundation,Nonprofits / Associations,Children,Phoenix,AZ,2000,$200M-$500M,Donor management AI,$8K-$15K,Director of IT,www.wish.org,3,60+ chapters
+952,Doctors Without Borders,Nonprofits / Associations,Healthcare,New York,NY,2000,$500M-$1B,Grant writing AI,$8K-$20K,VP of Technology,www.msf.org,4,70+ countries
+953,Direct Relief,Nonprofits / Associations,Healthcare/Disaster,Santa Barbara,CA,150,$500M-$1B,Donor management AI,$5K-$15K,Director of IT,www.directrelief.org,3,Medical aid nonprofit
+954,Big Brothers Big Sisters,Nonprofits / Associations,Youth Mentoring,Tampa,FL,1200,$100M-$200M,Match AI,$5K-$15K,VP of Technology,www.bbbs.org,3,230+ affiliates
+955,Girl Scouts of the USA,Nonprofits / Associations,Youth,New York,NY,9000,$500M-$1B,Event automation AI,$10K-$20K,Chief Technology Officer,www.girlscouts.org,4,1.7M+ members
+956,Boy Scouts of America,Nonprofits / Associations,Youth,Irving,TX,8000,$500M-$1B,Member engagement AI,$10K-$20K,CTO,www.scouting.org,4,Now Scouting America
+957,American Diabetes Association,Nonprofits / Associations,Health,Arlington,VA,800,$200M-$500M,Donor management AI,$5K-$15K,Director of Technology,www.diabetes.org,3,Diabetes research/advocacy
+958,Catholic Charities USA,Nonprofits / Associations,Social Services,Alexandria,VA,50000,$1B+,Grant writing AI,$10K-$25K,VP of Technology,www.catholiccharitiesusa.org,4,160 agencies
+959,Wounded Warrior Project,Nonprofits / Associations,Veterans,Jacksonville,FL,600,$200M-$500M,Donor engagement AI,$5K-$15K,Chief Technology Officer,www.woundedwarriorproject.org,3,Veteran services
+960,Teach for America,Nonprofits / Associations,Education,New York,NY,1000,$200M-$500M,Grant writing AI,$5K-$15K,VP of Technology,www.teachforamerica.org,3,Education equity; 50+ regions
+961,Amwell,Telehealth / Digital Health,Telehealth Platform,Boston,MA,1500,$200M-$500M,Patient triage AI,$15K-$30K,Chief Technology Officer,www.amwell.com,4,NYSE listed; $254M revenue
+962,Doximity,Telehealth / Digital Health,Physician Platform,San Francisco,CA,900,$200M-$500M,Scheduling AI,$15K-$30K,CTO,www.doximity.com,4,NYSE listed; 80% of US MDs
+963,Zocdoc,Telehealth / Digital Health,Appointment Platform,New York,NY,600,$200M-$500M,Follow-up automation AI,$10K-$25K,Chief Technology Officer,www.zocdoc.com,4,Patient booking marketplace
+964,Cerebral,Telehealth / Digital Health,Mental Health,San Francisco,CA,1500,$200M-$500M,Patient triage AI,$10K-$25K,CTO,www.cerebral.com,4,$462M raised; anxiety/depression
+965,SteadyMD,Telehealth / Digital Health,B2B Telehealth,St. Louis,MO,500,$50M-$100M,Clinical workflow AI,$10K-$20K,Chief Technology Officer,www.steadymd.com,3,200K+ monthly visits; white-label
+966,Maven Clinic,Telehealth / Digital Health,Womens Health,New York,NY,500,$100M-$200M,Patient engagement AI,$10K-$25K,CTO,www.mavenclinic.com,4,Fertility to menopause
+967,Ro (Roman/Rory),Telehealth / Digital Health,DTC Telehealth,New York,NY,1000,$200M-$500M,Patient triage AI,$10K-$25K,Chief Technology Officer,www.ro.co,4,DTC health platform
+968,Nurx,Telehealth / Digital Health,Reproductive Health,San Francisco,CA,300,$50M-$100M,Prescription AI,$5K-$15K,CTO,www.nurx.com,3,DTC reproductive health
+969,Ginger (Headspace Health),Telehealth / Digital Health,Mental Health,San Francisco,CA,800,$100M-$200M,Patient triage AI,$8K-$20K,Chief Technology Officer,www.headspacehealth.com,4,Merged with Headspace
+970,Talkspace,Telehealth / Digital Health,Mental Health,New York,NY,600,$100M-$200M,Therapist matching AI,$8K-$20K,CTO,www.talkspace.com,3,NASDAQ listed; online therapy
+971,BetterHelp,Telehealth / Digital Health,Mental Health,Mountain View,CA,2000,$500M-$1B,Therapist matching AI,$15K-$30K,Chief Technology Officer,www.betterhelp.com,4,Largest online therapy platform
+972,Teladoc Health,Telehealth / Digital Health,Telehealth Platform,Purchase,NY,5000,$1B+,Patient triage AI,$20K-$40K,CTO,www.teladochealth.com,5,NYSE listed; $2.6B revenue
+973,MDLive (Evernorth),Telehealth / Digital Health,Telehealth,Sunrise,FL,800,$200M-$500M,Scheduling AI,$10K-$20K,VP of Technology,www.mdlive.com,3,Cigna/Evernorth subsidiary
+974,Doctor On Demand (Included Health),Telehealth / Digital Health,Telehealth,San Francisco,CA,500,$100M-$200M,Patient triage AI,$8K-$20K,Chief Technology Officer,www.includedhealth.com,3,Now Included Health
+975,Kaia Health,Telehealth / Digital Health,MSK Digital,New York,NY,200,$50M-$100M,AI-guided therapy,$8K-$15K,CTO,www.kaiahealth.com,3,560K+ participants; MSK/COPD
+976,DocGo,Telehealth / Digital Health,Mobile Health,New York,NY,5000,$200M-$500M,Patient scheduling AI,$10K-$25K,Chief Technology Officer,www.docgo.com,4,NASDAQ listed; 1K vehicles
+977,Isaac Health,Telehealth / Digital Health,Brain Health,New York,NY,100,$10M-$25M,Follow-up automation AI,$5K-$12K,CTO,www.isaachealth.com,3,Virtual dementia care
+978,Boulder Care,Telehealth / Digital Health,Addiction,Portland,OR,100,$10M-$25M,Patient triage AI,$5K-$12K,Chief Technology Officer,www.boulder.care,3,Telehealth addiction medicine
+979,Virta Health,Telehealth / Digital Health,Diabetes Reversal,San Francisco,CA,500,$100M-$200M,Patient monitoring AI,$8K-$20K,CTO,www.virtahealth.com,4,Type 2 diabetes reversal
+980,Omada Health,Telehealth / Digital Health,Chronic Care,San Francisco,CA,600,$100M-$200M,Patient engagement AI,$8K-$20K,Chief Technology Officer,www.omadahealth.com,4,Chronic disease management
+981,Lyra Health,Telehealth / Digital Health,Mental Health,Burlingame,CA,1000,$200M-$500M,Therapist matching AI,$10K-$25K,CTO,www.lyrahealth.com,4,Employer mental health benefit
+982,Spring Health,Telehealth / Digital Health,Mental Health,New York,NY,700,$100M-$200M,Treatment prediction AI,$8K-$20K,Chief Technology Officer,www.springhealth.com,4,Precision mental health
+983,Cityblock Health,Telehealth / Digital Health,Medicaid Care,Brooklyn,NY,1000,$100M-$200M,Care coordination AI,$10K-$25K,CTO,www.cityblock.com,4,Value-based care for Medicaid
+984,Hinge Health,Telehealth / Digital Health,MSK Digital,San Francisco,CA,1200,$200M-$500M,AI exercise therapy,$10K-$25K,Chief Technology Officer,www.hingehealth.com,4,Digital MSK clinic
+985,Noom,Telehealth / Digital Health,Weight/Wellness,New York,NY,3000,$500M-$1B,Behavior change AI,$10K-$25K,CTO,www.noom.com,4,AI-powered weight management
+986,98point6,Telehealth / Digital Health,AI Primary Care,Seattle,WA,300,$50M-$100M,AI clinical decision,$8K-$15K,Chief Technology Officer,www.98point6.com,3,AI-first text-based care
+987,Akili Interactive,Telehealth / Digital Health,Digital Therapeutics,Boston,MA,100,$25M-$50M,Treatment AI,$5K-$15K,CTO,www.akiliinteractive.com,3,FDA-cleared video game therapy
+988,Pear Therapeutics,Telehealth / Digital Health,Digital Therapeutics,Boston,MA,100,$10M-$25M,Treatment adherence AI,$5K-$12K,VP of Technology,www.peartherapeutics.com,2,Prescription digital therapeutics
+989,Wheel,Telehealth / Digital Health,Clinician Network,Austin,TX,200,$25M-$50M,Clinician matching AI,$5K-$15K,Chief Technology Officer,www.wheel.com,3,Telehealth infrastructure
+990,Truepill,Telehealth / Digital Health,Digital Pharmacy,Hayward,CA,400,$50M-$100M,Rx fulfillment AI,$8K-$15K,CTO,www.truepill.com,3,Digital pharmacy infrastructure
+991,Alto Pharmacy,Telehealth / Digital Health,Digital Pharmacy,San Francisco,CA,500,$100M-$200M,Rx delivery AI,$8K-$20K,Chief Technology Officer,www.alto.com,3,Pharmacy delivery platform
+992,Capsule Pharmacy,Telehealth / Digital Health,Digital Pharmacy,New York,NY,400,$50M-$100M,Rx management AI,$5K-$15K,CTO,www.capsule.com,3,NYC pharmacy delivery
+993,Bright Health,Telehealth / Digital Health,Health Plan,Minneapolis,MN,1500,$1B+,Member engagement AI,$10K-$25K,Chief Technology Officer,www.brighthealthgroup.com,4,Technology-first health plan
+994,Oscar Health,Telehealth / Digital Health,Health Plan,New York,NY,3000,$5B+,Member engagement AI,$15K-$30K,CTO,www.hioscar.com,5,NYSE listed; tech-first insurance
+995,Clover Health,Telehealth / Digital Health,Medicare Advantage,Franklin,TN,700,$500M-$1B,Clinical AI assistant,$10K-$20K,Chief Technology Officer,www.cloverhealth.com,3,NASDAQ listed; Clover Assistant AI
+996,Alignment Healthcare,Telehealth / Digital Health,Senior Care,Orange,CA,3000,$500M-$1B,Care coordination AI,$10K-$25K,CTO,www.alignmenthealthcare.com,4,NASDAQ listed; value-based
+997,Dispatch Health,Telehealth / Digital Health,Mobile Health,Denver,CO,3000,$200M-$500M,Dispatch AI,$10K-$25K,Chief Technology Officer,www.dispatchhealth.com,4,In-home urgent care
+998,Babylon Health,Telehealth / Digital Health,AI Health,Austin,TX,300,$25M-$50M,AI triage,$5K-$15K,CTO,www.babylonhealth.com,3,AI-powered health platform
+999,K Health,Telehealth / Digital Health,AI Primary Care,New York,NY,300,$50M-$100M,AI symptom checker,$8K-$15K,Chief Technology Officer,www.khealth.com,3,AI-powered primary care
+1000,Hims & Hers Health,Telehealth / Digital Health,DTC Telehealth,San Francisco,CA,2000,$1B+,Patient engagement AI,$15K-$30K,CTO,www.hims.com,5,NYSE listed; $1B+ revenue
