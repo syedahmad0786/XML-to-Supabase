@@ -1,0 +1,28 @@
+{
+  "name": "xml-to-supabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:24831/git/syedahmad0786/XML-to-Supabase"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "cheerio": "^1.2.0",
+    "crawlee": "^3.16.0",
+    "csv-parse": "^6.1.0",
+    "csv-stringify": "^6.6.0",
+    "got-scraping": "^4.2.1",
+    "impit": "^0.9.2",
+    "linkedom": "^0.18.12",
+    "patchright": "^1.57.0",
+    "puppeteer-core": "^24.37.5"
+  }
+}
