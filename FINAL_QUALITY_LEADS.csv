@@ -1,0 +1,624 @@
+type,full_name,title,email,phone,linkedin,company,company_website,company_linkedin,industry,company_size,location,is_decision_maker,source
+person,Raphaelle Poly,Sales Account Manager,raphaelle.poly@victorbuckservices.com,,http://www.linkedin.com/in/raphaelle-poly-9a976215,,,,,,,yes,apify_leads
+person,Robin Sutton-styles,Account Manager for Tokyo Electron,robin.sutton-styles@kellyservices.com,,http://www.linkedin.com/in/robin-sutton-styles-30a59114,Kelly Services,http://www.kellyservices.com,['http://www.linkedin.com/company/2307'],['staffing & recruiting'],15167,"Chicago, Illinois",yes,apify_leads
+person,Vasanth Radhakrishnan,DEPTY MANAGER,vasanth.radhakrishnan@essar.com,,http://www.linkedin.com/in/vasanth-radhakrishnan-a2a54934,Essar,http://www.essar.com,['http://www.linkedin.com/company/7337'],['mining & metals'],4972,,yes,apify_leads
+person,Hitesh Chikhaliya,manager,chikhaliyah@indianoil.in,,http://www.linkedin.com/in/hitesh-chikhaliya-5206b1123,Indian Oil Corporation Limited,http://www.iocl.com,['http://www.linkedin.com/company/7538'],['oil & energy'],9762,,yes,apify_leads
+person,Shreyas Kamble,Marketing Manager,kamble@syndicatebank.co.in,,http://www.linkedin.com/in/shreyas-kamble-60770274,SYNDICATE BANK,http://www.syndicatebank.in,['http://www.linkedin.com/company/1235662'],['banking'],2742,"Juárez, Chihuahua",yes,apify_leads
+person,Esther Reed,Senior Practitioner,esther.reed@childrenssociety.org.uk,,http://www.linkedin.com/in/esther-whittlesea-reed-97943916,The Children's Society,http://www.childrenssociety.org.uk,['http://www.linkedin.com/company/27447'],['non-profits & non-profit services'],525,"London, England",yes,apify_leads
+person,Saleha Riaz,Manager Customer Services,,,http://www.linkedin.com/in/saleha-riaz-49a09a9b,Premier Furniture,http://www.premierfurnitureco.com,['http://www.linkedin.com/company/1143884'],['furniture'],12,,yes,apify_leads
+person,Amir Siddiqi,Resource Planning Manager,,,http://www.linkedin.com/in/amir-siddiqi-0b883623,Sharjah Aviation Services,http://www.sharjahaviationservices.ae,['http://www.linkedin.com/company/343443'],['airlines/aviation'],319,"Sharjah, Sharjah",yes,apify_leads
+person,Li Junxia,Account Manager,,,http://www.linkedin.com/in/li-junxia-6737a757,"Blue & Gray Management Consultant (Beijing) Co., Ltd.",http://www.bluengray.com,['http://www.linkedin.com/company/598341'],['management consulting'],4,"Beijing, Beijing",yes,apify_leads
+person,Ronald Jackson,ceo,,,http://www.linkedin.com/in/ronald-jackson-7977181b,BG Bank,,['http://www.linkedin.com/company/2631'],['banking'],26,,yes,apify_leads
+person,Roger Backer,Head of Sector,,,http://www.linkedin.com/in/roger-de-backer-ba11891a,European Commission,http://www.europa.eu,"['http://www.linkedin.com/company/1809', 'http://www.linkedin.com/company/1809']",['government administration'],16971,"Bruxelles, Bruxelles",yes,apify_leads
+person,Joni Glock,teacher assistant,jglock@washoeschools.net,,http://www.linkedin.com/in/joni-glock-176b9a25,Washoe County School District,http://www.washoeschools.net,['http://www.linkedin.com/company/9496'],['education management'],1812,"Reno, Nevada",no,apify_leads
+person,Sandeep Godambe,RF Technical,sgodambe@hathway.net,,http://www.linkedin.com/in/sandeep-godambe-05096940,Hathway Cable & Datacom Ltd,http://www.hathway.com,['http://www.linkedin.com/company/74499'],['internet'],1200,"Mumbai, Maharashtra",no,apify_leads
+person,Nicola Williams,(Australian office) Consulatnt,nicola.williams@executivesonline.co.uk,,http://www.linkedin.com/in/nicola-williams-2ab33313,EO Executives,http://www.executivesonline.co.uk,['http://www.linkedin.com/company/135933'],['staffing & recruiting'],48,"Winchester, England",no,apify_leads
+person,Le Ton,Sales Service,le.ton@iff.com,,http://www.linkedin.com/in/le-ton-05b36078,International Flavors & Fragrances,http://www.iff.com,['http://www.linkedin.com/company/5870'],['chemicals'],3519,"New York, New York",no,apify_leads
+person,Jasmine Manimala,Education Officer,jasmine@moe.dk,,http://www.linkedin.com/in/jasmine-manimala-4b778272,MOE A/S,http://www.moe.dk,['http://www.linkedin.com/company/32901'],['civil engineering'],1100,Søborg,no,apify_leads
+person,Laurent Ringelstein,responsable des editions,laurent.ringelstein@edhec-risk.com,,http://www.linkedin.com/in/laurent-ringelstein-590a37102,EDHEC-Risk Institute,http://www.edhec-risk.com,['http://www.linkedin.com/company/692277'],['finance'],42,"Nice, Provence-Alpes-Côte d'Azur",no,apify_leads
+person,Cain Industries,Team Leader,cain.industries@cainind.com,,http://www.linkedin.com/in/cain-industries-5b60a111b,Cain Industries,http://www.cainind.com,['http://www.linkedin.com/company/674231'],['mechanical or industrial engineering'],7,"Germantown, Wisconsin",no,apify_leads
+person,Julio Murrieta,Abogado,julio.murrieta@kavannah.co.uk,,http://www.linkedin.com/in/julio-murrieta-2ba47b94,Part,http://www.kavannah.co.uk,['http://www.linkedin.com/company/1172201'],['food & beverages'],140,,no,apify_leads
+person,Steve Chmura,Sales Associate,stevec@pfcmail.com,,http://www.linkedin.com/in/steve-chmura-9a627827,Pilgrim Furniture City,http://www.pilgrimfurniturecity.com,['http://www.linkedin.com/company/5338853'],['furniture'],21,"Southington, Connecticut",no,apify_leads
+person,Christophe Sallent,AIDE SOIGNANT,c.sallent@orpea.net,,http://www.linkedin.com/in/christophe-sallent-3a541270,,,,,,,no,apify_leads
+person,Sunil Durgade,,sunil.durgade@zimmerbiomet.com,,http://www.linkedin.com/in/sunil-durgade-16147742,Zimmer Biomet,http://www.zimmerbiomet.com,['http://www.linkedin.com/company/6440'],['medical devices'],9492,"Warsaw, Indiana",no,apify_leads
+person,Guus Borchhardt,Directeur,guusb@esm.europa.eu,,http://www.linkedin.com/in/guus-borchhardt-88472412,European Commission,http://www.europa.eu,"['http://www.linkedin.com/company/1809', 'http://www.linkedin.com/company/1809']",['government administration'],16971,"Bruxelles, Bruxelles",no,apify_leads
+person,Carmen Haberle,Mgmt Suport,carmen.haberle@sap.com,,http://www.linkedin.com/in/carmen-h%c3%a4berle-49187457,SAP,http://www.sap.com,['http://www.linkedin.com/company/1115'],['computer software'],53529,"Walldorf, Baden-Württemberg",no,apify_leads
+person,Sara Bicard,Associate Professor of Special Education,sbicard@aum.edu,,http://www.linkedin.com/in/sara-bicard-64750bb5,,,,,,,no,apify_leads
+person,Sandi Cox,Retail Merchandiser,sandi.cox@hallmark.com,,http://www.linkedin.com/in/sandi-cox-9296294a,Hallmark Cards,http://www.hallmark.com,['http://www.linkedin.com/company/4798'],['consumer goods'],6768,,no,apify_leads
+person,Jonathan Davo,Expert credit Immobilier HDG,davo.jonathan@creditfoncier.fr,,http://www.linkedin.com/in/jdavo,Crédit Foncier,http://www.creditfoncier.com,['http://www.linkedin.com/company/16693'],['banking'],1050,"Charenton-le-Pont, Île-de-France",no,apify_leads
+person,Debbie Steinman,Retired nurse,dsteinman@homenursingagency.com,,http://www.linkedin.com/in/debbie-steinman-58798aa0,,,,,,,no,apify_leads
+person,Vinicius Andrade,Analista de Tecnologia da Informação - Desenvolvimento,vinicius.andrade@dataprev.gov.br,,http://www.linkedin.com/in/vinícius-braga-de-andrade-58565921,DATAPREV,http://www.dataprev.gov.br,,['information technology & services'],198,Distrito Federal,no,apify_leads
+person,Khyati Gupta,Engineer,k.gupta@samsung.com,,http://www.linkedin.com/in/khyati-gupta-902b5315,Samsung Electronics,http://www.samsung.com,['http://www.linkedin.com/company/1753'],['consumer electronics'],53287,,no,apify_leads
+person,Ruby Oville,Certified Mediator,roville@airforce.com,,http://www.linkedin.com/in/ruby-oville-5930929a,United States Air Force,http://www.airforce.com,['http://www.linkedin.com/company/157235'],['defense & space'],115609,"Universal City, Texas",no,apify_leads
+person,Vivi Ma,Quality Engineer,ma@jvisusallc.com,,http://www.linkedin.com/in/vivi-ma-b1b6784a,JVIS USA LLC,http://www.jvisusallc.com,['http://www.linkedin.com/company/1716337'],['automotive'],150,"Shelby Charter Township, Michigan",no,apify_leads
+person,Glenda Kennedy,Recruiting Supervisor,kennedy@thenfl.com,,http://www.linkedin.com/in/glenda-kennedy-a8ab0b22,Covance,http://www.covance.com,['http://www.linkedin.com/company/5143'],['pharmaceuticals'],8124,"Princeton, New Jersey",no,apify_leads
+person,Juneil Renganilla,Business Process Associate,juneil.renganilla@adec-innovations.com,,http://www.linkedin.com/in/juneil-renganilla-155a6392,,,,,,,no,apify_leads
+person,Darren Ni,software engineer,darren.ni@sakicorp.com,,http://www.linkedin.com/in/darren-ni-03a8a9b6,SAKI Europe Gmbh,http://www.sakicorp.com,['http://www.linkedin.com/company/307400'],['electrical/electronic manufacturing'],23,,no,apify_leads
+person,Moses Gonzalez,IT Professor,mgonzalez@perscholas.org,,http://www.linkedin.com/in/moses-gonzalez-1787835,,,,,,,no,apify_leads
+person,Layne Meads,Technician,layne.meads@mgrc.com,,http://www.linkedin.com/in/layne-meads-18a64047,McGrath RentCorp,http://www.mgrc.com,['http://www.linkedin.com/company/28091'],['business supplies & equipment'],126,"Livermore, California",no,apify_leads
+person,Justin Dekker,Operatie-assistent,j.dekker@asz.nl,,http://www.linkedin.com/in/justin-dekker-533537a4,Albert Schweitzer ziekenhuis,http://www.asz.nl,['http://www.linkedin.com/company/41764'],['hospital & health care'],1130,"Dordrecht, Zuid-Holland",no,apify_leads
+person,Vladimir Vladimirsikora,plant breeder,vladimir.vladimirsikora@nsseme.com,,http://www.linkedin.com/in/vladimir-vladimir-sikora-89662657,Institute of Field and Vegetable Crops,http://www.nsseme.com,['http://www.linkedin.com/company/1925474'],['biotechnology'],102,"Novi Sad, Vojvodina",no,apify_leads
+person,J X,f,jx@tencent.com,,http://www.linkedin.com/in/j-x-a6690324,Tencent,http://www.tencent.com,['http://www.linkedin.com/company/166328'],['internet'],34969,"Shenzhen, Guangdong",no,apify_leads
+person,Humberto Aguin,,haguin@hollisterstaff.com,,http://www.linkedin.com/in/humbertoaguin,Hollister Staffing,http://www.hollisterstaff.com,['http://www.linkedin.com/company/214286'],['staffing & recruiting'],105,"Boston, Massachusetts",no,apify_leads
+person,Cathy Burgess,Consumer Account Coordinator,cburgess@ucsvt.org,,http://www.linkedin.com/in/cathy-burgess-5028242b,United Counseling Service,http://www.ucsvt.org,['http://www.linkedin.com/company/5012081'],['hospital & health care'],44,"Bennington, Vermont",no,apify_leads
+person,Stewart Crossman,royal engineer hgv army,stewart.crossman@mod.uk,,http://www.linkedin.com/in/stewart-crossman-7321319a,British Army,http://www.mod.uk,['http://www.linkedin.com/company/1590'],['military'],10004,"Andover, England",no,apify_leads
+person,Lise-lotte Wessen,Innesäljare Automation,lise-lotte.wessen@solar.se,,http://www.linkedin.com/in/lise-lotte-wessén-2bb4a5b9,Solar Sverige AB,http://www.solar.se,['http://www.linkedin.com/company/1832910'],['international trade & development'],240,,no,apify_leads
+person,Denis Michailov,UI,denis.m@cardpay.com,,http://www.linkedin.com/in/denis-michailov-70b50a47,CardPay,http://www.cardpay.com,['http://www.linkedin.com/company/3331707'],['finance'],38,"Mesa Geitonia, Limassol",no,apify_leads
+person,Marco Solca,Specialista tecnico,marco.solca@sbb.ch,,http://www.linkedin.com/in/marco-solc%c3%a0-a98ab510a,SBB CFF FFS,http://www.sbb.ch,['http://www.linkedin.com/company/165860'],['transportation'],5176,"Bern, Bern",no,apify_leads
+person,Joyce Lovett-adkins,Professional Parliamentarian,joyce@syou.com,,http://www.linkedin.com/in/joyce-lovett-adkins-b5477827,SYOU,http://www.syou.com,['http://www.linkedin.com/company/1110040'],['apparel & fashion'],1657,,no,apify_leads
+person,Donna Pedlow,Cleaner,donnapedlow@grandislandschools.org,,http://www.linkedin.com/in/donna-pedlow-8694a753,Grand Island Central School District,http://www.grandislandschools.org,['http://www.linkedin.com/company/7136079'],,44,,no,apify_leads
+person,Shanker Gudipati,software engineer,shanker_gudipati@persistent.com,,http://www.linkedin.com/in/shanker-gudipati-19210597,Persistent Systems,http://www.persistent.com,"['http://www.linkedin.com/company/5034', 'http://www.linkedin.com/company/5034']",['computer software'],7038,"Pune, Maharashtra",no,apify_leads
+person,Marian Bragdon,HIM Coding Support Specialist,mbragdon@sphsjobs.com,,http://www.linkedin.com/in/marian-bragdon-a2962580,Sisters of Providence Health System,http://www.sphsjobs.com,['http://www.linkedin.com/company/71347'],['hospital & health care'],2774,"Springfield, Massachusetts",no,apify_leads
+person,Ann-louise Ivarsson,marknadsassistent,ann-louise.ivarsson@sll.se,,http://www.linkedin.com/in/ann-louise-ivarsson-84839666,Stockholms läns landsting,http://www.sll.se,['http://www.linkedin.com/company/9596'],['government administration'],2831,"Stockholm, Stockholms län",no,apify_leads
+person,Clelia Eugenia,professora,c.eugenia@ba.gov.br,,http://www.linkedin.com/in/clelia-eugenia-7aa9b099,Secretaria de Educação do Estado da Bahia,http://www.ba.gov.br,['http://www.linkedin.com/company/1215451'],['government administration'],2463,"Salvador, State of Bahia",no,apify_leads
+person,Paulo Caravati,Consultant,paulo@lesliestreet.cz,,http://www.linkedin.com/in/paulo-caravati-72a09811b,Private,http://www.lesliestreet.cz,['http://www.linkedin.com/company/1258245'],['professional training & coaching'],20535,"Prague, Prague",no,apify_leads
+person,Leo Batista,Sales Consultant,leo_batista@carmax.com,,http://www.linkedin.com/in/leo-batista-575b753a,CarMax,http://www.carmax.com,['http://www.linkedin.com/company/162901'],['retail'],5628,"Richmond, Virginia",no,apify_leads
+person,Ayyildiz Hayri,Eleman,ahayri@nimblegen.com,,http://www.linkedin.com/in/ayyildiz-hayri-99b89593,Roche NimbleGen Inc.,http://www.nimblegen.com,['http://www.linkedin.com/company/31852'],['biotechnology'],633,,no,apify_leads
+person,Elisabetta Mastrapasqua,Customer Care e Back Office,elisabetta.mastrapasqua@exprivia.it,,http://www.linkedin.com/in/elisabetta-mastrapasqua-595239b2,Exprivia,http://www.exprivia.it,['http://www.linkedin.com/company/26866'],['information technology & services'],996,,no,apify_leads
+person,Paola Rizzi,,,,http://www.linkedin.com/in/paola-rizzi-822b3211a,,,,,,,no,apify_leads
+person,Soorat Singh,CDC,,,http://www.linkedin.com/in/soorat-singh-a10b80a5,,,,,,,no,apify_leads
+person,Sylvia Apent,Fondatrice - Directrice de Publication,,,http://www.linkedin.com/in/sylvia-apent-919a379a,Apent,http://www.apentrevue.com,['http://www.linkedin.com/company/10089784'],['newspapers'],1,,no,apify_leads
+person,Januli Murielle,ccc.cs,,,http://www.linkedin.com/in/janul%c3%ad-murielle-40892b4a,X Cafe,,['http://www.linkedin.com/company/156745'],['food production'],167,,no,apify_leads
+person,Weslly Silva,,,,http://www.linkedin.com/in/weslly-melo-da-silva-4b0156b8,,,,,,,no,apify_leads
+person,Ricardo Matsura,consultor de vendas,,,http://www.linkedin.com/in/ricardo-matsura-23050a75,Ikesaki Design,http://www.ikesakidesign.com.br,['http://www.linkedin.com/company/1242233'],['furniture'],29,"São Paulo, State of São Paulo",no,apify_leads
+person,Breno Pelizer,,,,http://www.linkedin.com/in/breno-pelizer-26187929,,,,,,,no,apify_leads
+person,Patrick Gingras,Conseiller Professionnel,,,http://www.linkedin.com/in/patrick-gingras-09807828,Publicité JL,http://www.pubjl.com,['http://www.linkedin.com/company/7248006'],,8,,no,apify_leads
+person,Simeon Kirkiles,Comedian,,,http://www.linkedin.com/in/simeon-kirkiles-77547a11a,Royal Caribbean Cruises Ltd.,http://www.rclcorporate.com,['http://www.linkedin.com/company/165777'],"['leisure, travel & tourism']",8942,"Miami, Florida",no,apify_leads
+person,Saimiri Ram,infermiera,,,http://www.linkedin.com/in/saimiri-ram-a90248104,,,,,,,no,apify_leads
+person,Hilga Wesle,Autorin,,,http://www.linkedin.com/in/hilga-wesle-6a6389127,Poetry Works,,['http://www.linkedin.com/company/9782766'],,2,"Hartford, Connecticut",no,apify_leads
+person,Mona Fayez,doctor,,,http://www.linkedin.com/in/mona-fayez-a4362277,G.P.,http://www.poderdecir.es,['http://www.linkedin.com/company/1887822'],"['health, wellness & fitness']",39,"Madrid, Community of Madrid",no,apify_leads
+person,Valentina Decusara,Engineer,,,http://www.linkedin.com/in/valentina-decusara-608004120,,,,,,,no,apify_leads
+person,Sunil Wanniarachchi,Brigadier,,,http://www.linkedin.com/in/sunil-wanniarachchi-741a52127,Sri Lanka Army,http://www.army.lk,['http://www.linkedin.com/company/2847860'],['military'],644,,no,apify_leads
+person,Cor Verhoef,,,,http://www.linkedin.com/in/cor-verhoef-87072885,,,,,,,no,apify_leads
+person,Anant Barot,export and import,,,http://www.linkedin.com/in/anant-barot-25622347,,,,,6254,,no,apify_leads
+person,Ignacio Salazar,técnico de manufactura,,,http://www.linkedin.com/in/ignacio-garcía-salazar-86807b126,Corning Optical Communications,,['http://www.linkedin.com/company/3680'],['telecommunications'],1853,"Hickory, North Carolina",no,apify_leads
+person,Erik Carstens,,,,http://www.linkedin.com/in/erik-carstens-296b0331,,,,,,,no,apify_leads
+person,Charlie Rossi,Juvenile Probation,,,http://www.linkedin.com/in/charlie-rossi-b184155,Beaver County,,['http://www.linkedin.com/company/7020597'],,64,,no,apify_leads
+person,Jennifer Vallone,Accounting Assistant,,,http://www.linkedin.com/in/jennifer-vallone-458b5162,Harvard Kennedy School,http://www.harvard.edu,['http://www.linkedin.com/company/1646'],['public policy'],14148,"Cambridge, Massachusetts",no,apify_leads
+person,Klara Szabo,Cristuru-Secuiesc,,,http://www.linkedin.com/in/klara-szabo-0382b593,ELKA International Logistics Group,http://www.elka-international.com,['http://www.linkedin.com/company/3025004'],['logistics & supply chain'],3,"Krefeld, Nordrhein-Westfalen",no,apify_leads
+person,Melek Akkus,BİLGİSAYAR,,,http://www.linkedin.com/in/melek-akku%c5%9f-972a6569,YOK,http://www.erpclub.org,['http://www.linkedin.com/company/1786620'],['internet'],7672,,no,apify_leads
+person,Upkar Tomar,Accountant,,,http://www.linkedin.com/in/upkar-tomar-a2712817,RMPL,,['http://www.linkedin.com/company/3960893'],,24,,no,apify_leads
+person,Pedro Mendes,Engineer (IT Department),,,http://www.linkedin.com/in/pedrodiasmendes,Valorsul,http://www.valorsul.pt,['http://www.linkedin.com/company/86823'],['environmental services & clean energy'],52,,no,apify_leads
+person,Gregory Allman,Assembly Technician,,,http://www.linkedin.com/in/gregory-allman-06b0a8103,Synergetics,http://www.bauschretina.com,['http://www.linkedin.com/company/482682'],['medical devices'],83,"Saint Louis, Missouri",no,apify_leads
+person,Yves Codet,Études Indiennes,,,http://www.linkedin.com/in/yves-codet-a6102679,Université Toulouse - Jean Jaurès,http://www.univ-tlse2.fr,['http://www.linkedin.com/company/721220'],['higher education'],747,"Toulouse, Occitanie",no,apify_leads
+person,Dennis Fawson,Management Analyst,,,http://www.linkedin.com/in/dennis-fawson-039b4636,Dept of Homeland Security,,,,212,"Long Beach, California",no,apify_leads
+person,Fatma Gebologlu,Ataşe Yardımcısı,,,http://www.linkedin.com/in/fatma-gebolo%c4%9flu-895bbb89,"Ministry of Foreign Affairs, Turkey",http://www.mfa.gov.tr,['http://www.linkedin.com/company/469939'],['international affairs'],308,,no,apify_leads
+person,Victor Varas,piloto,,,http://www.linkedin.com/in/victor-martín-varas-71701892,MARCHE SUB di Cristobal Alvarez Rodolfo,http://www.marchesub.it,['http://www.linkedin.com/company/3181448'],['maritime'],1459,"San Benedetto del Tronto, Marche",no,apify_leads
+person,Tony Minjarez,HVAC TECHNICIAN,,,http://www.linkedin.com/in/tony-minjarez-258b54aa,Precise Air Systems Inc,,['http://www.linkedin.com/company/8809120'],['entertainment'],5,"Pasadena, California",no,apify_leads
+person,Ellen Billingslea,veterinary Technician,,,http://www.linkedin.com/in/ellen-billingslea-93a86462,Hopewell Veterinary Service,,['http://www.linkedin.com/company/6675534'],['veterinary'],1,"Stewartstown, Pennsylvania",no,apify_leads
+person,Omar Valladares,Contador Auxiliar,,,http://www.linkedin.com/in/omar-valladares-6877683b,Universidad,http://www.upb.edu,['http://www.linkedin.com/company/731751'],['higher education'],3930,"Chachapoyas, Amazonas",no,apify_leads
+person,Madhawa Jayawardana,junior merchandiser,,,http://www.linkedin.com/in/madhawa-jayawardana-0545038b,shanbe jeans,http://www.shanbejeans.com,['http://www.linkedin.com/company/7034613'],,5,,no,apify_leads
+person,Patrick Widmer,Management & Personnel Consultant,,,http://www.linkedin.com/in/patrick-alexis-widmer-b6019aa8,oprandi & partner ag,http://www.oprandi.ch,['http://www.linkedin.com/company/66385'],['staffing & recruiting'],56,"Zug, Zug",no,apify_leads
+person,Sascha Roesner,Charter Sales - Operations,,,http://www.linkedin.com/in/sascha-roesner-7b010113,Stuttgarter Flugdienst GmbH,http://www.sfd.eu,['http://www.linkedin.com/company/8293503'],['airlines/aviation'],14,"Stuttgart, Baden-Württemberg",no,apify_leads
+person,John Spencer-silver,Solicitor,,,http://www.linkedin.com/in/john-spencer-silver-89a917b,Lawrence Graham,http://www.lg-legal.com,['http://www.linkedin.com/company/26499'],['law practice'],68,"London, England",no,apify_leads
+person,Shelly Carew-reid,Trainer,,,http://www.linkedin.com/in/shelly-carew-reid-b1ba25b0,MAX Solutions,,['http://www.linkedin.com/company/145355'],['government relations'],177,"Springwood, Queensland",no,apify_leads
+person,Frank Bradburn,Retired,,,http://www.linkedin.com/in/frank-bradburn-4049b013,Retired and enjoying time with family,,['http://www.linkedin.com/company/1233681'],['sports'],13743,,no,apify_leads
+person,Evaristo Santana,Estudiante,,,http://www.linkedin.com/in/evaristo-santana-01775157,posteamos.com,http://www.posteamos.com,['http://www.linkedin.com/company/2557735'],['broadcast media'],34996,,no,apify_leads
+person,Danielle Daniellecaron,chargée d approvisionnement,,,http://www.linkedin.com/in/danielle-danielle-caron-bb221023,Advanced Electromagnetic Systems,,['http://www.linkedin.com/company/282755'],['oil & energy'],721,"Saint-Rémy-lès-Chevreuse, Île-de-France",no,apify_leads
+person,Joke Oosting,leerkracht,,,http://www.linkedin.com/in/joke-oosting-78859a87,COG Drenthe,http://www.cogdrenthe.nl,['http://www.linkedin.com/company/1075619'],['education management'],82,,no,apify_leads
+company,,,,,http://www.linkedin.com/company/ai-chatgpt-prompts,AI: Artificial Intelligence,http://www.justai-llc.com,http://www.linkedin.com/company/ai-chatgpt-prompts,information technology & services,38,"Sheridan, Wyoming",,run2
+company,,,,,http://www.linkedin.com/company/aiforleaders,AI For Enterprise,http://www.aiforleaders.com,http://www.linkedin.com/company/aiforleaders,online media,430,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/usaii,United States Artificial Intelligence Institute,http://www.usaii.org,http://www.linkedin.com/company/usaii,government administration,36,"Stamford, Connecticut",,run2
+company,,,,,http://www.linkedin.com/company/artiba,Artificial Intelligence Board of America,http://www.artiba.org,http://www.linkedin.com/company/artiba,education management,27,"Austin, Texas",,run2
+company,,,,,http://www.linkedin.com/company/fast-company,Fast Company,http://www.fastcompany.com,http://www.linkedin.com/company/fast-company,online media,170,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/cheddar-inc-,Cheddar,http://www.cheddar.com,http://www.linkedin.com/company/cheddar-inc-,media production,95,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/chat-gpt-central,"AI Central | ChatGPT & Generative AI Tutorials, Prompts & Use Cases for Gemini, DeepSeek, Claude",http://www.beehiiv.com,http://www.linkedin.com/company/chat-gpt-central,information technology & services,190,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/computerworld,Computerworld,http://www.computerworld.com,http://www.linkedin.com/company/computerworld,information technology & services,150,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/teamsignzy,Signzy,http://www.signzy.com,http://www.linkedin.com/company/teamsignzy,financial services,400,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/synaptic-artificial-intelligence,Synaptic Artificial Intelligence,http://www.synaptic-ai.com,http://www.linkedin.com/company/synaptic-artificial-intelligence,marketing & advertising,34,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/ejamerica,eJAmerica,http://www.ejamerica.com,http://www.linkedin.com/company/ejamerica,information technology & services,170,"Irvine, California",,run2
+company,,,,,http://www.linkedin.com/company/applicantz-com,Applicantz,http://www.applicantz.com,http://www.linkedin.com/company/applicantz-com,information technology & services,350,"Houston, Texas",,run2
+company,,,,,http://www.linkedin.com/company/ignite-tech,IgniteTech,http://www.ignitetech.com,http://www.linkedin.com/company/ignite-tech,information technology & services,360,"Austin, Texas",,run2
+company,,,,,http://www.linkedin.com/company/usebraintrust,Braintrust,http://www.usebraintrust.com,http://www.linkedin.com/company/usebraintrust,information technology & services,360,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/towards-data-science,Towards Data Science,http://www.towardsdatascience.com,http://www.linkedin.com/company/towards-data-science,online media,330,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/tridentconsulting,Trident Consulting,http://www.tridentconsultinginc.com,http://www.linkedin.com/company/tridentconsulting,information technology & services,190,"San Ramon, California",,run2
+company,,,,,http://www.linkedin.com/company/neuroscience-news,Neuroscience News,http://www.neurosciencenews.com,http://www.linkedin.com/company/neuroscience-news,publishing,120,"The Woodlands, Texas",,run2
+company,,,,,http://www.linkedin.com/company/ampstek,Ampstek,http://www.ampstek.com,http://www.linkedin.com/company/ampstek,information technology & services,300,"Princeton, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/ai4,Ai4 - Artificial Intelligence Conferences,http://www.ai4.io,http://www.linkedin.com/company/ai4,events services,27,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/ai4diversity,Generative AI works,http://www.ai4diversity.org,http://www.linkedin.com/company/ai4diversity,think tanks,17,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/opencv,OpenCV,http://www.opencv.org,http://www.linkedin.com/company/opencv,nonprofit organization management,53,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/innovatorsdens,Innovator’s Den,http://www.mysterygadgets.com,http://www.linkedin.com/company/innovatorsdens,information technology & services,54,"Claymont, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/inside-higher-ed,Inside Higher Ed,http://www.insidehighered.com,http://www.linkedin.com/company/inside-higher-ed,online media,170,"Washington, District of Columbia",,run2
+company,,,,,http://www.linkedin.com/company/rare-carat,Rare Carat,http://www.rarecarat.com,http://www.linkedin.com/company/rare-carat,luxury goods & jewelry,170,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/neenopal,NeenOpal Inc.,http://www.neenopal.com,http://www.linkedin.com/company/neenopal,management consulting,160,"Newark, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/lotus-interworks,Lotus Interworks,http://www.lotusinterworks.com,http://www.linkedin.com/company/lotus-interworks,information technology & services,310,"Los Angeles, California",,run2
+company,,,,,http://www.linkedin.com/company/tributario,Tax.Network,http://www.tributario.com.br,http://www.linkedin.com/company/tributario,information technology & services,59,"Miami, Florida",,run2
+company,,,,,http://www.linkedin.com/company/artificial-intelligence-finance-institute-aifi,AIFI - Artificial Intelligence Finance Institute,http://www.aifinanceinstitute.com,http://www.linkedin.com/company/artificial-intelligence-finance-institute-aifi,e-learning,15,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/togethercomputer,Together AI,http://www.together.ai,http://www.linkedin.com/company/togethercomputer,information technology & services,360,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/blackstoneeit,BlackStone eIT,http://www.blackstoneeit.com,http://www.linkedin.com/company/blackstoneeit,information technology & services,270,"Seattle, Washington",,run2
+company,,,,,http://www.linkedin.com/company/aegistech,Aegistech,http://www.aegistech.com,http://www.linkedin.com/company/aegistech,staffing & recruiting,57,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/kc-ai,USD Artificial Intelligence (ᗩ𝕀) Research,http://www.ai-research-lab.org,http://www.linkedin.com/company/kc-ai,research,14,"Vermillion, South Dakota",,run2
+company,,,,,http://www.linkedin.com/school/udacity,Udacity,http://www.udacity.com,http://www.linkedin.com/school/udacity,e-learning,430,"Mountain View, California",,run2
+company,,,,,http://www.linkedin.com/company/delorean-artificial-intelligence,DeLorean Artificial Intelligence,http://www.deloreanai.com,http://www.linkedin.com/company/delorean-artificial-intelligence,information technology & services,26,"Palm Beach, Florida",,run2
+company,,,,,http://www.linkedin.com/company/innovatix-technology-partners,Innovatix Technology Partners,http://www.innovatixinc.com,http://www.linkedin.com/company/innovatix-technology-partners,information technology & services,110,"Bedminster Township, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/langchain,LangChain,http://www.langchain.com,http://www.linkedin.com/company/langchain,information technology & services,98,"Bayonne, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/glocomms,Glocomms,http://www.glocomms.com,http://www.linkedin.com/company/glocomms,professional training & coaching,92,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/hyqoocom,Hyqoo,http://www.hyqoo.com,http://www.linkedin.com/company/hyqoocom,information technology & services,170,"Bernards, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/projectmanagementskills,Project Management Skills,http://www.coursya.com,http://www.linkedin.com/company/projectmanagementskills,e-learning,120,"Sunnyvale, California",,run2
+company,,,,,http://www.linkedin.com/school/y-combinator,Y Combinator,http://www.ycombinator.com,http://www.linkedin.com/school/y-combinator,venture capital & private equity,68,"Mountain View, California",,run2
+company,,,,,http://www.linkedin.com/company/machine-learning-society,Machine Learning Society,http://www.innovation-labs.co,http://www.linkedin.com/company/machine-learning-society,information technology & services,43,"San Diego, California",,run2
+company,,,,,http://www.linkedin.com/company/startuphealth,StartUp Health,http://www.startuphealth.com,http://www.linkedin.com/company/startuphealth,"health, wellness & fitness",130,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/fortune,Fortune,http://www.fortune.com,http://www.linkedin.com/company/fortune,publishing,360,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/startupgenome,Startup Genome,http://www.startupgenome.com,http://www.linkedin.com/company/startupgenome,public policy,67,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/startupleadership,Startup Leadership Program,http://www.startupleadership.com,http://www.linkedin.com/company/startupleadership,education management,230,"Boston, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/cypress-hcm,Cypress HCM,http://www.cypresshcm.com,http://www.linkedin.com/company/cypress-hcm,staffing & recruiting,200,"Danville, California",,run2
+company,,,,,http://www.linkedin.com/company/sequoia,Sequoia Capital,http://www.sequoiacap.com,http://www.linkedin.com/company/sequoia,venture capital & private equity,330,"Menlo Park, California",,run2
+company,,,,,http://www.linkedin.com/company/quest-groups,Quest Groups LLC,http://www.questgroups.com,http://www.linkedin.com/company/quest-groups,staffing & recruiting,120,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/draperstartuphouse,Draper Startup House,http://www.draperstartuphouse.com,http://www.linkedin.com/company/draperstartuphouse,venture capital & private equity,43,"San Mateo, California",,run2
+company,,,,,http://www.linkedin.com/company/google-ai,AI Community,http://www.thecommunityai.org,http://www.linkedin.com/company/google-ai,information technology & services,380,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/agile-resources-inc-,"Agile Resources, Inc.",http://www.gotoagile.com,http://www.linkedin.com/company/agile-resources-inc-,staffing & recruiting,56,"Alpharetta, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/synergy-interactive-solutions,Synergy Interactive,http://www.sinyc.com,http://www.linkedin.com/company/synergy-interactive-solutions,staffing & recruiting,160,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/droisys,Droisys,http://www.droisys.com,http://www.linkedin.com/company/droisys,information technology & services,450,"Fremont, California",,run2
+company,,,,,http://www.linkedin.com/school/startup-school-online,Startup School Online,http://www.startupschool.org,http://www.linkedin.com/school/startup-school-online,e-learning,21,,,run2
+company,,,,,http://www.linkedin.com/company/startup-san-diego,Startup San Diego,http://www.startupsd.org,http://www.linkedin.com/company/startup-san-diego,civic & social organization,20,"San Diego, California",,run2
+company,,,,,http://www.linkedin.com/company/venturedive,VentureDive,http://www.venturedive.com,http://www.linkedin.com/company/venturedive,information technology & services,320,"Mountain View, California",,run2
+company,,,,,http://www.linkedin.com/company/weekdayjobs,Weekday AI (YC W21),http://www.weekday.works,http://www.linkedin.com/company/weekdayjobs,information technology & services,35,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/atlas-search,Atlas Search,http://www.atlassearchllc.com,http://www.linkedin.com/company/atlas-search,staffing & recruiting,210,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/engtal,Engtal,http://www.engtal.com,http://www.linkedin.com/company/engtal,staffing & recruiting,47,"Chicago, Illinois",,run2
+company,,,,,http://www.linkedin.com/company/bitsol,Bitsol,http://www.bitsol.tech,http://www.linkedin.com/company/bitsol,information technology & services,80,"Dallas, Texas",,run2
+company,,,,,http://www.linkedin.com/company/highbrow-technology-inc,Highbrow Technology Inc,http://www.highbrowtechnology.com,http://www.linkedin.com/company/highbrow-technology-inc,information technology & services,310,"Cary, North Carolina",,run2
+company,,,,,http://www.linkedin.com/company/startup-institute,Startup Institute,http://www.startupinstitute.com,http://www.linkedin.com/company/startup-institute,professional training & coaching,27,"Boston, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/founderandco,Founder & Co,http://www.foundersandco.com,http://www.linkedin.com/company/founderandco,information technology & services,78,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/recruiting-from-scratch,Recruiting from Scratch,http://www.recruitingfromscratch.com,http://www.linkedin.com/company/recruiting-from-scratch,staffing & recruiting,64,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/startup-world-cup,Startup World Cup,http://www.startupworldcup.io,http://www.linkedin.com/company/startup-world-cup,events services,130,"San Jose, California",,run2
+company,,,,,http://www.linkedin.com/company/storm3,Storm3,http://www.storm3.com,http://www.linkedin.com/company/storm3,staffing & recruiting,71,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/wimlds,(WiMLDS) Women in Machine Learning & Data Science,http://www.wimlds.org,http://www.linkedin.com/company/wimlds,civic & social organization,21,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/school/coderhouse,Coderhouse,http://www.coderhouse.com,http://www.linkedin.com/school/coderhouse,education management,230,Arkansas,,run2
+company,,,,,http://www.linkedin.com/company/greylock-partners,Greylock Partners,http://www.greylock.com,http://www.linkedin.com/company/greylock-partners,venture capital & private equity,150,"Menlo Park, California",,run2
+company,,,,,http://www.linkedin.com/company/icmlconf,[ICML] Int'l Conference on Machine Learning,http://www.icml.cc,http://www.linkedin.com/company/icmlconf,electrical/electronic manufacturing,11,"San Diego, California",,run2
+company,,,,,http://www.linkedin.com/school/data-science-dojo,Data Science Dojo,http://www.datasciencedojo.com,http://www.linkedin.com/school/data-science-dojo,professional training & coaching,79,"Redmond, Washington",,run2
+company,,,,,http://www.linkedin.com/company/harvard-business-review,Harvard Business Review,http://www.hbr.org,http://www.linkedin.com/company/harvard-business-review,publishing,450,"Boston, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/simon-sinek,Simon Sinek's The Optimism Company,http://www.simonsinek.com,http://www.linkedin.com/company/simon-sinek,professional training & coaching,140,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/bayone-solutions,BayOne Solutions,http://www.bayone.com,http://www.linkedin.com/company/bayone-solutions,information technology & services,450,"Pleasanton, California",,run2
+company,,,,,http://www.linkedin.com/company/steneral-consulting,Steneral Consulting,http://www.steneral.com,http://www.linkedin.com/company/steneral-consulting,information technology & services,79,"Plano, Texas",,run2
+company,,,,,http://www.linkedin.com/company/brilliantads,The Ad Professor,http://www.theadprofessor.com,http://www.linkedin.com/company/brilliantads,marketing & advertising,300,New York,,run2
+company,,,,,http://www.linkedin.com/company/stand8,STAND 8 Technology Consulting,http://www.stand8.io,http://www.linkedin.com/company/stand8,information technology & services,350,"Seal Beach, California",,run2
+company,,,,,http://www.linkedin.com/company/adweek,ADWEEK,http://www.adweek.com,http://www.linkedin.com/company/adweek,information technology & services,400,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/prudent-technologies-and-consulting-inc,"Prudent Technologies and Consulting, Inc.",http://www.prudentconsulting.com,http://www.linkedin.com/company/prudent-technologies-and-consulting-inc,information technology & services,370,"Farmers Branch, Texas",,run2
+company,,,,,http://www.linkedin.com/company/inductive-automation,Inductive Automation,http://www.inductiveautomation.com,http://www.linkedin.com/company/inductive-automation,machinery,340,"Folsom, California",,run2
+company,,,,,http://www.linkedin.com/company/optomi,Optomi,http://www.optomi.com,http://www.linkedin.com/company/optomi,information technology & services,410,"Atlanta, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/scrut-automation,Scrut Automation,http://www.scrut.io,http://www.linkedin.com/company/scrut-automation,information technology & services,230,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/stellar-consulting-solutions,"Stellar Consulting Solutions, LLC",http://www.stellarconsulting.com,http://www.linkedin.com/company/stellar-consulting-solutions,information technology & services,110,"Roswell, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/intellecttinc,Intellectt Inc,http://www.intellectt.com,http://www.linkedin.com/company/intellecttinc,information technology & services,460,"Woodbridge Township, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/marketer-tips,Marketer Tips,http://www.chasedimond.com,http://www.linkedin.com/company/marketer-tips,online media,210,"Los Angeles, California",,run2
+company,,,,,http://www.linkedin.com/company/tsr-consulting-services,TSR Consulting,http://www.tsrconsulting.com,http://www.linkedin.com/company/tsr-consulting-services,staffing & recruiting,170,"Hauppauge, New York",,run2
+company,,,,,http://www.linkedin.com/company/pantone,Pantone,http://www.pantone.com,http://www.linkedin.com/company/pantone,design,430,"Carlstadt, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/insidea,INSIDEA,http://www.insidea.com,http://www.linkedin.com/company/insidea,information technology & services,160,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/talos-automation,Talos Automation,http://www.talosautomation.com,http://www.linkedin.com/company/talos-automation,machinery,52,"Troy, Michigan",,run2
+company,,,,,http://www.linkedin.com/company/avoautomation,Avo Automation,http://www.avoautomation.com,http://www.linkedin.com/company/avoautomation,information technology & services,140,"Cincinnati, Ohio",,run2
+company,,,,,http://www.linkedin.com/company/amerit-consulting,Amerit Consulting,http://www.ameritconsulting.com,http://www.linkedin.com/company/amerit-consulting,staffing & recruiting,95,"Elk Grove, California",,run2
+company,,,,,http://www.linkedin.com/company/estaffinginc,eStaffing Inc.,http://www.estaffinginc.com,http://www.linkedin.com/company/estaffinginc,staffing & recruiting,200,"Allen, Texas",,run2
+company,,,,,http://www.linkedin.com/company/techconsultingusa,Tech Consulting,http://www.techconsulting.net,http://www.linkedin.com/company/techconsultingusa,information technology & services,150,"Atlanta, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/compri-consulting,Compri Consulting,http://www.compri.com,http://www.linkedin.com/company/compri-consulting,information technology & services,44,"Denver, Colorado",,run2
+company,,,,,http://www.linkedin.com/company/ztek-inc,Ztek Consulting,http://www.ztekinc.com,http://www.linkedin.com/company/ztek-inc,staffing & recruiting,220,"Duluth, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/femalequotient,The Female Quotient,http://www.thefemalequotient.com,http://www.linkedin.com/company/femalequotient,marketing & advertising,450,"Los Angeles, California",,run2
+company,,,,,http://www.linkedin.com/company/dahl-consulting,Dahl Consulting,http://www.dahlconsulting.com,http://www.linkedin.com/company/dahl-consulting,staffing & recruiting,150,"Edina, Minnesota",,run2
+company,,,,,http://www.linkedin.com/company/themesoft-inc.,Themesoft Inc.,http://www.themesoft.com,http://www.linkedin.com/company/themesoft-inc.,information technology & services,140,"Coppell, Texas",,run2
+company,,,,,http://www.linkedin.com/company/association-for-advancing-automation,A3 - Association for Advancing Automation,http://www.automate.org,http://www.linkedin.com/company/association-for-advancing-automation,civic & social organization,32,"Ann Arbor, Michigan",,run2
+company,,,,,http://www.linkedin.com/company/chronos-consulting,Chronos Consulting,http://www.coberonchronos.com,http://www.linkedin.com/company/chronos-consulting,human resources,81,"Las Vegas, Nevada",,run2
+company,,,,,http://www.linkedin.com/company/flexton-inc,Flexton Inc.,http://www.flextoninc.com,http://www.linkedin.com/company/flexton-inc,information technology & services,160,"San Jose, California",,run2
+company,,,,,http://www.linkedin.com/company/sprinto-com,Sprinto,http://www.sprinto.com,http://www.linkedin.com/company/sprinto-com,information technology & services,330,"Mountain View, California",,run2
+company,,,,,http://www.linkedin.com/company/lorventech,Lorven Technologies Inc.,http://www.lorventech.com,http://www.linkedin.com/company/lorventech,information technology & services,390,"Plainsboro Township, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/atyeti-inc,Atyeti Inc,http://www.atyeti.com,http://www.linkedin.com/company/atyeti-inc,information technology & services,450,"Princeton, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/virtustant,Virtustant,http://www.virtustant.com,http://www.linkedin.com/company/virtustant,information technology & services,210,"Greenwich, Connecticut",,run2
+company,,,,,http://www.linkedin.com/company/manpowergroup-colombia,ManpowerGroup Colombia,http://www.manpowergroupcolombia.co,http://www.linkedin.com/company/manpowergroup-colombia,human resources,480,"Milwaukee, Wisconsin",,run2
+company,,,,,http://www.linkedin.com/company/wand1,Wand AI,http://www.wand.ai,http://www.linkedin.com/company/wand1,information technology & services,170,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/chatbase-co,Chatbase,http://www.chatbase.co,http://www.linkedin.com/company/chatbase-co,information technology & services,54,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/crewai-inc,CrewAI,http://www.crewai.com,http://www.linkedin.com/company/crewai-inc,information technology & services,45,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/agent.ai,Agent.ai,http://www.agent.ai,http://www.linkedin.com/company/agent.ai,information technology & services,73,"Mountain View, California",,run2
+company,,,,,http://www.linkedin.com/company/testmu-ai,TestMu AI,http://www.testmuai.com,http://www.linkedin.com/company/testmu-ai,information technology & services,470,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/tray-ai,Tray.ai,http://www.tray.ai,http://www.linkedin.com/company/tray-ai,information technology & services,140,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/llamaindex,LlamaIndex,http://www.llamaindex.ai,http://www.linkedin.com/company/llamaindex,information technology & services,81,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/engati,Engati,http://www.engati.ai,http://www.linkedin.com/company/engati,information technology & services,110,"Wilmington, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/bikglobal,Bik.ai,http://www.bik.ai,http://www.linkedin.com/company/bikglobal,information technology & services,350,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/reality-ai-lab,Reality AI Lab,http://www.realityai.tech,http://www.linkedin.com/company/reality-ai-lab,information technology & services,300,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/kokoro-doc,kokoro.doctor,http://www.kokoro.doctor,http://www.linkedin.com/company/kokoro-doc,hospital & health care,68,"Boston, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/sendbird,Sendbird,http://www.sendbird.com,http://www.linkedin.com/company/sendbird,information technology & services,310,"San Mateo, California",,run2
+company,,,,,http://www.linkedin.com/company/stier-solutions-inc,Stier Solutions Inc,http://www.stiersol.com,http://www.linkedin.com/company/stier-solutions-inc,information technology & services,130,"Alpharetta, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/pronix-inc,Pronix Inc,http://www.pronixinc.com,http://www.linkedin.com/company/pronix-inc,information technology & services,200,"Plainsboro Township, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/markovate,Markovate,http://www.markovate.com,http://www.linkedin.com/company/markovate,information technology & services,55,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/wotnot-io,WotNot,http://www.wotnot.io,http://www.linkedin.com/company/wotnot-io,information technology & services,31,"Dover, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/tars,Tars,http://www.hellotars.com,http://www.linkedin.com/company/tars,information technology & services,43,"Newark, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/translators-without-borders,Translators without Borders,http://www.translatorswithoutborders.org,http://www.linkedin.com/company/translators-without-borders,translation & localization,130,"Garden City, Idaho",,run2
+company,,,,,http://www.linkedin.com/company/rexus-group,Rexus Group,http://www.rexus-group.com,http://www.linkedin.com/company/rexus-group,information technology & services,110,"Wilmington, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/the-agi-company,"AGI, Inc.",http://www.theagi.company,http://www.linkedin.com/company/the-agi-company,information technology & services,42,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/sierra,Sierra,http://www.sierra.ai,http://www.linkedin.com/company/sierra,information technology & services,320,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/conversight,ConverSight,http://www.conversight.ai,http://www.linkedin.com/company/conversight,information technology & services,82,"Indianapolis, Indiana",,run2
+company,,,,(512) 872-3364,http://www.linkedin.com/company/apptunixus,Apptunix,http://www.apptunix.com,http://www.linkedin.com/company/apptunixus,information technology & services,360,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/continua-ai,Continua AI,http://www.continua.ai,http://www.linkedin.com/company/continua-ai,information technology & services,11,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/aixplain,aiXplain,http://www.aixplain.com,http://www.linkedin.com/company/aixplain,information technology & services,45,"San Jose, California",,run2
+company,,,,,http://www.linkedin.com/company/search-engine-land,Search Engine Land,http://www.searchengineland.com,http://www.linkedin.com/company/search-engine-land,information technology & services,110,"Edgartown, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/intellectyx,"Intellectyx, Inc.",http://www.intellectyx.com,http://www.linkedin.com/company/intellectyx,information technology & services,110,"Denver, Colorado",,run2
+company,,,,,http://www.linkedin.com/company/magicschool-ai,MagicSchool AI,http://www.magicschool.ai,http://www.linkedin.com/company/magicschool-ai,education management,160,"Denver, Colorado",,run2
+company,,,,,http://www.linkedin.com/company/plivo-inc,Plivo,http://www.plivo.com,http://www.linkedin.com/company/plivo-inc,information technology & services,300,"Austin, Texas",,run2
+company,,,,,http://www.linkedin.com/company/zaptatech,ZAPTA Technologies (Pvt.) Limited,http://www.zaptatech.com,http://www.linkedin.com/company/zaptatech,information technology & services,250,"Houston, Texas",,run2
+company,,,,,http://www.linkedin.com/company/thcoglobal,THCO - We Are Hiring!,http://www.thcohq.com,http://www.linkedin.com/company/thcoglobal,management consulting,72,"Wilmington, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/radiansys-inc,Radiansys Inc.,http://www.radiansys.com,http://www.linkedin.com/company/radiansys-inc,information technology & services,130,"Fremont, California",,run2
+company,,,,,http://www.linkedin.com/company/procurewithoro,ORO Labs,http://www.orolabs.ai,http://www.linkedin.com/company/procurewithoro,information technology & services,260,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/leena-ai,Leena AI,http://www.leena.ai,http://www.linkedin.com/company/leena-ai,information technology & services,310,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/wandb,Weights & Biases,http://www.wandb.ai,http://www.linkedin.com/company/wandb,information technology & services,320,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/repl-it,Replit,http://www.replit.com,http://www.linkedin.com/company/repl-it,information technology & services,340,"Foster City, California",,run2
+company,,,,,http://www.linkedin.com/company/truora,Truora Inc.,http://www.truora.com,http://www.linkedin.com/company/truora,information technology & services,230,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/sambanova,SambaNova,http://www.sambanova.ai,http://www.linkedin.com/company/sambanova,computer hardware,450,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/brainx-technologies,BrainX Technologies,http://www.brainxtech.com,http://www.linkedin.com/company/brainx-technologies,information technology & services,140,"Middletown, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/interface-ai,interface.ai,http://www.interface.ai,http://www.linkedin.com/company/interface-ai,information technology & services,230,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/xevensolutions,Xeven Solutions,http://www.xevensolutions.com,http://www.linkedin.com/company/xevensolutions,information technology & services,290,"East Stroudsburg, Pennsylvania",,run2
+company,,,,,http://www.linkedin.com/company/qodexai,Qodex - AI Agent for API Testing & Security,http://www.qodex.ai,http://www.linkedin.com/company/qodexai,information technology & services,11,"San Mateo, California",,run2
+company,,,,,http://www.linkedin.com/company/artmac-soft-llc,Artmac,http://www.artmacsoft.com,http://www.linkedin.com/company/artmac-soft-llc,information technology & services,44,"Atlanta, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/ai-prompts-community,AI & Prompts Hub,http://www.aiplanetx.com,http://www.linkedin.com/company/ai-prompts-community,information technology & services,44,"Sheridan, Wyoming",,run2
+company,,,,,http://www.linkedin.com/company/surveysparrow,SurveySparrow,http://www.surveysparrow.com,http://www.linkedin.com/company/surveysparrow,information technology & services,430,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/digitaljanetllc,Digital Janet,http://www.digitaljanet.com,http://www.linkedin.com/company/digitaljanetllc,staffing & recruiting,33,"Austin, Texas",,run2
+company,,,,,http://www.linkedin.com/company/vectorshift,VectorShift,http://www.vectorshift.ai,http://www.linkedin.com/company/vectorshift,information technology & services,32,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/fusemachines,Fusemachines,http://www.fusemachines.com,http://www.linkedin.com/company/fusemachines,information technology & services,320,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/qbotica,qBotica,http://www.qbotica.com,http://www.linkedin.com/company/qbotica,information technology & services,200,"Phoenix, Arizona",,run2
+company,,,,,http://www.linkedin.com/company/venturebeat,VentureBeat,http://www.venturebeat.com,http://www.linkedin.com/company/venturebeat,information technology & services,330,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/data-science-central,Data Science Central,http://www.datasciencecentral.com,http://www.linkedin.com/company/data-science-central,publishing,440,"Issaquah, Washington",,run2
+company,,,,,http://www.linkedin.com/company/sohosquaresolutions,Soho Square Solutions,http://www.sohosquaresolutions.com,http://www.linkedin.com/company/sohosquaresolutions,management consulting,140,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/jrd-systems,JRD Systems,http://www.jrdsi.com,http://www.linkedin.com/company/jrd-systems,information technology & services,250,"Clinton Township, Michigan",,run2
+company,,,,,http://www.linkedin.com/company/amiseq-inc.,AMISEQ,http://www.amiseq.com,http://www.linkedin.com/company/amiseq-inc.,information technology & services,220,"Milpitas, California",,run2
+company,,,,,http://www.linkedin.com/company/pricesenz,PriceSenz,http://www.pricesenz.com,http://www.linkedin.com/company/pricesenz,information technology & services,56,"Dallas, Texas",,run2
+company,,,,,http://www.linkedin.com/company/zillion-technologies,"Zillion Technologies, Inc.",http://www.zilliontechnologies.com,http://www.linkedin.com/company/zillion-technologies,information technology & services,390,"Ashburn, Virginia",,run2
+company,,,,,http://www.linkedin.com/company/futransolutionsinc,Futran Solutions,http://www.futransolutions.com,http://www.linkedin.com/company/futransolutionsinc,information technology & services,300,"Edison, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/code-vyasa,CodeVyasa,http://www.codevyasa.com,http://www.linkedin.com/company/code-vyasa,information technology & services,220,"Jacksonville, Florida",,run2
+company,,,,,http://www.linkedin.com/company/redolent-inc,"Redolent, Inc",http://www.redolentech.com,http://www.linkedin.com/company/redolent-inc,information technology & services,32,"Fremont, California",,run2
+company,,,,,http://www.linkedin.com/company/nustar-technologies-inc.,NuStar Technologies,http://www.nustartech.com,http://www.linkedin.com/company/nustar-technologies-inc.,information technology & services,30,"Edison, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/charterglobalcg,Charter Global,http://www.charterglobal.com,http://www.linkedin.com/company/charterglobalcg,information technology & services,390,"Atlanta, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/precision-technologies-corp-,Precision Technologies,http://www.precisiontechcorp.com,http://www.linkedin.com/company/precision-technologies-corp-,information technology & services,410,"South Brunswick Township, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/creospan,Creospan Inc.,http://www.creospan.com,http://www.linkedin.com/company/creospan,information technology & services,190,"Schaumburg, Illinois",,run2
+company,,,,,http://www.linkedin.com/company/gravityinfosolutions,"Gravity Infosolutions, Inc.",http://www.gravityinfosolutions.com,http://www.linkedin.com/company/gravityinfosolutions,information technology & services,63,"San Jose, California",,run2
+company,,,,,http://www.linkedin.com/company/technogeninc,"Technogen, Inc.",http://www.technogeninc.com,http://www.linkedin.com/company/technogeninc,information technology & services,240,"Chantilly, Virginia",,run2
+company,,,,,http://www.linkedin.com/company/botcity,BotCity,http://www.botcity.ai,http://www.linkedin.com/company/botcity,information technology & services,51,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/excelgens-inc,"ExcelGens, Inc.",http://www.excelgens.com,http://www.linkedin.com/company/excelgens-inc,information technology & services,240,"Denville, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/noblesoft-solutions,Noblesoft Solutions,http://www.noblesoft-solutions.com,http://www.linkedin.com/company/noblesoft-solutions,information technology & services,150,"Langhorne, Pennsylvania",,run2
+company,,,,,http://www.linkedin.com/company/codeninjainc,CodeNinja Inc.,http://www.codeninjaconsulting.com,http://www.linkedin.com/company/codeninjainc,information technology & services,230,"Austin, Texas",,run2
+company,,,,,http://www.linkedin.com/company/staffigo,Staffigo,http://www.staffigo.com,http://www.linkedin.com/company/staffigo,information technology & services,140,"Woodridge, Illinois",,run2
+company,,,,,http://www.linkedin.com/company/thoughtful-ai,Thoughtful AI,http://www.smartertech.com,http://www.linkedin.com/company/thoughtful-ai,information technology & services,160,"Austin, Texas",,run2
+company,,,,,http://www.linkedin.com/company/comptech-associates-inc.,Comptech Associates,http://www.comptechassoc.com,http://www.linkedin.com/company/comptech-associates-inc.,information technology & services,66,"Franklin Township, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/numerictech,Numeric Technologies,http://www.numerictech.com,http://www.linkedin.com/company/numerictech,information technology & services,330,"Warrenville, Illinois",,run2
+company,,,,,http://www.linkedin.com/company/pleasefollownewpage,Inactive Page,http://www.wisemen.com,http://www.linkedin.com/company/pleasefollownewpage,information technology & services,120,"Houston, Texas",,run2
+company,,,,,http://www.linkedin.com/company/helpsystems-llc,HelpSystems,http://www.helpsystems.com,http://www.linkedin.com/company/helpsystems-llc,information technology & services,170,"Eden Prairie, Minnesota",,run2
+company,,,,,http://www.linkedin.com/company/systechcorp,SysTechCorp Inc,http://www.systechus.com,http://www.linkedin.com/company/systechcorp,information technology & services,220,"South Plainfield, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/technology-ventures,Technology Ventures,http://www.tventures.net,http://www.linkedin.com/company/technology-ventures,information technology & services,82,"McLean, Virginia",,run2
+company,,,,,http://www.linkedin.com/company/quantum-integrators-group-llc,Quantum Integrators,http://www.quantumintegrators.com,http://www.linkedin.com/company/quantum-integrators-group-llc,information technology & services,280,"West Windsor Township, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/the-lab-consulting,The Lab Consulting,http://www.thelabconsulting.com,http://www.linkedin.com/company/the-lab-consulting,management consulting,99,"Houston, Texas",,run2
+company,,,,,http://www.linkedin.com/company/comresource,ComResource,http://www.comresource.com,http://www.linkedin.com/company/comresource,information technology & services,150,"Columbus, Ohio",,run2
+company,,,,,http://www.linkedin.com/company/mclaren-strategic-solutions-mss,McLaren Strategic Solutions (MSS),http://www.mclarenss.com,http://www.linkedin.com/company/mclaren-strategic-solutions-mss,management consulting,150,"Irvine, California",,run2
+company,,,,,http://www.linkedin.com/company/experfy,Experfy,http://www.experfy.com,http://www.linkedin.com/company/experfy,information technology & services,44,"Boston, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/hyperscience,Hyperscience,http://www.hyperscience.ai,http://www.linkedin.com/company/hyperscience,information technology & services,230,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/agile-techlabs,Agile Tech Labs,http://www.agile-techlabs.com,http://www.linkedin.com/company/agile-techlabs,information technology & services,43,"Southfield, Michigan",,run2
+company,,,,,http://www.linkedin.com/company/figure-ai,Figure,http://www.figure.ai,http://www.linkedin.com/company/figure-ai,machinery,370,"San Jose, California",,run2
+company,,,,,http://www.linkedin.com/company/agilityrobotics,Agility Robotics,http://www.agilityrobotics.com,http://www.linkedin.com/company/agilityrobotics,mechanical or industrial engineering,420,"Salem, Oregon",,run2
+company,,,,,http://www.linkedin.com/company/global-bridge-infotech-inc-,GBIT (Global Bridge InfoTech Inc),http://www.gbitinc.com,http://www.linkedin.com/company/global-bridge-infotech-inc-,information technology & services,130,"Irving, Texas",,run2
+company,,,,,http://www.linkedin.com/company/radiant-digital-solutions,Radiant Digital,http://www.radiant.digital,http://www.linkedin.com/company/radiant-digital-solutions,information technology & services,260,"Vienna, Virginia",,run2
+company,,,,,http://www.linkedin.com/company/seargin,Seargin,http://www.seargin.com,http://www.linkedin.com/company/seargin,information technology & services,260,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/quantumbricks-inc,QuantumBricks,http://www.quantumbricks.io,http://www.linkedin.com/company/quantumbricks-inc,information technology & services,170,"Newark, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/decision-management-solutions,Blue Polaris,http://www.bluepolaris.com,http://www.linkedin.com/company/decision-management-solutions,management consulting,64,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/data-science-council-of-america,Data Science Council of America,http://www.dasca.org,http://www.linkedin.com/company/data-science-council-of-america,government administration,39,"Austin, Texas",,run2
+company,,,,,http://www.linkedin.com/company/odsc-ai,Open Data Science Conference (ODSC),http://www.odsc.ai,http://www.linkedin.com/company/odsc-ai,information services,190,"Cambridge, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/maven-analytics,Maven Analytics,http://www.mavenanalytics.io,http://www.linkedin.com/company/maven-analytics,e-learning,96,"Boston, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/boston-institute-of-analytics,Boston Institute of Analytics,http://www.bostoninstituteofanalytics.org,http://www.linkedin.com/company/boston-institute-of-analytics,education management,470,"Boston, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/freeonlinecourseswithcertificate,Free Online Courses,http://www.onlinetutorials.org,http://www.linkedin.com/company/freeonlinecourseswithcertificate,e-learning,14,"Los Alamitos, California",,run2
+company,,,,,http://www.linkedin.com/company/datascicolumbia,The Data Science Institute at Columbia University,http://datascience.columbia.edu,http://www.linkedin.com/company/datascicolumbia,higher education,78,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/insight-data-science,Insight Data Science,http://www.insightfellows.com,http://www.linkedin.com/company/insight-data-science,higher education,95,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/posit-software,Posit PBC,http://www.posit.co,http://www.linkedin.com/company/posit-software,information technology & services,440,"Boston, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/aryng,Aryng,http://www.aryng.com,http://www.linkedin.com/company/aryng,management consulting,32,"Santa Clara, California",,run2
+company,,,,,http://www.linkedin.com/company/absolutdata-analytics,Absolutdata Analytics-an Infogain company,http://www.absolutdata.com,http://www.linkedin.com/company/absolutdata-analytics,information technology & services,380,"Alameda, California",,run2
+company,,,,,http://www.linkedin.com/company/sarasanalytics,Saras Analytics,http://www.sarasanalytics.com,http://www.linkedin.com/company/sarasanalytics,information technology & services,210,"Westborough, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/women-in-analytics-community,Women in Analytics (WIA),http://www.womeninanalytics.com,http://www.linkedin.com/company/women-in-analytics-community,civic & social organization,26,"Columbus, Ohio",,run2
+company,,,,,http://www.linkedin.com/company/rbw-consulting,RBW Consulting,http://www.rbwconsulting.com,http://www.linkedin.com/company/rbw-consulting,staffing & recruiting,68,"Boston, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/data-science-connect,Data Science Connect,http://www.datasciconnect.com,http://www.linkedin.com/company/data-science-connect,information technology & services,17,"Atlanta, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/teg-analytics,TEG Analytics,http://www.teganalytics.com,http://www.linkedin.com/company/teg-analytics,management consulting,57,"Westport, Connecticut",,run2
+company,,,,,http://www.linkedin.com/company/decision-point-pvt-ltd-,Decision Point Analytics,http://www.decisionpoint.ai,http://www.linkedin.com/company/decision-point-pvt-ltd-,management consulting,330,"Roswell, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/kdnuggets,KDnuggets,http://www.kdnuggets.com,http://www.linkedin.com/company/kdnuggets,information technology & services,160,"San Juan, Texas",,run2
+company,,,,,http://www.linkedin.com/company/data-science-alliance,Data Science Alliance,http://www.datasciencealliance.org,http://www.linkedin.com/company/data-science-alliance,civic & social organization,52,"San Diego, California",,run2
+company,,,,,http://www.linkedin.com/company/equitydatascience,Equity Data Science (EDS),http://www.equitydatascience.com,http://www.linkedin.com/company/equitydatascience,financial services,81,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/snow-datascience,Snow Data Science,http://www.snowdatascience.org,http://www.linkedin.com/company/snow-datascience,information technology & services,32,"Houston, Texas",,run2
+company,,,,,http://www.linkedin.com/company/maxonic,Maxonic Inc.,http://www.maxonic.com,http://www.linkedin.com/company/maxonic,information technology & services,290,"Campbell, California",,run2
+company,,,,,http://www.linkedin.com/company/analytic-recruiting,Analytic Recruiting Inc.,http://www.analyticrecruiting.com,http://www.linkedin.com/company/analytic-recruiting,staffing & recruiting,47,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/mashable,Mashable,http://www.mashable.com,http://www.linkedin.com/company/mashable,online media,420,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/namasys-company,Namasys Analytics,http://www.namasys.ai,http://www.linkedin.com/company/namasys-company,information technology & services,52,"Elk Grove, California",,run2
+company,,,,,http://www.linkedin.com/company/skyconsulting-inc,Sky Consulting Inc.,http://www.skyconsulting-inc.com,http://www.linkedin.com/company/skyconsulting-inc,staffing & recruiting,19,"Cedar Rapids, Iowa",,run2
+company,,,,,http://www.linkedin.com/company/digital-infuzion,Digital Infuzion,http://www.digitalinfuzion.com,http://www.linkedin.com/company/digital-infuzion,information technology & services,150,"Rockville, Maryland",,run2
+company,,,,,http://www.linkedin.com/company/everstreamai,Everstream Analytics,http://www.everstream.ai,http://www.linkedin.com/company/everstreamai,logistics & supply chain,190,"San Marcos, California",,run2
+company,,,,,http://www.linkedin.com/company/burtch-works,Burtch Works,http://www.burtchworks.com,http://www.linkedin.com/company/burtch-works,information technology & services,51,"Chicago, Illinois",,run2
+company,,,,,http://www.linkedin.com/company/reveation-labs,Reveation Labs,http://www.reveation.io,http://www.linkedin.com/company/reveation-labs,information technology & services,45,"Plano, Texas",,run2
+company,,,,,http://www.linkedin.com/company/lens-corporation,LENS Corporation,http://www.lenscorp.ai,http://www.linkedin.com/company/lens-corporation,research,59,"Lansing, Michigan",,run2
+company,,,,,http://www.linkedin.com/company/pytorch,PyTorch,http://www.pytorch.org,http://www.linkedin.com/company/pytorch,research,62,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/cyble-global,Cyble,http://www.cyble.com,http://www.linkedin.com/company/cyble-global,computer & network security,250,"Cupertino, California",,run2
+company,,,,,http://www.linkedin.com/company/deepgram,Deepgram,http://www.deepgram.com,http://www.linkedin.com/company/deepgram,information technology & services,270,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/invideoio,invideo,http://www.invideo.io,http://www.linkedin.com/company/invideoio,information technology & services,130,"Daly City, California",,run2
+company,,,,,http://www.linkedin.com/company/odiin,Odiin.,http://www.odiin.tech,http://www.linkedin.com/company/odiin,staffing & recruiting,41,"Austin, Texas",,run2
+company,,,,,http://www.linkedin.com/company/hyperbots-inc,Hyperbots Inc.,http://www.hyperbots.com,http://www.linkedin.com/company/hyperbots-inc,information technology & services,110,"Dover, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/meetprofessionalme,Professional.me,http://www.professional.me,http://www.linkedin.com/company/meetprofessionalme,internet,100,"Dover, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/towards-artificial-intelligence,"Towards AI, Inc.",http://www.towardsai.net,http://www.linkedin.com/company/towards-artificial-intelligence,information technology & services,86,"Wilmington, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/two95-international,"TWO95 International, Inc",http://www.two95intl.com,http://www.linkedin.com/company/two95-international,information technology & services,150,"Cherry Hill, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/remote-work-junkie,Remote Work Junkie,http://www.remoteworkjunkie.com,http://www.linkedin.com/company/remote-work-junkie,information technology & services,36,Oregon,,run2
+company,,,,,http://www.linkedin.com/company/honest-ai-engine,HonestAI - Building AI Powered Apps & Agentifying Companies,http://www.graycyan.ai,http://www.linkedin.com/company/honest-ai-engine,information technology & services,79,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/viscrai,VISCR AI,http://www.viscr.ai,http://www.linkedin.com/company/viscrai,computer & network security,15,"Washington, District of Columbia",,run2
+company,,,,,http://www.linkedin.com/company/unwrapai,Unwrap,http://www.unwrap.ai,http://www.linkedin.com/company/unwrapai,information technology & services,36,"Santa Barbara, California",,run2
+company,,,,,http://www.linkedin.com/company/bessemer-venture-partners,Bessemer Venture Partners,http://www.bvp.com,http://www.linkedin.com/company/bessemer-venture-partners,venture capital & private equity,420,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/aiagent,SproutsAI,http://www.sproutsai.com,http://www.linkedin.com/company/aiagent,information technology & services,41,"Sunnyvale, California",,run2
+company,,,,,http://www.linkedin.com/company/vmock-inc,VMock,http://www.vmock.com,http://www.linkedin.com/company/vmock-inc,information technology & services,150,"Chicago, Illinois",,run2
+company,,,,,http://www.linkedin.com/company/hypersonix-ai,Hypersonix Inc.,http://www.hypersonix.ai,http://www.linkedin.com/company/hypersonix-ai,information technology & services,110,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/deltacubes,Deltacubes,http://www.deltacubes.us,http://www.linkedin.com/company/deltacubes,information technology & services,200,New Jersey,,run2
+company,,,,,http://www.linkedin.com/company/trychroma,Chroma,http://www.trychroma.com,http://www.linkedin.com/company/trychroma,information technology & services,97,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/quillbot,QuillBot,http://www.quillbot.com,http://www.linkedin.com/company/quillbot,information technology & services,230,"Chicago, Illinois",,run2
+company,,,,,http://www.linkedin.com/company/h2oai,H2O.ai,http://www.h2o.ai,http://www.linkedin.com/company/h2oai,information technology & services,330,"Mountain View, California",,run2
+company,,,,,http://www.linkedin.com/company/intelletec-ltd,Intelletec,http://www.intelletec.com,http://www.linkedin.com/company/intelletec-ltd,staffing & recruiting,45,"Los Angeles, California",,run2
+company,,,,,http://www.linkedin.com/company/cirruslabs,CirrusLabs,http://www.cirruslabs.io,http://www.linkedin.com/company/cirruslabs,information technology & services,300,"Alpharetta, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/bigrio,BigRio,http://www.bigr.io,http://www.linkedin.com/company/bigrio,information technology & services,99,"Boston, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/blucognition,bluCognition,http://www.blucognition.com,http://www.linkedin.com/company/blucognition,information technology & services,280,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/trilyon,"Trilyon, Inc.",http://www.trilyonservices.com,http://www.linkedin.com/company/trilyon,information technology & services,96,"Cupertino, California",,run2
+company,,,,,http://www.linkedin.com/company/oneorigin,OneOrigin,http://www.oneorigin.us,http://www.linkedin.com/company/oneorigin,information technology & services,190,"Scottsdale, Arizona",,run2
+company,,,,,http://www.linkedin.com/company/averity,Averity,http://www.averityteam.com,http://www.linkedin.com/company/averity,staffing & recruiting,16,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/data-science-salon,AI Loves Data,http://www.datascience.salon,http://www.linkedin.com/company/data-science-salon,information services,24,"Miami, Florida",,run2
+company,,,,,http://www.linkedin.com/company/veracityventuresinc,Veracity Software Inc,http://www.veracity-us.com,http://www.linkedin.com/company/veracityventuresinc,information technology & services,95,"Woodbridge Township, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/drover-ai,Drover AI,http://www.drover.ai,http://www.linkedin.com/company/drover-ai,information technology & services,13,"Los Angeles, California",,run2
+company,,,,,http://www.linkedin.com/company/umbo-cv,Umbo Computer Vision,http://www.umbocv.ai,http://www.linkedin.com/company/umbo-cv,security & investigations,21,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/abacusai,Abacus.AI,http://www.abacus.ai,http://www.linkedin.com/company/abacusai,information technology & services,150,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/landing-ai,LandingAI,http://www.landing.ai,http://www.linkedin.com/company/landing-ai,information technology & services,110,"Mountain View, California",,run2
+company,,,,,http://www.linkedin.com/company/substance3d,Adobe Substance 3D,http://www.substance3d.com,http://www.linkedin.com/company/substance3d,information technology & services,210,"San Jose, California",,run2
+company,,,,,http://www.linkedin.com/company/clearml,ClearML,http://www.clear.ml,http://www.linkedin.com/company/clearml,information technology & services,45,"Berkeley, California",,run2
+company,,,,,http://www.linkedin.com/company/rapid-innovation,Rapid Innovation,http://www.rapidinnovation.io,http://www.linkedin.com/company/rapid-innovation,information technology & services,200,"Spokane, Washington",,run2
+company,,,,,http://www.linkedin.com/company/ailoitte-technologies,Ailoitte,http://www.ailoitte.com,http://www.linkedin.com/company/ailoitte-technologies,information technology & services,97,"Dover, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/maitsys,Maitsys,http://www.maitsys.com,http://www.linkedin.com/company/maitsys,information technology & services,74,"Boston, Massachusetts",,run2
+company,,,,,http://www.linkedin.com/company/bear-robotics-inc,Bear Robotics,http://www.bearrobotics.ai,http://www.linkedin.com/company/bear-robotics-inc,information technology & services,250,"Redwood City, California",,run2
+company,,,,,http://www.linkedin.com/company/hashroot,HashRoot,http://www.hashroot.com,http://www.linkedin.com/company/hashroot,information technology & services,300,"Lewes, Delaware",,run2
+company,,,,,http://www.linkedin.com/company/matrice-ai,Matrice AI,http://www.matrice.ai,http://www.linkedin.com/company/matrice-ai,information technology & services,19,"Foster City, California",,run2
+company,,,,,http://www.linkedin.com/company/eatwithposha,Posha,http://www.posha.com,http://www.linkedin.com/company/eatwithposha,consumer electronics,69,"San Mateo, California",,run2
+company,,,,,http://www.linkedin.com/company/odditytech,ODDITY,http://www.oddity.com,http://www.linkedin.com/company/odditytech,information technology & services,490,"New York, New York",,run2
+company,,,,,http://www.linkedin.com/company/skan-ai,Skan AI,http://www.skan.ai,http://www.linkedin.com/company/skan-ai,information technology & services,220,"Menlo Park, California",,run2
+company,,,,,http://www.linkedin.com/company/vdartdigitalinc,VDart Digital,http://www.vdartdigital.com,http://www.linkedin.com/company/vdartdigitalinc,information technology & services,180,"Atlanta, Georgia",,run2
+company,,,,,http://www.linkedin.com/company/lumalabsai,Luma AI,http://www.lumalabs.ai,http://www.linkedin.com/company/lumalabsai,information technology & services,210,"Palo Alto, California",,run2
+company,,,,,http://www.linkedin.com/company/rang-technologies-inc,Rang Technologies Inc,http://www.rangtech.com,http://www.linkedin.com/company/rang-technologies-inc,information technology & services,490,"Piscataway, New Jersey",,run2
+company,,,,,http://www.linkedin.com/company/alphasignal,AlphaSignal,http://www.alphasignal.ai,http://www.linkedin.com/company/alphasignal,research,40,"San Francisco, California",,run2
+company,,,,,http://www.linkedin.com/company/randomtrees,RandomTrees,http://www.randomtrees.com,http://www.linkedin.com/company/randomtrees,information technology & services,310,"Houston, Texas",,run2
+company,,,,(201) 687-9545,,Comp AI,https://trycomp.ai/,,Computer security service,,"San Francisco, California",,run2
+company,,,,(415) 801-6494,,AI bees,https://www.ai-bees.io/,,Association / Organization,,"San Francisco, California",,run2
+company,,,,(646) 807-9083,,AI Agency -TopG Solutions,https://topgsolutions.com/,,Consultant,,"New York, New York",,run2
+company,,,,(800) 985-7395,,Adaptive Intelligence International,https://adaptiveintelligence.online/,,Marketing agency,,"New York, New York",,run2
+company,,,,(229) 789-3583,,Scalex - AI Automation Agency,https://www.scalex.agency/,,Software company,,"Queens, New York",,run2
+company,,,,(347) 697-4846,,Flow Digital,https://flow.digital/,,Automation company,,"Brooklyn, New York",,run2
+company,,,,(650) 268-4404,,Seek AI,http://seek.ai/,,Office space rental agency,,"New York, New York",,run2
+company,,,,,,EliseAI,https://www.eliseai.com/,,Software company,,"New York, New York",,run2
+company,,,,(929) 205-7436,,brayv.ai,https://brayv.ai/,,Software company,,"New York, New York",,run2
+company,,,,(212) 548-4433,,White Label AI Agency - Rocket Driver,https://www.rocketdriver.com/,,Marketing agency,,"New York, New York",,run2
+company,,,,(646) 762-1388,,New York AI Agency,https://www.aiagencyny.com/,,Marketing agency,,,,run2
+company,,,,(650) 781-3623,,Cobalt AI,https://www.cobaltai.com/,,Business to business service,,"San Francisco, California",,run2
+company,,,,,,Ai-i,https://tripleminds.co/development/ai-development-company/,,Software company,,"Elmhurst, New York",,run2
+company,,,,(415) 580-0085,,Personal AI,https://personal.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,(415) 842-4992,,test.ai,http://www.test.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,,,Blaze,http://blaze.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,,,Agentic AI Corporation,http://www.agentic.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,(415) 888-9185,,Ai Automation Agency 360,https://aiautomationagency360.com/,,Software company,,,,run2
+company,,,,(415) 449-4958,,AMDAi Solutions,https://amdaisolutions.com/,,Information services,,"San Francisco, California",,run2
+company,,,,(415) 340-0955,,SF AI Labs,https://sfailabs.com/,,Software company,,"San Francisco, California",,run2
+company,,,,(877) 679-0952,,"Mya Systems, Inc.",https://mya.com/,,Corporate office,,"San Francisco, CA",,run2
+company,,,,(413) 461-0309,,Obviously AI,https://www.obviously.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,(510) 508-9953,,Hayden AI Technologies,http://www.hayden.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,,,Automation Hero,https://automationhero.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,(415) 903-0235,,Spiral Scout – AI Implementation & Workflow Automation,https://spiralscout.com/?utm=gmb,,Software company,,"San Francisco, California",,run2
+company,,,,,,"AI, IoT Consulting & Offshore Software Development Company in the USA",https://www.fusioninformatics.com/,,Software company,,"San Francisco, California",,run2
+company,,,,(650) 549-5779,,Automat | AI Operations Automations,http://runautomat.com/,,Automation company,,"San Francisco, California",,run2
+company,,,,(408) 693-2166,,WE THINK AI - AI led Product and Platform Engineering Company,https://www.wethinkapp.com/,,Software company,,"San Francisco, California",,run2
+company,,,,(312) 777-4200,,Apple Lincoln Park,https://www.apple.com/retail/lincolnpark?cid=aos-us-seo-maps,,Electronics store,,"Chicago, Illinois",,run2
+company,,,,(773) 420-6354,,AI Automation Agency,https://croth982.github.io/ai-automation-agency/,,Automation company,,,,run2
+company,,,,(650) 333-8337,,SMS-iT,https://smsit.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,(513) 549-7355,,UFO Marketing,https://www.uforocks.com/,,Marketing agency,,,,run2
+company,,,,(773) 234-5301,,CyCobra AI,https://cycobra.com/,,Automation company,,,,run2
+company,,,,(425) 326-1090,,AI Data Innovations - Clover Building,http://www.aidatainnovations.com/,,Information services,,"Bellevue, Washington",,run2
+company,,,,(512) 817-0702,,SIERA.AI,https://siera.ai/,,Automation company,,"Austin, Texas",,run2
+company,,,,(214) 840-2000,,KPMG Plaza,http://kpmg.com/,,Accountant,,"Dallas, Texas",,run2
+company,,,,(855) 580-2875,,Gryphon AI,https://gryphon.ai/?utm_campaign=gmb,,Software company,,"Boston, Massachusetts",,run2
+company,,,,(888) 958-5846,,Gradient AI Corp,https://www.gradientai.com/,,Software company,,"Boston, Massachusetts",,run2
+company,,,,(617) 451-2828,,"AI Engineers, Inc (MA Branch Office)",http://www.aiengineers.com/,,Engineering consultant,,"Boston, Massachusetts",,run2
+company,,,,(617) 938-3866,,SEI-Boston,https://www.sei.com/,,Consultant,,"Boston, Massachusetts",,run2
+company,,,,(317) 254-0932,,SmallBox,http://www.smallbox.com/,,Design agency,,"Indianapolis, Indiana",,run2
+company,,,,(312) 602-4000,,West Monroe,https://www.westmonroe.com/offices/chicago,,Business management consultant,,"Chicago, Illinois",,run2
+company,,,,(617) 674-2074,,Northern Light,http://www.northernlight.com/,,Business management consultant,,"Boston, Massachusetts",,run2
+company,,,,(312) 329-0401,,Slalom Consulting,https://www.slalom.com/,,Business management consultant,,"Chicago, Illinois",,run2
+company,,,,(248) 579-3554,,Business AI Consulting LLC,https://businessaiconsulting.com/,,Business management consultant,,,,run2
+company,,,,(617) 762-5230,,Omadli Group,https://omadligroup.com/,,Business management consultant,,"Boston, Massachusetts",,run2
+company,,,,(877) 594-6365,,Responsive Advisors,https://responsiveadvisors.com/,,Business management consultant,,"Chicago, Illinois",,run2
+company,,,,(503) 298-4673,,Northwest AI Consulting,https://nwai.co/,,Consultant,,,,run2
+company,,,,(415) 989-2522,,San Francisco Business Times,https://www.bizjournals.com/sanfrancisco/,,Newspaper publisher,,"San Francisco, California",,run2
+company,,,,(206) 919-5853,,Intelligent Automation Consulting LLC,http://www.iaconsults.com/,,Consultant,,"Seattle, Washington",,run2
+company,,,,,,Acerca.ai,https://www.acerca.ai/,,Software company,,"Seattle, Washington",,run2
+company,,,,(206) 295-9310,,Mobcoder | Top AI Development Company in Seattle,https://mobcoder.com/,,Software company,,"Seattle, Washington",,run2
+company,,,,,,Bee Partners,https://www.beepartners.vc/,,Venture capital company,,"San Francisco, California",,run2
+company,,,,(206) 447-9551,,"Blink UX - AI Strategy, UX Research, Product Design",https://blinkux.com/,,Design agency,,"Seattle, Washington",,run2
+company,,,,(650) 314-6400,,"MindSource, Inc.",http://www.mindsource.com/,,Software company,,"Mountain View, California",,run2
+company,,,,,,"Apptronik, Inc.",http://www.apptronik.com/,,Automation company,,"Austin, Texas",,run2
+company,,,,(815) 614-8480,,"CodeAutomation.AI LLC | Custom Software, Mobile App and Web Development Company in Chicago, USA",https://codeautomation.ai/,,Software company,,"Naperville, Illinois",,run2
+company,,,,(702) 302-4406,,Alliance Virtual Offices,https://www.alliancevirtualoffices.com/,,Virtual office rental,,"Henderson, Nevada",,run2
+company,,,,(800) 511-1815,,Silicon Spectra,https://siliconspectra.com/,,Software company,,"Santa Clara, California",,run2
+company,,,,,,TQA,https://tqa.ai/,,Automation company,,"Austin, Texas",,run2
+company,,,,(331) 246-6307,,"The R Hub, LLC",https://www.therhub.com/,,Automation company,,,,run2
+company,,,,(773) 399-9537,,Chicago AI,https://chicagoai.io/,,Software company,,,,run2
+company,,,,(310) 421-8638,,AIM Tech AI,https://www.aimtechai.com/,,Software company,,"Beverly Hills, California",,run2
+company,,,,(312) 767-1774,,Why of AI,https://www.whyofai.com/,,Business management consultant,,,,run2
+company,,,,(708) 722-2201,,Ashling,http://www.ashling.ai/,,Information services,,"Chicago, Illinois",,run2
+company,,,,(213) 376-5724,,"App Makers LA | App, Web, AI & Software Development",http://www.appmakersla.com/,,Software company,,"Los Angeles, California",,run2
+company,,,,(323) 285-1618,,IV.AI,https://iv.ai/,,Software company,,"Los Angeles, California",,run2
+company,,,,,,Growthentic AI Consulting,https://growthenticai.com/,,Consultant,,,,run2
+company,,,,,,Duckie HQ,https://duckie.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,(312) 970-9575,,MediaJoy AI Automation,https://mediajoyai.com/,,Automation company,,"Chicago, Illinois",,run2
+company,,,,(847) 421-7617,,A.I. Smith Consulting,https://aismithconsulting.com/,,Business to business service,,,,run2
+company,,,,(703) 956-5193,,a37,https://a37.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,(415) 409-0810,,Rapp It Up Solutions,http://www.rappitupsolutions.com/,,Accounting firm,,"San Francisco, California",,run2
+company,,,,(916) 425-7724,,RMA Consulting,http://www.rmaconsultinggroup.com/,,Business management consultant,,"Sacramento, California",,run2
+company,,,,(213) 732-2779,,Los Angeles AI Agency,https://www.aiagencyla.com/,,Marketing agency,,,,run2
+company,,,,(925) 954-0100,,RGP LLP,http://www.rgpllp.com/,,Certified public accountant,,"Pleasant Hill, California",,run2
+company,,,,(510) 527-8500,,The RP Group,http://rpgroup.org/,,Educational consultant,,"Sacramento, California",,run2
+company,,,,(847) 272-7400,,Wiss Janney Elstner Associates Inc,http://www.wje.com/,,Engineering consultant,,"Northbrook, Illinois",,run2
+company,,,,(650) 429-8605,,Hacker Dojo,https://hackerdojo.org/,,Coworking space,,"Mountain View, California",,run2
+company,,,,(408) 755-3000,,ACL Digital,https://www.acldigital.com/,,Software company,,"San Jose, California",,run2
+company,,,,(415) 529-7680,,PA Consulting (formerly Cooper Perkins),http://cooperperkins.com/,,Engineering consultant,,"San Francisco, California",,run2
+company,,,,(415) 644-8983,,ExperienceFlow Software Technologies,http://www.experienceflow.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,(214) 233-6117,,RPA Consulting Services,http://rpaconsultingservices.net/,,Business management consultant,,"Arlington, Texas",,run2
+company,,,,,,Lightfield,https://lightfield.app/,,Software company,,"San Francisco, California",,run2
+company,,,,(832) 444-1653,,Sixtyfour AI,https://www.sixtyfour.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,(510) 488-4345,,"RDA Consulting, SPC",http://www.rdaconsulting.com/,,Consultant,,"Oakland, California",,run2
+company,,,,(925) 820-2000,,"Amick Brown, LLC",https://www.amickbrown.com/,,Computer service,,"San Ramon, California",,run2
+company,,,,,,Cerebral Valley,https://cerebralvalley.ai/about,,Association / Organization,,"San Francisco, California",,run2
+company,,,,(415) 650-5544,,Rapid Robotics,https://rapidrobotics.com/,,Automation company,,"San Francisco, California",,run2
+company,,,,(408) 251-0400,,RAS Business Services,http://www.rastax.com/,,Tax preparation service,,"San Jose, California",,run2
+company,,,,,,Scale AI,https://scale.com/,,Software company,,"San Francisco, California",,run2
+company,,,,(415) 369-8440,,Resources Global Professionals,http://www.rgp.com/,,Business management consultant,,"San Francisco, California",,run2
+company,,,,(408) 859-1614,,Insync,https://www.insyncai.com/,,Software company,,"San Jose, California",,run2
+company,,,,(628) 288-9392,,Neuralogics,https://neuralogics.com/,,Software company,,"San Francisco, California",,run2
+company,,,,,,Giga,https://giga.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,(510) 413-3270,,"Sansa Technology LLC — Leading Experts in AI, Machine Learning, and Data Science",https://www.sansatechnology.net/,,Computer training school,,"Milpitas, California",,run2
+company,,,,,,Inworld AI,https://inworld.ai/,,Software company,,"Mountain View, California",,run2
+company,,,,(510) 834-4747,,RPS,https://www.rpsgroup.com/,,Consultant,,"Mountain View, California",,run2
+company,,,,(212) 901-8616,,WildnetEdge | Software Development Company in USA,https://www.wildnetedge.com/,,Software company,,"Lewes, Delaware",,run2
+company,,,,(347) 518-1200,,ChatLabs,https://www.chatlabs.com/,,Software company,,"New York, New York",,run2
+company,,,,,,"OpenAI, Inc.",https://openai.com/,,Software company,,"San Francisco, California",,run2
+company,,,,,,Chatbot Builder AI,https://www.baggottsbots.com/,,Marketing agency,,,,run2
+company,,,,(415) 324-4156,,Standard Cognition,https://www.standard.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,,,TrainLoop,https://trainloop.ai/,,Software company,,"San Francisco, California",,run2
+company,,,,,,The AI Consulting Lab,https://theaiconsultinglab.com/,,Marketing agency,,,,run2
+company,,,,,http://www.linkedin.com/company/rippey,Rippey AI,http://www.rippey.ai,http://www.linkedin.com/company/rippey,logistics & supply chain,54,"Louisville, Colorado",,run1
+company,,,,,http://www.linkedin.com/company/im-power-ai,Impower.ai,http://www.impowerconsulting.ai,http://www.linkedin.com/company/im-power-ai,information technology & services,60,"Columbus, Ohio",,run1
+company,,,,,http://www.linkedin.com/company/tquila-automation,TQA,http://www.tqasolutions.com,http://www.linkedin.com/company/tquila-automation,information technology & services,200,"Austin, Texas",,run1
+company,,,,,http://www.linkedin.com/company/rezolveai,Rezolve AI,http://www.rezolve.ai,http://www.linkedin.com/company/rezolveai,information technology & services,140,"Dublin, California",,run1
+company,,,,,http://www.linkedin.com/company/strategic-systems-inc-,Strategic Systems Inc,http://www.strategicsystems.io,http://www.linkedin.com/company/strategic-systems-inc-,information technology & services,410,"Dublin, Ohio",,run1
+company,,,,,http://www.linkedin.com/company/cosoit,COSO IT - A Big Data & AI Company,http://www.cosoit.com,http://www.linkedin.com/company/cosoit,information technology & services,140,"Gaithersburg, Maryland",,run1
+company,,,,,http://www.linkedin.com/company/austin-artificial-intelligence-inc,"Austin Artificial Intelligence, Inc.",http://www.austinai.io,http://www.linkedin.com/company/austin-artificial-intelligence-inc,information technology & services,21,"Bee Cave, Texas",,run1
+company,,,,,http://www.linkedin.com/company/women-in-data,Women In Data™️,http://www.womenindata.org,http://www.linkedin.com/company/women-in-data,nonprofit organization management,93,"Sacramento, California",,run1
+company,,,,,http://www.linkedin.com/company/epirus,Epirus,http://www.epirusinc.com,http://www.linkedin.com/company/epirus,defense & space,240,"Torrance, California",,run1
+company,,,,,http://www.linkedin.com/company/keasis,Keasis,http://www.keasis.com,http://www.linkedin.com/company/keasis,information technology & services,57,"Jersey City, New Jersey",,run1
+company,,,,,http://www.linkedin.com/company/mindstream-consulting,MindStream - Artificial Intelligence for Everyone,http://www.mindstream.ai,http://www.linkedin.com/company/mindstream-consulting,information technology & services,14,"San Jose, California",,run1
+company,,,,,http://www.linkedin.com/company/brim-labs,Brim Labs,http://www.brimlabs.ai,http://www.linkedin.com/company/brim-labs,information technology & services,27,,,run1
+company,,,,,http://www.linkedin.com/company/cz-biohub,Biohub,http://www.biohub.org,http://www.linkedin.com/company/cz-biohub,research,300,"Redwood City, California",,run1
+company,,,,,http://www.linkedin.com/company/immunai,Immunai,http://www.immunai.com,http://www.linkedin.com/company/immunai,research,180,"New York, New York",,run1
+company,,,,,http://www.linkedin.com/company/annet-technologies,The Annet Group,http://www.annet.com,http://www.linkedin.com/company/annet-technologies,information technology & services,480,"Dallas, Texas",,run1
+company,,,,,http://www.linkedin.com/company/enquero,Enquero,http://www.enquero.com,http://www.linkedin.com/company/enquero,information technology & services,350,"Milpitas, California",,run1
+company,,,,,http://www.linkedin.com/company/onward-robotics,Onward Robotics,http://www.onwardrobotics.com,http://www.linkedin.com/company/onward-robotics,logistics & supply chain,140,"Pittsburgh, Pennsylvania",,run1
+company,,,,,http://www.linkedin.com/company/wonderbotz,WonderBotz,http://www.wonderbotz.com,http://www.linkedin.com/company/wonderbotz,information technology & services,330,"Princeton, New Jersey",,run1
+company,,,,,http://www.linkedin.com/company/aihealthmit,MIT Jameel Clinic,http://jclinic.mit.edu,http://www.linkedin.com/company/aihealthmit,higher education,25,"Cambridge, Massachusetts",,run1
+company,,,,,http://www.linkedin.com/company/avistos,Avistos,http://www.avistos.com,http://www.linkedin.com/company/avistos,information technology & services,230,"Princeton, New Jersey",,run1
+company,,,,,http://www.linkedin.com/company/krista-ai,Krista,http://www.krista.ai,http://www.linkedin.com/company/krista-ai,information technology & services,150,"Dallas, Texas",,run1
+company,,,,,http://www.linkedin.com/company/trytelescope,Telescope,http://www.trytelescope.io,http://www.linkedin.com/company/trytelescope,information technology & services,13,"San Francisco, California",,run1
+company,,,,,http://www.linkedin.com/company/hiredscore,HiredScore,http://www.hiredscore.com,http://www.linkedin.com/company/hiredscore,information technology & services,46,"New York, New York",,run1
+company,,,,+372 699 1531,,Serokell,https://serokell.io/,,Software company,,Tallinn,,run1
+company,,,,(206) 576-0400,,Logic20/20 Consulting,http://www.logic2020.com/,,Business management consultant,,"Seattle, Washington",,run1
+company,,,,+46 8 508 842 00,,IMS Health Sweden AB,https://www.iqvia.com/locations/nordics,,Consultant,,Stockholm,,run1
+company,,,,+46 8 23 45 00,,Buzzcloud AB,http://www.buzzcloud.se/,,Computer consultant,,Stockholm,,run1
+company,,,,+46 8 645 84 00,,AI Utbildningscentrum (AIUC),https://www.aiuc.se/,,Educational consultant,,Stockholm,,run1
+company,,,,+46 8 555 162 00,,Ampliro,https://www.ampliro.com/,,Business management consultant,,Stockholm,,run1
+company,,,,+46 8 700 66 00,,Knowit,https://www.knowit.eu/,,Consultant,,Östersund,,run1
+company,,,,,,Hyperight AB,http://www.hyperight.com/,,Event management company,,Stockholm,,run1
+company,,,,+46 76 136 37 54,,AFRY Experience Studios,https://afry.com/en/area/afry-experience-studios,,Consultant,,Stockholm,,run1
+company,,,,+46 31 339 39 00,,Infotiv,http://www.infotiv.se/,,Engineering consultant,,Gothenburg,,run1
+company,,,,+46 70 754 42 82,,Nordigate,https://nordigate.com/,,Software company,,Linköping,,run1
+company,,,,,,Rital AI,https://rital.ai/,,Consultant,,Stockholm,,run1
+company,,,,+46 8 420 026 27,,Digisource Consulting Ab,http://www.digisourceconsulting.com/,,Computer support and services,,Stockholm,,run1
+company,,,,+46 8 520 275 27,,Echo State AB,https://echostate.se/,,Consultant,,Stockholm,,run1
+company,,,,+46 70 939 56 52,,Codon Consulting,http://www.codon.se/,,Computer consultant,,Stockholm,,run1
+company,,,,+47 95 24 86 79,,AI experts,https://aiexperts.no/,,Software company,,Arendal,,run1
+company,,,,+46 8 414 002 97,,Modulai AB - The Machine Learning Agency,http://www.modulai.io/,,Software company,,Stockholm,,run1
+company,,,,,,Cartina AB,http://www.cartina.se/,,Consultant,,Stockholm,,run1
+company,,,,+46 70 308 50 86,,Predli Consulting AB,https://www.predli.com/,,Business management consultant,,Stockholm,,run1
+company,,,,+46 8 403 055 00,,Diabol AB,https://diabol.se/,,Consultant,,Stockholm,,run1
+company,,,,(360) 576-5976,,"Instructional Technologies, Inc.",http://www.instructiontech.net/,,Software company,,"Vancouver, Washington",,run1
+company,,,,,,Databricks - Bellevue,https://databricks.com/,,Software company,,"Bellevue, Washington",,run1
+company,,,,(800) 580-4640,,Learning.com,http://www.learning.com/,,Software company,,"Portland, Oregon",,run1
+company,,,,(877) 264-6424,,Collabera,https://www.collabera.com/,,Software company,,"Seattle, Washington",,run1
+company,,,,(206) 783-5542,,Divers Institute of Technology,https://www.diversinstitute.edu/,,Technical school,,"Seattle, Washington",,run1
+company,,,,(425) 526-5399,,MAQ Software,https://www.maqsoftware.com/,,Software company,,"Redmond, Washington",,run1
+company,,,,,,Groundlight AI,https://www.groundlight.ai/,,Software company,,"Seattle, Washington",,run1
+company,,,,(206) 771-9774,,Augmented AI Labs,https://www.augmentedailabs.com/,,Software company,,"Seattle, Washington",,run1
+company,,,,,,OctoAI,http://octo.ai/,,Software company,,"Seattle, Washington",,run1
+company,,,,(800) 292-1450,,"Janea Systems, Inc.",http://janeasystems.com/,,Software company,,"Seattle, Washington",,run1
+company,,,,(206) 659-1726,,Seattle Makers,http://seattlemakers.org/,,Makerspace,,"Seattle, Washington",,run1
+company,,,,,,AI2 Incubator,http://ai2incubator.com/,,Corporate office,,"Seattle, Washington",,run1
+company,,,,(425) 276-8400,,Koidra,https://www.koidra.ai/,,Software company,,"Seattle, Washington",,run1
+company,,,,(206) 331-4648,,Machinists Institute Tukwila,https://www.machinistsinstitute.org/,,Trade school,,"Tukwila, Washington",,run1
+company,,,,(415) 239-1510,,Power Applications and Research Systems Inc.,http://parsenergy.com/,,Power plant consultant,,"San Francisco, California",,run1
+company,,,,+48 515 138 631,,ND Labs - Blockchain and AI Business Solutions,https://ndlabs.dev/,,Software company,,"New York, New York",,run1
+company,,,,(415) 395-9395,,"PKR Consulting, Inc.",http://www.pkrconsulting.com/,,Business management consultant,,"San Francisco, California",,run1
+company,,,,(925) 759-7308,,Machine Learning Recipes,https://www.machinelearningrecipes.com/,,Publisher,,"Issaquah, Washington",,run1
+company,,,,+7 951 061-25-77,,ArduBlock,http://ardublock.ru/,,Software company,,"Bellevue, Washington",,run1
+company,,,,(917) 477-8991,,iQlance Solutions - App Developers New York,https://www.iqlance.com/new-york-mobile-app-developers/,,Software company,,"New York, New York",,run1
+company,,,,(408) 549-5015,,Bytes Technolab Inc - AI ML Development Company,https://www.bytestechnolab.com/?utm_source=googlemybusiness&utm_medium=gmb&utm_campaign=google_my_business_bergenfield_newJersey,,Software company,,"Bergenfield, New Jersey",,run1
+company,,,,,,SwiftERM NY AI Hyper-personalization for ecommerce email,http://www.swifterm.com/,,Software company,,"New York, New York",,run1
+company,,,,(646) 586-3891,,ZSI.AI,https://zsi.ai/,,Software company,,"Jackson Heights, NY",,run1
+company,,,,(315) 715-8494,,Evince Development - AI & Software Development Company,https://evincedev.com/,,Software company,,"New York, New York",,run1
+company,,,,(917) 746-0700,,AIS Technolabs- Software & App Development Company in New York | Web Design & Development,https://www.aistechnolabs.com/,,Software company,,"New York, New York",,run1
+company,,,,(646) 571-3497,,App Development Companies,https://appdevelopmentcompanies.co/,,Software company,,"New York, New York",,run1
+company,,,,(646) 466-4369,,Agicent App Company NYC,https://www.agicent.com/,,Software company,,"New York, New York",,run1
+company,,,,(305) 363-3800,,ExaCare AI,https://www.exacare.com/,,Software company,,"New York, New York",,run1
+company,,,,(202) 630-4276,,"Saigon Technology - AI-Driven Software Development Company in Virginia, USA",https://saigontechnology.com/us?utm_source=google_business&utm_medium=organic&utm_campaign=usa,,Software company,,"Reston, Virginia",,run1
+company,,,,(833) 442-2270,,Trango Tech New York - Mobile App development Company,https://trangotech.com/mobile/app-development-new-york-city/?utm_source=GMB&utm_medium=GMB+NYC&utm_campaign=GMB+NYC,,Software company,,"New York, New York",,run1
+company,,,,(347) 973-9732,,"Digiprima Technologies | AI Software Development Company in New York, USA",https://www.digiprima.com/contact,,Software company,,"New York, New York",,run1
+company,,,,(347) 523-4480,,Reality AI,https://reality.ai/,,Software company,,"New York, New York",,run1
+company,,,,(309) 791-4105,,Hyperlink Infosystem,https://www.hyperlinkinfosystem.com/,,Software company,,"New York, New York",,run1
+company,,,,(320) 207-0610,,Wow AI LLC (Wow AI Limited Liability Company).,https://wow-ai.com/,,Software company,,"Astoria, New York",,run1
+company,,,,(571) 293-0242,,ibl.ai,https://ibl.ai/,,Software company,,"New York, New York",,run1
+company,,,,(510) 412-2260,,Rpa,https://www.richmondprogressivealliance.net/honoring_the_memory_of_bobby_bowens,,Association / Organization,,"Richmond, California",,run1
+company,,,,(929) 346-7045,,Takeo.AI,https://www.takeo.ai/,,Software company,,"New York, New York",,run1
+company,,,,(510) 646-1080,,REANA Consulting Inc.,https://www.reanaconsulting.com/contact-us,,Business management consultant,,"Alameda, California",,run1
+company,,,,(800) 362-9239,,RevAI - AI Development Company in New York,https://ai.tekrevol.com/,,Software company,,"New York, New York",,run1
+company,,,,(844) 325-2729,,Pariveda,https://www.parivedasolutions.com/solutions,,Business management consultant,,"San Francisco, California",,run1
+company,,,,(916) 920-5965,,R & A Engineering Solutions,http://ra-solutions.com/,,Mechanical engineer,,"Sacramento, California",,run1
+company,,,,,,Focusi.ai,https://focusi.ai/,,Software company,,"Weehawken Township, New Jersey",,run1
+company,,,,(415) 771-8877,,PCA Consulting Group,http://pcacg.com/,,Business management consultant,,"San Francisco, California",,run1
+company,,,,(415) 429-8565,,VRP Consulting — Salesforce Consulting Partner,https://vrpconsulting.com/,,Software company,,"San Francisco, California",,run1
+company,,,,(206) 525-8324,,Progressive Tech,http://www.progressivetech.com/,,Computer repair service,,"Seattle, Washington",,run1
+company,,,,,,Flyaps: AI-First Software Development Company in NYC,https://flyaps.com/software-development-new-york/,,Software company,,"New York, New York",,run1
+company,,,,(415) 487-6787,,PA Consulting (formerly Astro Studios),http://www.astrostudios.com/,,Consultant,,"San Francisco, California",,run1
+company,,,,,,MinnaLearn,http://minnalearn.com/,,Corporate office,,Helsinki,,run1
+company,,,,(408) 748-1788,,iOPEX Technologies HQ,https://www.iopex.com/,,Automation company,,"San Jose, California",,run1
+company,,,,(650) 473-0122,,ExcelRated Automation,http://excelrated.com/,,Automation company,,"Fremont, California",,run1
+company,,,,(925) 587-4249,,Pravaah Consulting,http://www.pravaahconsulting.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12187281892671960981,,Software company,,"Dublin, California",,run1
+company,,,,(925) 498-8921,,Full Spectrum Technology Group,https://www.fullspectrumtg.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing,,Home automation company,,"Concord, California",,run1
+company,,,,(707) 578-5882,,Automated Solutions Inc,https://www.automatedsolutions.com/,,Software company,,"Santa Rosa, California",,run1
+company,,,,(925) 785-4476,,Scale Modern Business Solutions LLC,https://scalembs.com/,,Automation company,,"San Ramon, California",,run1
+company,,,,(818) 267-8324,,"Electroslag Welding Technology; Cortech Industries, LLC",http://www.cortechind.com/,,Automation company,,"Fairfield, California",,run1
+company,,,,(855) 472-5436,,"Salient Process, Inc.",https://salientprocess.com/,,Business management consultant,,"Carmichael, California",,run1
+company,,,,(866) 322-0222,,Automize,https://getautomized.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_main,,Automation company,,,,run1
+company,,,,(650) 449-9011,,"Falco Automation, LLC",http://www.falcoautomation.com/,,Automation company,,"San Carlos, California",,run1
+company,,,,(888) 484-3535,,Automation Anywhere,http://www.automationanywhere.com/,,Automation company,,"San Jose, California",,run1
+company,,,,(215) 745-0949,,Process Street,https://www.process.st/,,Software company,,"San Francisco, CA",,run1
+company,,,,(408) 454-8378,,BatchTest,https://batchtest.com/,,Automation company,,"Santa Clara, California",,run1
+company,,,,(855) 202-1444,,E Tech Group,http://www.etechgroup.com/,,Automation company,,"Sacramento, California",,run1
+company,,,,,,Lucid Automation and Security - Headquarters,https://lucidautomation.net/,,Automation company,,"Novato, California",,run1
+company,,,,(714) 328-3844,,Business Process Automation,https://www.bpaco.net/about,,Consultant,,"Las Vegas, Nevada",,run1
+company,,,,(707) 396-4048,,Tech4U,https://www.tech4u.solutions/,,Home automation company,,"Santa Rosa, California",,run1
+company,,,,(512) 961-8313,,Automated Concepts Inc.,http://www.totallyautomated.com/contact-us.html,,Software company,,"Austin, Texas",,run1
+company,,,,(512) 837-9400,,"Austin AI, Inc.",http://www.austinai.com/,,Manufacturer,,"Austin, Texas",,run1
+company,,,,(713) 589-6962,,Advanced Electronic Systems,http://www.aesht.com/,,Home automation company,,"Houston, Texas",,run1
+company,,,,(469) 874-0514,,AI Agent LLC,https://theaidealer.com/,,Software company,,"Plano, Texas",,run1
+company,,,,(512) 795-4242,,AV Automation,http://www.avautomation.com/,,Home theater store,,"Lakeway, Texas",,run1
+company,,,,,,Automation Champion LLC,https://automationchampion.com/,,Software company,,,,run1
+company,,,,(737) 276-3262,,Automation Experts LLC,http://www.automationexperts.biz/,,Software company,,"Austin, Texas",,run1
+company,,,,(281) 410-5663,,"Fully Automated Custom Solutions, LLC",http://www.fullyautomated.us/,,Home automation company,,,,run1
+company,,,,(415) 699-5858,,HubBase,http://www.hubbase.io/,,Website designer,,,,run1
+company,,,,(281) 980-7184,,Applied Automation & Controls Inc,http://www.aaacinc.com/,,Engineering consultant,,"Stafford, Texas",,run1
+company,,,,,,Chatwoot Inc,http://www.chatwoot.com/,,Corporate office,,"San Francisco, California",,run1
+company,,,,(832) 838-7580,,nurtureBEAST,https://www.nurturebeast.com/,,Software company,,,,run1
+company,,,,+1 289-301-9052,,AI Automations Canada,https://www.aiautomationagency.ca/,,Software company,,,,run1
+company,,,,(408) 320-7968,,CHAI,https://www.chai-research.com/,,Software company,,"Palo Alto, California",,run1
+company,,,,(415) 635-9877,,Anablock,https://www.anablock.com/,,Software company,,"San Francisco, California",,run1
+company,,,,(510) 214-4031,,Capital Numbers LLC,https://www.capitalnumbers.com/,,Software company,,"San Francisco, California",,run1
+company,,,,(415) 594-0097,,SDLC Corp,https://www.sdlcorp.com/,,Software company,,"San Francisco, California",,run1
+company,,,,(224) 382-3415,,Nova Era - Web Design & Digital Solutions Agency,https://novaeraagency.com/,,Software company,,"San Francisco, California",,run1
+company,,,,(415) 741-5080,,Botsociety Inc.,https://botsociety.io/,,Software company,,"San Francisco, California",,run1
+company,,,,(650) 332-2067,,Invisible Technologies,https://invisibletech.ai/,,Software company,,"San Francisco, California",,run1
+company,,,,(877) 992-2235,,Accelerance,http://www.accelerance.com/,,Software company,,"Redwood City, California",,run1
+company,,,,(650) 865-1800,,LITSLINK,https://litslink.com/,,Software company,,"Palo Alto, California",,run1
+company,,,,(669) 205-6902,,Top Software Company in California USA | AI Agent | AI/ML | Gen AI | UX | Product Development,https://47billion.com/,,Software company,,"Santa Clara, California",,run1
+company,,,,,,BotStacks,https://www.botstacks.ai/,,Software company,,"San Francisco, California",,run1
+company,,,,(415) 498-1329,,"Kodexo Labs San Francisco - AI, Custom Software and Mobile App Development Company San Francisco",https://kodexolabs.com/locations/mobile-app-development-san-francisco/,,Software company,,"San Francisco, California",,run1
+company,,,,(501) 765-4761,,Autonomize Inc.,https://www.autonomize.ai/,,Software company,,"Austin, Texas",,run1
+company,,,,(748) 354-6629,,DxMinds Technologies - Hire Software Developers | Mobile App Development Company in San Francisco,https://dxminds.com/,,Software company,,"San Francisco, California",,run1
+company,,,,(650) 398-0131,,HIPAA Compliant Chatbot Apps,https://www.logica7.com/contact,,Software company,,"Los Altos, California",,run1
+company,,,,(830) 580-3077,,Kommo,https://www.kommo.com/?utm_source=google&utm_campaign=gmb&utm_medium=organic&utm_content=main,,Software company,,"San Francisco, California",,run1
+company,,,,(628) 209-9317,,mTraction Enterprise,https://www.mtractionenterprise.com/,,Software company,,"San Francisco, California",,run1
+company,,,,(857) 262-9097,,StackAI,https://www.stack-ai.com/,,Software company,,"San Francisco, California",,run1
+company,,,,(210) 761-5509,,Ai Agency San Antonio,https://aiagencysanantonio.com/,,Marketing agency,,"San Antonio, Texas",,run1
+company,,,,(949) 864-9322,,Accurate Automation and Controls,https://www.aac-tx.com/,,Automation company,,"San Antonio, Texas",,run1
+company,,,,(512) 396-1223,,"Automation Designs, Inc.",http://automationdesignsinc.com/,,Home automation company,,"San Marcos, Texas",,run1
+company,,,,(210) 953-6673,,A.I. Automation Labs,https://aiautomationlabs.net/?utm_source=gbp,,Marketing agency,,"San Antonio, Texas",,run1
+company,,,,(281) 879-9505,,Automation International,http://www.ail-us.com/,,Corporate office,,"Stafford, Texas",,run1
